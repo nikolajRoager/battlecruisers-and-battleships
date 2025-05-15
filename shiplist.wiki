@@ -1,0 +1,1541 @@
+{{Short description|none}}
+{{Unreferenced|date=April 2025}}
+
+The '''list of battleships''' includes all [[battleship]]s built between the late 1880s and 1946, beginning roughly with the first [[pre-dreadnought battleship]]s, which are usually defined as the British {{sclass|Royal Sovereign|battleship|4}} or {{sclass|Majestic|battleship|4}}.{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=32}} [[Dreadnought]]s and [[fast battleship]]s are also included. Earlier armored [[capital ship]]s (built between the 1850s and 1880s) are found at the [[list of ironclads]], along with the list included at [[coastal defence ship]].
+
+Cancelled ships that began construction are included, but projects that were not laid down, such as the French {{sclass|Lyon|battleship|4}}, or were purely design studies, like the German [[L 20e α-class battleship|L 20e α-class]], are not included.
+
+== Key ==
+{| class="wikitable plainrowheaders" style="float: left; margin: 0 0 0 1em;"
+|+ Key
+|- style="background:#FFEBAD;"
+| This color indicates ships that were cancelled
+|- style="background:#cedbec;"
+| This color indicates ships that were converted to another ship type
+|}
+{{Clear|left}}
+
+==List==
+{|class="wikitable sortable" border="1" style="width:100%"
+|-
+!scope="col" |Name
+!scope="col" |Launched
+!scope="col" |Class
+!scope="col" |Type
+!scope="col" |Operator
+!scope="col" |Fate
+|-
+| {{SMS|Árpád||2}} || 1901-09-11{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=272}} ||{{sclass|Habsburg|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Austria-Hungary}}
+|Awarded to UK 1920, scrapped 1921{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=272}}
+|-
+| {{HMS|Africa|1905|2}} || 1904-05-20{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=38}} ||{{sclass|King Edward VII|battleship|4}}||[[Pre-dreadnought|Semi-dreadnought]]||{{navy|United Kingdom}}|| Broken up, 1920{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=38}}
+|-
+| {{HMS|Agamemnon|1906|3}} || 1906-06-23{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=40}} ||{{sclass|Lord Nelson|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|United Kingdom}}|| Broken up, 1927{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=40}}
+|-
+| {{HMS|Agincourt|1913|3}} || 1913-01-22 || ||
+|[[Dreadnought]]||{{navy|United Kingdom}}|| Ex-Ottoman ''Sultân Osmân-ı Evvel'', former Brazilian ''Rio de Janeiro'', seized near completion, 31 July 1914
+|-
+| {{HMS|Ajax|1912|3}} || 1912-03-21 ||{{sclass|King George V|battleship (1911)|4}} (1911)
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}||
+|-
+| {{ship|Japanese battleship|Aki||2}} || 1907-04-15{{sfn|Gardiner|Gray|1985|p=228}} ||{{sclass|Satsuma|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|Empire of Japan}}||Sunk as target, 2 September 1924{{sfn|Gardiner|Gray|1985|p=228}}
+|-
+| {{USS|Alabama|BB-8|3}} || 1898-05-18{{sfn|Friedman|1985|p=419}} ||{{sclass|Illinois|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United States|1912}}|| Broken up, 1924{{sfn|Friedman|1985|p=419}}
+|-
+| {{USS|Alabama|BB-60|3}} || 1942-02-16 ||{{sclass|South Dakota|battleship (1939)|4}}
+|[[Fast battleship]]||{{navy|United States|1912}}||Museum ship at [[Battleship Memorial Park]] in [[Mobile Bay]]
+|-
+| {{HMS|Albemarle|1901|2}} || 1901-03-05{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}} ||{{sclass|Duncan|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United Kingdom}}|| Broken up, 1919{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}}
+|-
+| {{HMS|Albion|1898|2}} || 1898-06-21{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=35}} ||{{sclass|Canopus|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United Kingdom}}||Broken up, 1919{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=35}}
+|-
+| {{ship|Spanish battleship|Alfonso XIII||2}} || 1913-05-07{{sfn|Gardiner|Gray|1985|p=378}} ||{{sclass|España|battleship|4}}
+|[[Dreadnought]]||{{navy|Spain|1785}}
+|Sunk by mines, 30 April 1937{{sfn|Gardiner|Gray|1985|p=378}}
+|- style="background:#cedbec;"
+|{{ship|Chilean battleship|Almirante Cochrane||2}}
+|1918-06-08{{sfn|Gardiner|Gray|1985|p=70}}
+|{{sclass|Almirante Latorre|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]
+|{{navy|Chile}}
+|Sold incomplete to UK, converted to aircraft carrier {{HMS|Eagle|1918|2}}{{sfn|Gardiner|Gray|1985|p=408}}
+|-
+|{{ship|Chilean battleship|Almirante Latorre||2}}|| 1913-11-17{{sfn|Gardiner|Gray|1985|p=408}} ||{{sclass|Almirante Latorre|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]
+|{{navy|Chile}}|| Sold incomplete to UK, 9 September 1914, renamed ''Canada''; repurchased as ''Almirante Latorre'', April 1920; broken up, 1959{{sfn|Gardiner|Gray|1985|p=408}}
+|-
+| {{ship|Italian battleship|Ammiraglio di Saint Bon||2}} || 1897-04-29 ||{{sclass|Ammiraglio di Saint Bon|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Kingdom of Italy}}
+| 
+|-
+| {{ship|Italian battleship|Andrea Doria|1913|2}}|| 1913-03-30 ||{{sclass|Andrea Doria|battleship|4}}
+|[[Dreadnought]]
+|{{navy|Kingdom of Italy}}|| 
+|-
+| {{ship|Russian battleship|Andrei Pervozvanny||2}} || 1906-10-30 ||{{sclass|Andrei Pervozvanny|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|Russian Empire}}||Inoperative at [[Kronstadt]] 1919
+|-
+| {{HMS|Anson|79|2}} || 1940-02-24 ||{{sclass|King George V|battleship (1939)|4}} (1939)
+|[[Fast battleship]]||{{navy|United Kingdom}}||Ex-''Jellicoe''
+|-
+| {{USS|Arizona|BB-39|2}}|| 1915-06-19{{sfn|Friedman|1985|p=420}} ||{{sclass|Pennsylvania|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United States|1912}}
+|Sunk at Pearl Harbor, 1941{{sfn|Friedman|1985|p=420}}
+|-
+| {{USS|Arkansas|BB-33|2}}|| 1911-01-14{{sfn|Friedman|1985|p=420}} ||{{sclass|Wyoming|battleship|4}}
+|[[Dreadnought]]||{{navy|United States|1912}}
+|Sunk at Bikini Atoll in nuclear weapons test [[Operation Crossroads]], 1946{{sfn|Friedman|1985|p=420}}
+|-
+|-
+| {{ship|Japanese battleship|Asahi||2}} || 1899-03-13{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=222}} || 
+|[[Pre-dreadnought]]||{{navy|Empire of Japan}}
+|Sunk by {{USS|Salmon|SS-182|6}}, 25 May 1942{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=222}}
+|-
+| {{HMS|Audacious|1912|3}} || 1912-09-14 ||{{sclass|King George V|battleship (1911)|4}} (1911)
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}||Mined off [[Tory Island]], 27 Oct 1914
+|-
+|{{ship|Russian battleship|Chesma|1886|2}}
+|1886-05-18
+|{{sclass|Ekaterina II|battleship|4}}
+|[[Barbette#Use in warships|Barbette ship]]
+|{{navy|Russian Empire}}
+|
+|-
+|{{ship|Russian battleship|Ekaterina II||2}}
+|1886-05-20
+|{{sclass|Ekaterina II|battleship|4}}
+|[[Barbette#Use in warships|Barbette ship]]
+|{{navy|Russian Empire}}
+|
+|-
+|{{ship|Russian battleship|Georgii Pobedonosets||2}}
+|1892-03-09
+|{{sclass|Ekaterina II|battleship|4}}
+|[[Barbette#Use in warships|Barbette ship]]
+|{{navy|Russian Empire}}
+|
+|-
+|{{ship|Russian battleship|Imperator Aleksandr II||2}}
+|1887
+|{{sclass|Imperator Aleksandr II|battleship|4}}
+|[[Barbette#Use in warships|Barbette ship]]
+|{{navy|Russian Empire}}
+|
+|-
+|{{ship|Russian battleship|Imperator Nikolai I|1889|2}}
+|1889
+|{{sclass|Imperator Aleksandr II|battleship|4}}
+|[[Turret ship]]
+|{{navy|Russian Empire}}
+|Later Japanese {{ship|Japanese battleship|Iki||2}}
+|- style="background:#cedbec;"
+|{{ship|Japanese aircraft carrier|Kaga||2}}
+|1921-11-17{{sfn|Gardiner|Gray|1985|p=232}}
+|{{sclass|Tosa|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]
+|{{navy|Empire of Japan}}
+|Cancelled under terms of [[Washington Naval Treaty]] 1922; converted to aircraft carrier{{sfn|Gardiner|Gray|1985|p=232}}
+|-  style="background:#FFEBAD;"
+|{{ship|Greek battleship|Salamis||2}}
+|1914-11-11{{sfn|Gardiner|Gray|1985|p=384}}
+|
+|[[Dreadnought]]
+|{{navy|Kingdom of Greece}}
+|Cancelled, December 1914; broken up, 1932{{sfn|Gardiner|Gray|1985|p=384}}
+|-
+|{{ship|Russian battleship|Sinop||2}}
+|1887-06-01
+|{{sclass|Ekaterina II|battleship|4}}
+|[[Barbette#Use in warships|Barbette ship]]
+|{{navy|Russian Empire}}
+|
+|- style="background:#FFEBAD;"
+|[[Greek battleship Vasilefs Konstantinos|''Vasilefs Konstantinos'']]
+|Cancelled before launch{{sfn|Gardiner|Gray|1985|p=198}}
+| {{sclass|Bretagne|battleship|4}}
+|[[Dreadnought]]
+|{{navy|Kingdom of Greece}}
+|Work halted August 1914, broken up in 1925{{sfn|Gardiner|Gray|1985|p=384}}
+|-
+| {{SMS|Zähringen||2}} || 1901-06-12{{sfn|Gröner|Jung|Martin|1990|p=17}} ||{{sclass|Wittelsbach|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|German Empire}}
+|Converted to radio-controlled target ship 1926–28; scuttled as [[blockship]] at [[Gdynia|Gotenhafen]], 26 March 1945, broken up ''in situ'' 1949–1950{{sfn|Gröner|Jung|Martin|1990|p=17}}
+|-
+| {{SMS|Zrínyi||2}} || 1910-04-12{{sfn|Gardiner|Gray|1985|p=333}} ||{{sclass|Radetzky|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|Austria-Hungary}}
+|Broken up, 1920{{sfn|Gardiner|Gray|1985|p=333}}
+|-{{HMAS|Australia|1909}}
+| {{SMS|Babenberg||2}} || 1902-10-04{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=272}} ||{{sclass|Habsburg|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Austria-Hungary}}||Awarded to UK 1920, scrapped 1921{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=272}}
+|-
+| {{SMS|Baden|1915|3}}|| 1915-10-30{{sfn|Gröner|Jung|Martin|1990|p=30}} ||{{sclass|Bayern|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|German Empire}}||Flagship of [[High Seas Fleet]] at the [[Battle of Jutland]] – [[Scuttling of the German fleet at Scapa Flow|beached in Scapa Flow]], 21 June 1919, sunk as target off [[Portsmouth]], 16 Aug 1921{{sfn|Gröner|Jung|Martin|1990|p=30}}
+|-
+| {{HMS|Barfleur|1892|2}} || 1892-08-10{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=33}} ||{{sclass|Centurion|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United Kingdom}}
+| Broken up, 1910{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=33}}
+|-
+| {{HMS|Barham|04|2}} || 1914-10-31 ||{{sclass|Queen Elizabeth|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}||Sunk by German {{ship|German submarine|U-331||2}} off Egyptian coast, 25 Nov 1941– sinking was filmed
+|-
+| {{SMS|Bayern|1915|3}}|| 1915-02-18{{sfn|Gröner|Jung|Martin|1990|p=30}} ||{{sclass|Bayern|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|German Empire}}||[[Scuttling of the German fleet at Scapa Flow|Scuttled in Scapa Flow]], 21 June 1919, raised for scrap 1934{{sfn|Gröner|Jung|Martin|1990|p=30}}
+|- style="background:#cedbec;"
+| {{ship|French battleship|Béarn||2}} || 1920-04-15{{sfn|Jordan|Caresse|2017|p=189}} ||{{sclass|Normandie|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|France}}
+| Converted to aircraft carrier{{sfn|Gardiner|Gray|1985|p=198}}
+|-
+| {{HMS|Bellerophon|1907|3}}|| 1907-07-27 ||{{sclass|Bellerophon|battleship|4}}
+|[[Dreadnought]]||{{navy|United Kingdom}}|| 
+|-
+| {{HMS|Benbow|1913|3}} ||1913-11-12
+|{{sclass|Iron Duke|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}||
+|-
+| {{ship|Italian battleship|Benedetto Brin||2}} || 1901 ||{{sclass|Regina Margherita|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Kingdom of Italy}}
+| 
+|-
+| {{ship|German battleship|Bismarck||2}} || 1939-02-14 ||{{sclass|Bismarck|battleship|4}}
+|[[Fast battleship]]||{{navy|Nazi Germany}}||Scuttled because of incapacitating battle damage in North Atlantic, 27 May 1941
+|-
+| {{ship|Russian battleship|Borodino||2}} || 1901-09-08 ||{{sclass|Borodino|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Russian Empire}}||Sunk at the [[Battle of Tsushima]], 27 May 1905
+|-
+| {{ship|French battleship|Bouvet||2}} || 1896-04-27{{sfn|Jordan|Caresse|2017|p=32}} || 
+|[[Pre-dreadnought]]||{{navy|France}}
+| Sunk by mines, 18 March 1915{{sfn|Gardiner|Gray|1985|p=192}}
+|-
+| {{SMS|Brandenburg||2}} || 1891-09-21{{sfn|Gröner|Jung|Martin|1990|p=14}} ||{{sclass|Brandenburg|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Pre-dreadnought]]||{{navy|German Empire}}
+| Broken up, 1919{{sfn|Gröner|Jung|Martin|1990|p=14}}
+|-
+| {{SMS|Braunschweig||2}} || 1902-12-20{{sfn|Gröner|Jung|Martin|1990|p=20}} ||{{sclass|Braunschweig|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|German Empire}}|| Broken up, 1931{{sfn|Gröner|Jung|Martin|1990|p=20}}
+|-
+| {{ship|French battleship|Brennus||2}} || 1891-10-17{{sfn|Caresse|2019|pp=32–33}} || 
+|[[Pre-dreadnought]]||{{navy|France}}
+| Broken up, 1922{{sfn|Caresse|2019|p=45}}
+|-
+| {{ship|French battleship|Bretagne||2}} || 1913-04-21{{sfn|Jordan|Caresse|2017|p=163}} ||{{sclass|Bretagne|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|France}}||Sunk by British forces during the [[Attack on Mers-el-Kébir]], 3 July 1940{{sfn|Gardiner|Gray|1985|p=198}}
+|-
+| {{HMS|Britannia|1904|2}} || 1904-12-10{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=38}} ||{{sclass|King Edward VII|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|United Kingdom}}||Torpedoed by German {{ship|SM|UB-50||2}} off [[Cape Trafalgar]], 9 Nov 1918{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=38}}
+|-
+| {{HMS|Bulwark|1899|2}} || 1899-10-18{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}} ||{{sclass|London|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United Kingdom}}
+|Blew up at [[Sheerness]], 26 Nov 1914{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}}
+|-
+|{{HMS|Caesar|1896|2}}
+|1896-09-02{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|{{sclass|Majestic|battleship|4}}
+|[[Pre-dreadnought]]
+|{{navy|United Kingdom}}
+|Broken up, 1921{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|-
+| {{ship|Italian battleship|Duilio||2}}|| 1913 ||{{sclass|Andrea Doria|battleship|4}}
+|[[Dreadnought]]
+|{{navy|Kingdom of Italy}}|| 
+|-
+| {{USS|California|BB-44|2}}|| 1919-11-20{{sfn|Friedman|1985|p=420}} ||{{sclass|Tennessee|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United States|1912}}
+|Broken up, 1959{{sfn|Friedman|1985|p=420}}
+|-
+| {{HMS|Canopus|1897|2}} || 1897-10-12{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=35}} ||{{sclass|Canopus|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United Kingdom}}||Broken up, 1920{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=35}}
+|-
+| {{ship|French battleship|Carnot||2}} || 1894-07-12{{sfn|Jordan|Caresse|2017|p=28}} || 
+|[[Pre-dreadnought]]||{{navy|France}}
+| Broken up, 1922{{sfn|Gardiner|Gray|1985|p=192}}
+|-
+| {{HMS|Centurion|1892|3}} || 1892-08-03{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=33}} ||{{sclass|Centurion|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United Kingdom}}
+| Broken up, 1910{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=33}}
+|-
+| {{HMS|Centurion|1911|3}} || 1911-11-18 ||{{sclass|King George V|battleship (1911)|4}} (1911)
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}||Scuttled as [[Mulberry harbour]] [[blockship]] off [[Normandy]], 7 June 1944
+|-
+| {{ship|French battleship|Charlemagne||2}} || 1895-10-17{{sfn|Jordan|Caresse|2017|p=44}} ||{{sclass|Charlemagne|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|France}}
+| Broken up, 1920{{sfn|Gardiner|Gray|1985|p=192}}
+|-
+| {{ship|French battleship|Charles Martel||2}} || 1893-08-29{{sfn|Jordan|Caresse|2017|p=26}} || 
+|[[Pre-dreadnought]]||{{navy|France}}
+| 
+|- style="background:#FFEBAD;"
+|{{ship|French battleship|Clemenceau||2}}
+|data-sort-value="1945"|Cancelled{{sfn|Jordan|Dumas|2009|p=171}}
+|{{sclass|Richelieu|battleship|4}}
+|[[Fast battleship]]
+|{{navy|France}}
+|Cancelled, 1940; broken up, 1951{{sfn|Jordan|Dumas|2009|p=171}}
+|-
+| {{HMS|Collingwood|1908|3}} || 1908-11-07 ||{{sclass|St. Vincent|battleship|4}}
+|[[Dreadnought]]||{{navy|United Kingdom}}|| 
+|-
+| {{USS|Colorado|BB-45|3}}|| 1921-03-22{{sfn|Friedman|1985|p=420}} ||{{sclass|Colorado|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United States|1912}}||Broken up, 1959{{sfn|Friedman|1985|p=420}}
+|-
+| {{HMS|Colossus|1910|2}} || 1910-04-09 ||{{sclass|Colossus|battleship (1910)|4}}
+|[[Dreadnought]]||{{navy|United Kingdom}}|| 
+|-
+| {{HMS|Commonwealth|1903|2}} || 1903-05-13{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=38}} ||{{sclass|King Edward VII|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|United Kingdom}}|| Broken up, 1921{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=38}}
+|-
+| {{ship|French battleship|Condorcet||2}} || 1909-04-19{{sfn|Jordan|Caresse|2017|p=116}} ||{{sclass|Danton|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|France}}
+| Broken up, 1945{{sfn|Gardiner|Gray|1985|p=196}}
+|-
+| {{USS|Connecticut|BB-18|3}}|| 1904-09-29{{sfn|Friedman|1985|p=419}} ||{{sclass|Connecticut|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|United States|1912}}|
+| Broken up, 1923{{sfn|Friedman|1985|p=419}}
+|-
+|{{HMS|Conqueror|1911|3}}|| 1911-05-01 ||{{sclass|Orion|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}
+| 
+|-
+| {{ship|Italian battleship|Conte di Cavour||2}} || 1911 ||{{sclass|Conte di Cavour|battleship|4}}
+|[[Dreadnought]]
+|{{navy|Kingdom of Italy}}|| 
+|-
+| {{HMS|Cornwallis|1901|2}} || 1901-07-13{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}} ||{{sclass|Duncan|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United Kingdom}}||Torpedoed by German {{ship|SM|U-32|Germany|2}} east of [[Malta (island)|Malta]], 9 January 1917{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}}
+|-
+| {{ship|French battleship|Courbet|1911|2}}|| 1911-09-23{{sfn|Jordan|Caresse|2017|p=142}} ||{{sclass|Courbet|battleship|4}}
+|[[Dreadnought]]||{{navy|France}}
+|Scuttled as [[Breakwater (structure)|breakwater]] off [[Sword Beach|Sword beach]], 9 June 1944, during [[Operation Neptune]], scrapped ''in situ''
+|-
+| {{ship|Italian battleship|Dante Alighieri||2}} || 1910 || 
+|[[Dreadnought]]||{{navy|Kingdom of Italy}}
+| 
+|-
+| {{ship|French battleship|Danton||2}} || 1909-07-04{{sfn|Jordan|Caresse|2017|p=116}} ||{{sclass|Danton|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|France}}
+| Sunk by {{ship|SM|U-64||2}}, 1917{{sfn|Gardiner|Gray|1985|p=196}}
+|-
+| {{USS|Delaware|BB-28|3}}|| 1909-02-06{{sfn|Friedman|1985|p=419}} ||{{sclass|Delaware|battleship|4}}
+|[[Dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1924{{sfn|Friedman|1985|p=419}}
+|-
+| {{ship|French battleship|Démocratie||2}} || 1904-04-30{{sfn|Jordan|Caresse|2017|p=88}} ||{{sclass|Liberté|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|France}}
+| Broken up, 1921{{sfn|Gardiner|Gray|1985|p=192}}
+|-
+| {{SMS|Deutschland|1904|3}} || 1904-11-19{{sfn|Gröner|Jung|Martin|1990|p=22}} ||{{sclass|Deutschland|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|German Empire}}|| Broken up, 1920{{sfn|Gröner|Jung|Martin|1990|p=22}}
+|-
+| {{ship|French battleship|Diderot||2}} || 1909-04-20{{sfn|Jordan|Caresse|2017|p=116}} ||{{sclass|Danton|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|France}}
+| Broken up, 1937{{sfn|Gardiner|Gray|1985|p=196}}
+|-
+| {{HMS|Dominion|1903|2}} || 1903-08-25{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=38}} ||{{sclass|King Edward VII|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|United Kingdom}}
+| Broken up, 1921{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=38}}
+|-
+| {{HMS|Dreadnought|1906|3}} || 1906-02-10 || 
+|[[Dreadnought]]||{{navy|United Kingdom}}||First dreadnought battleship, [[eponym]] of the type
+|-
+| {{HMS|Duke of York|17|3}}|| 1940-02-28 ||{{sclass|King George V|battleship (1939)|4}} (1939)
+|[[Fast battleship]]||{{navy|United Kingdom}}||Ex-''Anson'', scrapped in 1957 
+|-
+| {{HMS|Duncan|1901|2}} || 1901-03-21{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}} ||{{sclass|Duncan|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United Kingdom}}|| Broken up, 1920{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}}
+|-
+| {{ship|French battleship|Dunkerque||2}} || 1935-10-02{{sfn|Jordan|Dumas|2009|p=59}} ||{{sclass|Dunkerque|battleship|4}}||[[Fast battleship]]||{{navy|France}}||[[Scuttling of the French fleet at Toulon|Scuttled at Toulon]], 27 Nov 1942; broken up, 1955{{sfn|Jordan|Dumas|2009|p=93}}
+|-
+| {{ship|Russian battleship|Dvenadsat Apostolov||2}} || 1890 || 
+|[[Pre-dreadnought battleship|Pre-dreadnought]]
+|{{navy|Russian Empire}}|| 
+|-
+| {{SMS|Elsass||2}} || 1903-05-26{{sfn|Gröner|Jung|Martin|1990|p=20}} ||{{sclass|Braunschweig|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|German Empire}}|| Broken up, 1936{{sfn|Gröner|Jung|Martin|1990|p=20}}
+|-
+| {{ship|Italian battleship|Emanuele Filiberto||2}} || 1897 ||{{sclass|Ammiraglio di Saint Bon|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Kingdom of Italy}}
+| 
+|-
+| {{HMS|Emperor of India||2}} || 1913-11-27 ||{{sclass|Iron Duke|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}||Ex-''Delhi'' – sunk as gunnery target on [[Cymenshore#The Owers|Owers Bank]], 10–11 June 1931, raised and scrapped
+|-
+| {{HMS|Empress of India|1891|2}} || 1891-05-07{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=32}} ||{{sclass|Royal Sovereign|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United Kingdom}}
+|Ex-''Renown –'' sunk as gunnery target off [[Isle of Portland|Portland]], 4 Nov 1913
+|-
+| {{HMS|Erin||2}} || 1913-09-03 ||{{sclass|Reşadiye|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}|| Ex-Ottoman ''Reşadiye'', seized near completion, 31 July 1914
+|-
+| {{SMS|Erzherzog Ferdinand Max||2}}|| 1905-05-21{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=273}} ||{{sclass|Erzherzog Karl|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|Austria-Hungary}}
+|Awarded to UK, broken up, 1920{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=273}}
+|-
+| {{SMS|Erzherzog Franz Ferdinand||2}} || 1908-09-30{{sfn|Gardiner|Gray|1985|p=333}} ||{{sclass|Radetzky|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|Austria-Hungary}}
+|Broken up, 1926{{sfn|Gardiner|Gray|1985|p=333}}
+|-
+| {{SMS|Erzherzog Friedrich||2}} || 1904-04-30{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=273}} ||{{sclass|Erzherzog Karl|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|Austria-Hungary}}
+|Awarded to France, scrapped 1920{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=273}}
+|-
+| {{SMS|Erzherzog Karl||2}} || 1903-10-04{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=273}} ||{{sclass|Erzherzog Karl|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|Austria-Hungary}}
+|Awarded to France, broken up, 1920{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=273}}
+|-
+| {{ship|Spanish battleship|España||2}} || 1912-02-05{{sfn|Gardiner|Gray|1985|p=378}} ||{{sclass|España|battleship|4}}
+|[[Dreadnought]]||{{navy|Spain|1785}}
+|Wrecked off [[Cape Tres Forcas]], 26 August 1923{{sfn|Gardiner|Gray|1985|p=378}}
+|-
+| {{ship|Russian battleship|Evstafi||2}} || 1906-11-03 ||{{sclass|Evstafi|battleship|4}}
+|[[Pre-dreadnought]]
+|{{navy|Russian Empire}}||[[Black Sea Fleet]], renamed ''Revolyutsiya'' 1921 – dismantled by British forces at [[Sevastopol]] 1919
+|-
+| {{HMS|Exmouth|1901|2}} || 1901-08-31{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}} ||{{sclass|Duncan|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United Kingdom}}
+| Broken up, 1920{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}}
+|- style="background:#FFEBAD;"
+|{{ship|Ottoman battleship|Fatih Sultan Mehmed||2}}
+|data-sort-value="1914-07-31"|Cancelled
+|{{sclass|Reşadiye|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]
+|{{navy|Ottoman Empire}}
+|Laid down 11 June 1914, stopped by order of British Government 
+|- style="background:#FFEBAD;"
+|{{ship|French battleship|Flandre||2}}
+|1914-10-20{{sfn|Gardiner|Gray|1985|p=198}}
+|{{sclass|Normandie|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]
+|{{navy|France}}
+|Cancelled; broken up, 1924{{sfn|Gardiner|Gray|1985|p=198}}
+|-
+| {{USS|Florida|BB-30|2}}|| 1910-05-12{{sfn|Friedman|1985|p=419}} ||{{sclass|Florida|battleship|4}}
+|[[Dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1931{{sfn|Friedman|1985|p=419}}
+|-
+| {{HMS|Formidable|1898|2}} || 1898-11-17{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=36}} ||{{sclass|Formidable|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United Kingdom}}
+|Torpedoed by German {{ship|SM|U-24||2}} off [[Isle of Portland|Portland]], 1 Jan 1915{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=36}}
+|-
+| {{ship|French battleship|France||2}} || 1912-11-07{{sfn|Jordan|Caresse|2017|p=142}} ||{{sclass|Courbet|battleship|4}}
+|[[Dreadnought]]||{{navy|France}}
+|Wrecked, 1922; broken up between 1935 and 1958{{sfn|Jordan|Caresse|2017|p=290}}
+|-
+| {{SMS|Friedrich der Grosse|1911|3}} || 1911-06-10{{sfn|Gröner|Jung|Martin|1990|p=26}} ||{{sclass|Kaiser|battleship|4}}
+|[[Dreadnought]]||{{navy|German Empire}}||[[Scuttling of the German fleet at Scapa Flow|Scuttled in Scapa Flow]], 21 June 1919, raised for scrap 1936{{sfn|Gröner|Jung|Martin|1990|p=26}}
+|-
+| {{ship|Japanese battleship|Fuji||2}} || 1896-03-31{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=221}} ||{{sclass|Fuji|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Empire of Japan}}||Broken up, 1948{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=221}}
+|-
+| {{ship|Japanese battleship|Fusō||2}} || 1914-03-28{{sfn|Gardiner|Gray|1985|p=229}} ||{{sclass|Fusō|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]
+|{{navy|Empire of Japan}}||Sunk, 25 October 1944{{sfn|Gardiner|Gray|1985|p=229}}
+|-
+| {{ship|Russian battleship|Gangut||2}} (1911) || 1911-10-20 ||{{sclass|Gangut|battleship|4}}||[[Dreadnought]]||{{navy|Russian Empire}}|| Later Soviet {{ship|Soviet battleship|Oktyabrskaya Revolyutsiya||2}}
+|- style="background:#FFEBAD;"
+| {{ship|French battleship|Gascogne|1914|2}}|| 1914-09-20{{sfn|Gardiner|Gray|1985|p=198}} ||{{sclass|Normandie|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|France}}
+|Cancelled; broken up, 1924{{sfn|Gardiner|Gray|1985|p=198}}
+|-
+| {{ship|French battleship|Gaulois||2}} || 1896-10-06{{sfn|Jordan|Caresse|2017|p=44}} ||{{sclass|Charlemagne|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|France}}
+| Sunk by {{ship|SM|UB-47||2}}, 1916{{sfn|Gardiner|Gray|1985|p=192}}
+|-
+| {{USS|Georgia|BB-15|3}}|| 1904-10-11{{sfn|Friedman|1985|p=419}} ||{{sclass|Virginia|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1923{{sfn|Friedman|1985|p=419}}
+|-
+| {{ship|Italian battleship|Giulio Cesare||2}} || 1911 ||{{sclass|Conte di Cavour|battleship|4}}
+|[[Dreadnought]]
+|{{navy|Kingdom of Italy}}|| Later Soviet {{ship|Soviet battleship|Novorossiysk||2}}
+|-
+| {{HMS|Glory|1899|2}} || 1899-03-11{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=35}} ||{{sclass|Canopus|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United Kingdom}}|| Broken up, 1922{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=35}}
+|-
+| {{ship|German battleship|Gneisenau||2}} || 1936-12-08 ||{{sclass|Scharnhorst|battleship|4}}
+|[[Fast battleship]]||{{navy|Nazi Germany}}||Sunk as [[blockship]] at [[Gotenhafen]], 23 Mar 1945, raised and scrapped 1952
+|-
+| {{HMS|Goliath|1898|2}} || 1898-03-23{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=35}} ||{{sclass|Canopus|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United Kingdom}}||Torpedoed in [[Morto Bay]] off [[Cape Helles]] by Ottoman destroyer [[Ottoman destroyer Muâvenet-i Millîye|''Muâvenet-i Millîye'']], 5 May 1915{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=35}}
+|-
+| {{SMS|Grosser Kurfürst|1913|3}} || 1913-05-05{{sfn|Gröner|Jung|Martin|1990|p=28}} ||{{sclass|König|battleship|4}}
+|[[Dreadnought]]||{{navy|German Empire}}||[[Scuttling of the German fleet at Scapa Flow|Scuttled in Scapa Flow]], 21 June 1919, raised for scrap 1938{{sfn|Gröner|Jung|Martin|1990|p=28}}
+|-
+| {{SMS|Habsburg||2}}|| 1900-09-09{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=272}} ||{{sclass|Habsburg|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Austria-Hungary}}
+|Awarded to UK 1920, scrapped 1921{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=272}}
+|-
+|{{HMS|Hannibal|1896|2}}
+|1896-04-28{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|{{sclass|Majestic|battleship|4}}
+|[[Pre-dreadnought]]
+|{{navy|United Kingdom}}
+|Broken up, 1920{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|-
+| {{SMS|Hannover||2}} || 1905-09-29{{sfn|Gröner|Jung|Martin|1990|p=22}} ||{{sclass|Deutschland|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|German Empire}}|| Broken up, 1944{{sfn|Gröner|Jung|Martin|1990|p=22}}
+|-
+| {{ship|Japanese battleship|Hatsuse||2}} || 1899-06-27{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=221}} ||{{sclass|Shikishima|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Empire of Japan}}||Mined and sunk, 15 May 1904{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=221}}
+|-
+| {{SMS|Helgoland|1909|2}} || 1909-09-25{{sfn|Gröner|Jung|Martin|1990|p=25}} ||{{sclass|Helgoland|battleship|4}}
+|[[Dreadnought]]||{{navy|German Empire}}||Surrendered to UK 1920, broken up, 1921{{sfn|Gröner|Jung|Martin|1990|p=25}}
+|-
+|{{HMS|Hercules|1910|3}}|| 1910-05-10 ||{{sclass|Colossus|battleship (1910)|4}}
+|[[Dreadnought]]||{{navy|United Kingdom}}|| 
+|-
+| {{SMS|Hessen||2}} || 1903-09-18{{sfn|Gröner|Jung|Martin|1990|p=20}} ||{{sclass|Braunschweig|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|German Empire}}
+|Converted to radio-controlled target ship 1935–1937; ceded to Soviet Union 1946, renamed ''Tsel''; broken up 1960{{sfn|Gröner|Jung|Martin|1990|p=20}}
+|-
+| {{HMS|Hibernia|1905|2}} || 1905-06-17{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=38}} ||{{sclass|King Edward VII|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|United Kingdom}}|| Broken up, 1921{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=38}}
+|-
+| {{HMS|Hindustan|1903|2}} || 1903-12-19{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=38}} ||{{sclass|King Edward VII|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|United Kingdom}}|| Broken up, 1921{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=38}}
+|-
+| {{HMS|Hood|1891|2}} || 1891-07-30{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=33}} ||{{sclass|Royal Sovereign|battleship|4}} (modified)
+|[[Pre-dreadnought]]
+|{{navy|United Kingdom}}||With turrets instead of barbettes – sunk as a [[blockship]] in [[Portland harbour]], 4 Nov 1914
+|-
+| {{HMS|Howe|32|3}} || 1940-04-09 ||{{sclass|King George V|battleship (1939)|4}} (1939)
+|[[Fast battleship]]||{{navy|United Kingdom}}||Ex-''Beatty''
+|-
+| {{ship|Japanese battleship|Hyūga||2}} || 1917-01-27{{sfn|Gardiner|Gray|1985|p=230}} ||{{sclass|Ise|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|Empire of Japan}}
+|Sunk, 24 July 1945{{sfn|Gardiner|Gray|1985|p=230}}
+|-
+| {{USS|Idaho|BB-24|3}} || 1905-21-09{{sfn|Friedman|1985|p=419}} ||{{sclass|Mississippi|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|United States|1912}}
+| Sold to [[Greece]], 1914; sunk, 1941{{sfn|Friedman|1985|p=419}}
+|-
+| {{USS|Idaho|BB-42|3}} || 1917-06-20{{sfn|Friedman|1985|p=420}} ||{{sclass|New Mexico|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1947{{sfn|Friedman|1985|p=420}}
+|-
+| {{ship|French battleship|Iéna||2}} || 1898-09-1{{sfn|Jordan|Caresse|2017|p=66}} || 
+|[[Pre-dreadnought]]||{{navy|France}}
+| Destroyed by magazine explosion, 1907{{sfn|Jordan|Caresse|2017|p=224}}
+|-
+| {{USS|Illinois|BB-7|3}} || 1898-10-04{{sfn|Friedman|1985|p=419}} ||{{sclass|Illinois|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United States|1912}}||Broken up, 1956{{sfn|Friedman|1985|p=419}}
+|- style="background:#FFEBAD;"
+| {{USS|Illinois|BB-65|3}} || data-sort-value="1945"|Cancelled ||{{sclass|Iowa|battleship|4}}
+|[[Fast battleship]]||{{navy|United States|1912}}|| Laid down 6 Dec 1942, cancelled before launch
+|-
+|{{HMS|Illustrious|1896|2}}
+|1896-09-17{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|{{sclass|Majestic|battleship|4}}
+|[[Pre-dreadnought]]
+|{{navy|United Kingdom}}
+|Broken up, 1920{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|-
+| {{ship|Russian battleship|Imperatritsa Ekaterina Velikaya||2}} || 1913 ||{{sclass|Imperatritsa Mariya|battleship|4}}
+|[[Dreadnought]]
+|{{navy|Russian Empire}}|| Later Soviet {{ship|Soviet battleship|Svobodnaya Rossiya||2}}
+|-
+| {{ship|Russian battleship|Imperatritsa Mariya||2}} || 1913 ||{{sclass|Imperatritsa Mariya|battleship|4}}
+|[[Dreadnought]]
+|{{navy|Russian Empire}}||
+|-
+| {{ship|Russian battleship|Imperator Aleksandr III|1901|3}} || 1902-08-03 ||{{sclass|Borodino|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Russian Empire}}||Sunk at the [[Battle of Tsushima]], 27 May 1905
+|-
+| {{ship|Russian battleship|Imperator Aleksandr III|1914|3}} || 1914 ||{{sclass|Imperatritsa Mariya|battleship|4}}
+|[[Dreadnought]]
+|{{navy|Russian Empire}}|| Later Soviet {{ship|Soviet battleship|Volia||2}}
+|-
+| {{ship|Russian battleship|Imperator Pavel I||2}}|| 1907-09-07 ||{{sclass|Andrei Pervozvanny|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|Russian Empire}}
+|Renamed ''Respublika'' 1917, inoperative at [[Kronstadt]] 1918
+|- style="background:#FFEBAD;"
+| {{ship|Italian battleship|Impero||2}}|| 1939-11-15 ||{{sclass|Littorio|battleship|4}}
+|[[Fast battleship]]||{{navy|Kingdom of Italy}}||Not completed, hulk sunk in [[Trieste]], 15 Feb 1945, raised and scrapped 1948
+|-
+| {{HMS|Implacable|1899|2}} || 1899-03-11{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=36}} ||{{sclass|Formidable|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United Kingdom}}|| Broken up, 1921{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=36}}
+|-
+| {{USS|Indiana|BB-1|3}} || 1893-02-28{{sfn|Friedman|1985|p=418}} ||{{sclass|Indiana|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United States|1912}}|| Sunk as a target, 1 November 1920{{sfn|Friedman|1985|p=418}}
+|-
+| {{USS|Indiana|BB-58|3}} || 1941-11-21 ||{{sclass|South Dakota|battleship (1939)|4}}
+|[[Fast battleship]]||{{navy|United States|1912}}||Broken up 1963, parts preserved in [[Indiana|namesake state]]
+|-
+| {{ship|Russian battleship|Ioann Zlatoust||2}} || 1906-05-13 ||{{sclass|Evstafi|battleship|4}}
+|[[Pre-dreadnought]]
+|{{navy|Russian Empire}}||[[Black Sea Fleet]] – dismantled by British forces at [[Sevastopol]] 1919
+|-
+| {{USS|Iowa|BB-4|3}} || 1896-03-28{{sfn|Friedman|1985|p=418}} || 
+|[[Pre-dreadnought]]||{{navy|United States|1912}}
+| Sunk as a target, 23 March 1923{{sfn|Friedman|1985|p=418}}
+|-
+| {{USS|Iowa|BB-61|3}} || 1942-08-27 ||{{sclass|Iowa|battleship|4}}
+|[[Fast battleship]]||{{navy|United States|1912}}||Museum ship at the Pacific Battleship Center in the [[Port of Los Angeles]]
+|-
+|{{HMS|Iron Duke|1912|3}}|| 1912-10-12 ||{{sclass|Iron Duke|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}||Flagship of [[Grand Fleet]] at the [[Battle of Jutland]]
+|-
+| {{HMS|Irresistible|1898|2}} || 1898-12-15{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=36}} ||{{sclass|Formidable|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United Kingdom}}
+|Mined at the [[Dardanelles]], 18 Mar 1915{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=36}}
+|-
+| {{ship|Japanese battleship|Ise||2}} || 1916-11-12{{sfn|Gardiner|Gray|1985|p=230}} ||{{sclass|Ise|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|Empire of Japan}}
+|Sunk, 28 July 1945{{sfn|Gardiner|Gray|1985|p=230}}
+|-
+| {{ship|Spanish battleship|Jaime I||2}} || 1914-09-21{{sfn|Gardiner|Gray|1985|p=378}} ||{{sclass|España|battleship|4}}
+|[[Dreadnought]]||{{navy|Spain|1785}}
+|Destroyed by internal explosion, 17 June 1937{{sfn|Gardiner|Gray|1985|p=378}}
+|-
+| {{ship|French battleship|Jauréguiberry||2}} || 1893-10-27{{sfn|Jordan|Caresse|2017|p=30}} || 
+|[[Pre-dreadnought]]||{{navy|France}}
+| Broken up, 1934{{sfn|Gardiner|Gray|1985|p=192}}
+|-
+| {{ship|French battleship|Jean Bart|1911|3}} || 1911-09-22{{sfn|Jordan|Caresse|2017|p=142}} ||{{sclass|Courbet|battleship|4}}
+|[[Dreadnought]]||{{navy|France}}
+|Broken up, 1945{{sfn|Gardiner|Gray|1985|p=197}}
+|-
+| {{ship|French battleship|Jean Bart|1940|3}} || 1940-03-06{{sfn|Jordan|Dumas|2009|p=123}} ||{{sclass|Richelieu|battleship|4}}
+|[[Fast battleship]]||{{navy|France}}||Broken up, 1970{{sfn|Jordan|Dumas|2009|p=222}}
+|-
+|{{HMS|Jupiter|1895|2}}
+|1895-11-18{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|{{sclass|Majestic|battleship|4}}
+|[[Pre-dreadnought]]
+|{{navy|United Kingdom}}
+|Broken up, 1920{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|-
+| {{ship|French battleship|Justice||2}} || 1904-10-27{{sfn|Jordan|Caresse|2017|p=88}} ||{{sclass|Liberté|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|France}}
+| Broken up, 1922{{sfn|Gardiner|Gray|1985|p=192}}
+|-
+| {{SMS|Kaiser|1911|3}} || 1911-03-22{{sfn|Gröner|Jung|Martin|1990|p=26}} ||{{sclass|Kaiser|battleship|4}}
+|[[Dreadnought]]||{{navy|German Empire}}||[[Scuttling of the German fleet at Scapa Flow|Scuttled in Scapa Flow]], 21 June 1919, raised for scrap 1929{{sfn|Gröner|Jung|Martin|1990|p=26}}
+|-
+| {{SMS|Kaiser Barbarossa||2}} || 1900-04-21{{sfn|Gröner|Jung|Martin|1990|p=16}} ||{{sclass|Kaiser Friedrich III|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|German Empire}}
+| Broken up, 1920{{sfn|Gröner|Jung|Martin|1990|p=16}}
+|-
+| {{SMS|Kaiser Friedrich III||2}} || 1896-07-01{{sfn|Gröner|Jung|Martin|1990|p=16}} ||{{sclass|Kaiser Friedrich III|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|German Empire}}
+| Broken up, 1920{{sfn|Gröner|Jung|Martin|1990|p=16}}
+|-
+| {{SMS|Kaiser Karl der Grosse||2}} || 1899-10-18{{sfn|Gröner|Jung|Martin|1990|p=16}} ||{{sclass|Kaiser Friedrich III|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|German Empire}}
+| Broken up, 1920{{sfn|Gröner|Jung|Martin|1990|p=16}}
+|-
+| {{SMS|Kaiser Wilhelm II||2}} || 1897-09-14{{sfn|Gröner|Jung|Martin|1990|p=16}} ||{{sclass|Kaiser Friedrich III|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|German Empire}}
+| Broken up, 1922{{sfn|Gröner|Jung|Martin|1990|p=16}}
+|-
+| {{SMS|Kaiser Wilhelm der Grosse||2}} || 1899-06-01{{sfn|Gröner|Jung|Martin|1990|p=16}} ||{{sclass|Kaiser Friedrich III|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|German Empire}}
+| Broken up, 1920{{sfn|Gröner|Jung|Martin|1990|p=16}}
+|-
+| {{SMS|Kaiserin||2}} || 1911-11-11{{sfn|Gröner|Jung|Martin|1990|p=26}} ||{{sclass|Kaiser|battleship|4}}
+|[[Dreadnought]]||{{navy|German Empire}}
+|[[Scuttling of the German fleet at Scapa Flow|Scuttled in Scapa Flow]], 21 June 1919, raised for scrap 1936{{sfn|Gröner|Jung|Martin|1990|p=26}}
+|-
+| {{USS|Kansas|BB-21|2}} || 1905-0812{{sfn|Friedman|1985|p=419}} ||{{sclass|Connecticut|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1923{{sfn|Friedman|1985|p=419}}
+|-
+| {{ship|Japanese battleship|Kashima||2}} || 1905-03-22{{sfn|Gardiner|Gray|1985|p=227}} ||{{sclass|Katori|battleship|4}}
+|[[Pre-dreadnought]]
+|{{navy|Empire of Japan}}
+| Broken up, 1924{{sfn|Gardiner|Gray|1985|p=227}}
+|-
+| {{ship|Japanese battleship|Katori||2}} || 1905-07-04{{sfn|Gardiner|Gray|1985|p=227}} ||{{sclass|Katori|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Empire of Japan}}
+| Broken up, 1924{{sfn|Gardiner|Gray|1985|p=227}}
+|-
+| {{ship|Japanese battleship|Kawachi||2}} || 1910-10-15{{sfn|Gardiner|Gray|1985|p=229}} ||{{sclass|Kawachi|battleship|4}}
+|[[Dreadnought]]
+|{{navy|Empire of Japan}}
+|Destroyed by magazine explosion, 12 July 1918{{sfn|Gardiner|Gray|1985|p=229}}
+|-
+| {{USS|Kearsarge|BB-5|3}}|| 1898-03-24{{sfn|Friedman|1985|p=419}} ||{{sclass|Kearsarge|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United States|1912}}
+| Converted to [[crane ship]], 1920; broken up, 1955{{sfn|Friedman|1985|p=419}}
+|-
+| {{USS|Kentucky|BB-6|3}} || 1898-03-24{{sfn|Friedman|1985|p=419}} ||{{sclass|Kearsarge|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1923{{sfn|Friedman|1985|p=419}}
+|- style="background:#FFEBAD;"
+| {{USS|Kentucky|BB-66|3}} || data-sort-value="1945"|Cancelled ||{{sclass|Iowa|battleship|4}}
+|[[Fast battleship]]||{{navy|United States|1912}}|| Laid down 7 Mar 1942, cancelled before launch
+|-
+| {{HMS|King Edward VII||2}} || 1903-07-23{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=38}} ||{{sclass|King Edward VII|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|United Kingdom}}
+|Mined off [[Cape Wrath]], 6 January 1916{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=38}}
+|-
+| {{HMS|King George V|1911|3}} || 1911-10-09 ||{{sclass|King George V|battleship (1911)|4}} (1911)
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}
+|Ex-''Royal George''
+|-
+| {{HMS|King George V|41|3}} || 1939-02-21 ||{{sclass|King George V|battleship (1939)|4}} (1939)
+|[[Fast battleship]]||{{navy|United Kingdom}}||Sold for scrap 1957
+|-
+| {{ship|Russian battleship|Potemkin||2}}|| 1900-10-09 || 
+|[[Pre-dreadnought]]||{{navy|Russian Empire}}
+|[[Black Sea Fleet]], famous mutinity 1905, renamed ''{{ship|Russian battleship|Panteleimon||2}}'' 1905, ''Potjomkin-Tavricheski''y and ''Borets za Svobodu'' 1917 – dismantled by British forces at [[Sevastopol]] 1919
+|-
+| {{ship|Russian battleship|Knyaz Suvorov||2}} || 1902-09-25 ||{{sclass|Borodino|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Russian Empire}}
+|Sunk at the [[Battle of Tsushima]], 27 May 1905
+|-
+| {{SMS|König||2}} || 1913-03-01{{sfn|Gröner|Jung|Martin|1990|p=28}} ||{{sclass|König|battleship|4}}
+|[[Dreadnought]]||{{navy|German Empire}}
+|[[Scuttling of the German fleet at Scapa Flow|Scuttled in Scapa Flow]], 21 June 1919{{sfn|Gröner|Jung|Martin|1990|p=28}}
+|-
+| {{SMS|König Albert||2}} || 1912-04-27{{sfn|Gröner|Jung|Martin|1990|p=26}} ||{{sclass|Kaiser|battleship|4}}
+|[[Dreadnought]]||{{navy|German Empire}}
+|[[Scuttling of the German fleet at Scapa Flow|Scuttled in Scapa Flow]], 21 June 1919, raised for scrap 1935{{sfn|Gröner|Jung|Martin|1990|p=26}}
+|-
+| {{SMS|Kronprinz|1914|2}}|| 1914-02-21{{sfn|Gröner|Jung|Martin|1990|p=28}} ||{{sclass|König|battleship|4}}
+|[[Dreadnought]]||{{navy|German Empire}}
+|Renamed ''Kronprinz Wilhelm'' 1918, [[Scuttling of the German fleet at Scapa Flow|scuttled in Scapa Flow]], 21 June 1919{{sfn|Gröner|Jung|Martin|1990|p=28}}
+|-
+| {{SMS|Kurfürst Friedrich Wilhelm||2}} || 1891-06-30{{sfn|Gröner|Jung|Martin|1990|p=14}} ||{{sclass|Brandenburg|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Pre-dreadnought]]||{{navy|German Empire}}
+| Sold to Turkey, 12 Sep 1910,{{sfn|Gröner|Jung|Martin|1990|p=14}} renamed ''Barbaros Hayreddin'', sunk by {{HMS|E11}}, 8 August 1915{{sfn|Langensiepen|Güleryüz|1995|p=28}}
+|- style="background:#FFEBAD;"
+| {{ship|French battleship|Languedoc||2}} || 1916-05-01{{sfn|Gardiner|Gray|1985|p=198}} ||{{sclass|Normandie|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|France}}
+|Cancelled; broken up, 1929{{sfn|Gardiner|Gray|1985|p=198}}
+|-
+| {{ship|Italian battleship|Leonardo da Vinci||2}} || 1911 ||{{sclass|Conte di Cavour|battleship|4}}
+|[[Dreadnought]]
+|{{navy|Kingdom of Italy}}|| 
+|-
+| {{ship|French battleship|Liberté||2}} || 1905-04-19{{sfn|Jordan|Caresse|2017|p=88}} ||{{sclass|Liberté|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|France}}
+| Sunk by magazine explosion, 1911{{sfn|Jordan|Caresse|2017|p=233}}
+|-
+| {{ship|Italian battleship|Littorio||2}} || 1937-08-22 ||{{sclass|Littorio|battleship|4}}
+|[[Fast battleship]]||{{navy|Kingdom of Italy}}
+|Renamed ''Italia'' 1943, as [[Prize (law)|war prize]] to USA, scrapped 1952–54
+|-
+| {{HMS|London|1899|2}} || 1899-09-21{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}} ||{{sclass|London|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United Kingdom}}
+| Broken up, 1920{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}}
+|-
+| {{HMS|Lord Nelson|1906|2}}|| 1906-09-04{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=40}} ||{{sclass|Lord Nelson|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|United Kingdom}}|| Broken up, 1920{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=40}}
+|-
+| {{ship|French battleship|Lorraine||2}} || 1913-09-30{{sfn|Jordan|Caresse|2017|p=163}} ||{{sclass|Bretagne|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|France}}
+|Broken up, 1954{{sfn|Gardiner|Gray|1985|p=198}}
+|-
+| {{SMS|Lothringen||2}} || 1904-05-27{{sfn|Gröner|Jung|Martin|1990|p=20}} ||{{sclass|Braunschweig|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|German Empire}}
+| Broken up, 1931{{sfn|Gröner|Jung|Martin|1990|p=20}}
+|-
+| {{USS|Louisiana|BB-19|3}}|| 1904-08-27{{sfn|Friedman|1985|p=419}} ||{{sclass|Connecticut|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1923{{sfn|Friedman|1985|p=419}}
+|-
+|{{HMS|Magnificent|1894|2}}
+|1894-12-19{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|{{sclass|Majestic|battleship|4}}
+|[[Pre-dreadnought]]
+|{{navy|United Kingdom}}
+|Broken up, 1921{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|-
+| {{USS|Maine|BB-10|2}} || 1901-7-27{{sfn|Friedman|1985|p=419}} ||{{sclass|Maine|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1922{{sfn|Friedman|1985|p=419}}
+|-
+|{{HMS|Majestic|1895|2}}
+|1895-01-31{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|{{sclass|Majestic|battleship|4}}
+|[[Pre-dreadnought]]
+|{{navy|United Kingdom}}
+|Torpedoed by German {{ship|SM|U-21|Germany|2}} at the [[Dardanelles]], 27 May 1915{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|-
+| {{HMS|Malaya||2}} || 1915-03-18 ||{{sclass|Queen Elizabeth|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}
+| 
+|-
+| {{SMS|Markgraf||2}} || 1913-06-04{{sfn|Gröner|Jung|Martin|1990|p=28}} ||{{sclass|König|battleship|4}}
+|[[Dreadnought]]||{{navy|German Empire}}
+|[[Scuttling of the German fleet at Scapa Flow|Scuttled in Scapa Flow]], 21 June 1919{{sfn|Gröner|Jung|Martin|1990|p=28}}
+|-
+| {{HMS|Marlborough|1912|2}} || 1912-01-25 ||{{sclass|Iron Duke|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}|| 
+|-
+|{{HMS|Mars|1896|2}}
+|1896-03-30{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|{{sclass|Majestic|battleship|4}}
+|[[Pre-dreadnought]]
+|{{navy|United Kingdom}}
+|Broken up, 1921{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|-
+| {{USS|Maryland|BB-46|2}}|| 1920-02-20{{sfn|Friedman|1985|p=420}} ||{{sclass|Colorado|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United States|1912}}|
+|Broken up, 1959{{sfn|Friedman|1985|p=420}}
+|-
+| {{USS|Massachusetts|BB-2|3}} || 1893-06-10{{sfn|Friedman|1985|p=418}}||{{sclass|Indiana|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United States|1912}}|| Sunk as a target, January 1921{{sfn|Friedman|1985|p=418}}
+|-
+| {{USS|Massachusetts|BB-59|3}} || 1941-09-23 ||{{sclass|South Dakota|battleship (1939)|4}}
+|[[Fast battleship]]||{{navy|United States|1912}}||Museum ship at [[Battleship Cove]] in [[Fall River, Massachusetts]]
+|-
+| {{ship|French battleship|Masséna||2}} || 1895-07-24{{sfn|Jordan|Caresse|2017|p=32}} || 
+|[[Pre-dreadnought]]||{{navy|France}}
+| Sunk as a [[Breakwater (structure)|breakwater]], 1915{{sfn|Gardiner|Gray|1985|p=192}}
+|-
+| {{SMS|Mecklenburg||2}} || 1901-11-09{{sfn|Gröner|Jung|Martin|1990|p=17}} ||{{sclass|Wittelsbach|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|German Empire}}
+| Broken up, 1920{{sfn|Gröner|Jung|Martin|1990|p=17}}
+|-
+| {{USS|Michigan|BB-27|2}} || 1908-07-11{{sfn|Friedman|1985|p=419}} ||{{sclass|South Carolina|battleship|4}}
+|[[Dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1924{{sfn|Friedman|1985|p=419}}
+|-
+| {{ship|Japanese battleship|Mikasa||2}} || 1900-11-08{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=222}} || 
+|[[Pre-dreadnought]]||{{navy|Empire of Japan}}
+|Preserved as a [[museum ship]]{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=222}}
+|-
+| {{ship|Brazilian battleship|Minas Geraes||2}} || 1908-09-10{{sfn|Gardiner|Gray|1985|p=404}} ||{{sclass|Minas Geraes|battleship|4}}
+|[[Dreadnought]]||{{navy|Brazil|1889}}
+| Broken up, 1953{{sfn|Gardiner|Gray|1985|p=404}}
+|-
+| {{USS|Minnesota|BB-22|3}}|| 1905-04-08{{sfn|Friedman|1985|p=419}} ||{{sclass|Connecticut|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1923{{sfn|Friedman|1985|p=419}}
+|-
+| {{ship|French battleship|Mirabeau||2}} || 1909-10-28{{sfn|Jordan|Caresse|2017|p=116}} ||{{sclass|Danton|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|France}}
+| Broken up, 1928{{sfn|Gardiner|Gray|1985|p=196}}
+|-
+| {{USS|Mississippi|BB-23|3}} || 1905-09-30{{sfn|Friedman|1985|p=419}} ||{{sclass|Mississippi|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|United States|1912}}
+| Sold to [[Greece]], 8 July 1914, sunk 1941{{sfn|Friedman|1985|p=419}}
+|-
+| {{USS|Mississippi|BB-41|3}} || 1917-01-25{{sfn|Friedman|1985|p=420}} ||{{sclass|New Mexico|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1956{{sfn|Friedman|1985|p=420}}
+|-
+| {{USS|Missouri|BB-11|3}} || 1901-12-28{{sfn|Friedman|1985|p=419}} ||{{sclass|Maine|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1922{{sfn|Friedman|1985|p=419}}
+|-
+| {{USS|Missouri|BB-63|3}} || 1944-01-29 ||{{sclass|Iowa|battleship|4}}
+|[[Fast battleship]]||{{navy|United States|1912}}||Last battleship retired by the US Navy – museum ship at [[Pearl Harbor]]
+|-
+| {{HMS|Monarch|1911|3}} || 1911-03-30 ||{{sclass|Orion|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}|| 
+|-
+| {{HMS|Montagu|1901|2}} || 1901-03-05{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}} ||{{sclass|Duncan|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United Kingdom}}
+|Wrecked on [[Lundy Island]], 30 May 1906{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}}
+|-
+| {{ship|ARA|Moreno||2}} || 1911-09-23{{sfn|Gardiner|Gray|1985|p=401}} ||{{sclass|Rivadavia|battleship|4}}
+|[[Dreadnought]]||{{navy|Argentina}}
+| Broken up, 1956{{sfn|Gardiner|Gray|1985|p=401}}
+|-
+| {{ship|Japanese battleship|Musashi||2}} || 1940-11-01{{sfn|Gardiner|Chesneau|1980|p=178}} ||{{sclass|Yamato|battleship|4}}
+|[[Fast battleship]]||{{navy|Empire of Japan}}||Sunk, 24 October 1944{{sfn|Gardiner|Chesneau|1980|p=178}}
+|-
+| {{ship|Japanese battleship|Mutsu||2}} || 1920-05-31{{sfn|Gardiner|Gray|1985|p=231}} ||{{sclass|Nagato|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]
+|{{navy|Empire of Japan}}||Destroyed by magazine explosion, 8 June 1943{{sfn|Gardiner|Gray|1985|p=231}}
+|-
+| {{ship|Japanese battleship|Nagato||2}} || 1919-11-09{{sfn|Gardiner|Gray|1985|p=231}} ||{{sclass|Nagato|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]
+|{{navy|Empire of Japan}}||Sunk as target, 1946{{sfn|Gardiner|Gray|1985|p=231}}
+|-
+| {{ship|Italian battleship|Napoli||2}} || 1905 ||{{sclass|Regina Elena|battleship|4}}
+|[[Pre-dreadnought|Semi-dreadnought]]||{{navy|Kingdom of Italy}}
+| 
+|-
+| {{SMS|Nassau||2}} || 1908-03-07{{sfn|Gröner|Jung|Martin|1990|p=24}} ||{{sclass|Nassau|battleship|4}}
+|[[Dreadnought]]||{{navy|German Empire}}
+|Surrendered to Japan 1920, broken up, 1921{{sfn|Gröner|Jung|Martin|1990|p=24}}
+|-
+| {{ship|Russian battleship|Navarin||2}} || 1891 || 
+|[[Pre-dreadnought battleship|Pre-dreadnought]]
+|{{navy|Russian Empire}}|| 
+|-
+| {{USS|Nebraska|BB-14|3}}|| 1904-10-07{{sfn|Friedman|1985|p=419}} ||{{sclass|Virginia|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1923{{sfn|Friedman|1985|p=419}}
+|-
+| {{HMS|Nelson|28|3}}|| 1925-09-03 ||{{sclass|Nelson|battleship|4}}||[[Treaty battleship]]||{{navy|United Kingdom}}||scrapped in 1949 
+|-
+| {{HMS|Neptune|1909|3}} || 1909-09-30 || 
+|[[Dreadnought]]||{{navy|United Kingdom}}
+| 
+|-
+| {{USS|Nevada|BB-36|3}}|| 1914-07-11{{sfn|Friedman|1985|p=420}} ||{{sclass|Nevada|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United States|1912}}
+|Sunk as a target, 1948{{sfn|Friedman|1985|p=420}} 
+|-
+| {{USS|New Hampshire|BB-25|2}}|| 1906-06-30{{sfn|Friedman|1985|p=419}} ||{{sclass|Connecticut|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|United States|1912}}|
+| Broken up, 1923{{sfn|Friedman|1985|p=419}}
+|-
+| {{USS|New Jersey|BB-16|3}} || 1904-11-10{{sfn|Friedman|1985|p=419}} ||{{sclass|Virginia|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United States|1912}}
+| Sunk as a target, 1923{{sfn|Friedman|1985|p=419}}
+|-
+| {{USS|New Jersey|BB-62|3}} || 1942-12-07 ||{{sclass|Iowa|battleship|4}}
+|[[Fast battleship]]||{{navy|United States|1912}}||Museum ship in [[Camden, New Jersey]]
+|-
+| {{USS|New Mexico|BB-40|3}}|| 1917-04-23{{sfn|Friedman|1985|p=420}} ||{{sclass|New Mexico|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1947{{sfn|Friedman|1985|p=420}}
+|-
+| {{USS|New York|BB-34|3}}|| 1912-10-30{{sfn|Friedman|1985|p=420}} ||{{sclass|New York|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United States|1912}}
+| Sunk as a target, 1948{{sfn|Friedman|1985|p=420}}
+|-
+| {{HMS|New Zealand|1904|2}} || 1904-02-04{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=38}} ||{{sclass|King Edward VII|battleship|4}}
+|[[Pre-dreadnought|Semi-dreadnought]]||{{navy|United Kingdom}}
+|Renamed ''Zealandia'' 1911, broken up, 1921{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=38}}
+|- style="background:#FFEBAD;"
+| {{ship|French battleship|Normandie||2}}|| 1914-10-19{{sfn|Gardiner|Gray|1985|p=198}} ||{{sclass|Normandie|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|France}}
+|Cancelled; broken up, 1925{{sfn|Gardiner|Gray|1985|p=198}}
+|-
+| {{USS|North Carolina|BB-55|3}}|| 1940-06-13 ||{{sclass|North Carolina|battleship|4}}
+|[[Fast battleship]]||{{navy|United States|1912}}||Museum ship in [[Wilmington, North Carolina]]
+|-
+| {{USS|North Dakota|BB-29|3}}|| 1908-11-10{{sfn|Friedman|1985|p=419}} ||{{sclass|Delaware|battleship|4}}
+|[[Dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1931{{sfn|Friedman|1985|p=419}}
+|-
+| {{HMS|Ocean|1898|3}} || 1898-07-05{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=35}} ||{{sclass|Canopus|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United Kingdom}}
+|Mined in [[Morto Bay]] off [[Cape Helles]], 18 Mar 1915{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=35}}
+|-
+| {{USS|Ohio|BB-12|3}}|| 1901-5-18{{sfn|Friedman|1985|p=419}} ||{{sclass|Maine|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1923{{sfn|Friedman|1985|p=419}}
+|-
+| {{USS|Oklahoma|BB-37|3}}|| 1914-03-23{{sfn|Friedman|1985|p=420}} ||{{sclass|Nevada|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United States|1912}}
+| Sunk at Pearl Harbor, 1941; raised, sank under tow to be broken up, 1947{{sfn|Friedman|1985|p=420}}
+|-
+| {{SMS|Oldenburg|1910|3|}}|| 1910-06-30{{sfn|Gröner|Jung|Martin|1990|p=25}} ||{{sclass|Helgoland|battleship|4}}
+|[[Dreadnought]]||{{navy|German Empire}}
+|Surrendered to Japan 1920, broken up, 1921{{sfn|Gröner|Jung|Martin|1990|p=25}}
+|-
+| {{USS|Oregon|BB-3|3}}|| 1893-10-26{{sfn|Friedman|1985|p=418}} ||{{sclass|Indiana|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United States|1912}}|| Broken up, 1956{{sfn|Friedman|1985|p=418}}
+|-
+| {{ship|Russian battleship|Oryol||2}} || 1902-07-19 ||{{sclass|Borodino|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Russian Empire}}
+| Surrendered to Japan after the [[Battle of Tsushima]], 28 May 1905, renamed ''Iwami''
+|-
+| {{HMS|Orion|1910|3}} || 1910-08-20 ||{{sclass|Orion|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}
+|
+|-
+| {{ship|Russian battleship|Oslyabya||2}} || 1898-11-08 ||{{sclass|Peresvet|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Russian Empire}}
+|Sunk at the [[Battle of Tsushima]], 27 May 1905
+|-
+| {{SMS|Ostfriesland||2}} || 1909-09-30{{sfn|Gröner|Jung|Martin|1990|p=25}} ||{{sclass|Helgoland|battleship|4}}
+|[[Dreadnought]]||{{navy|German Empire}}
+|Surrendered to USA 1920, sunk as a target by aircraft off [[Cape Henry]], 21 July 1921{{sfn|Gröner|Jung|Martin|1990|p=25}}
+|-
+|{{ship|French battleship|Paris||2}}|| 1912-09-28{{sfn|Jordan|Caresse|2017|p=142}} ||{{sclass|Courbet|battleship|4}}
+|[[Dreadnought]]||{{navy|France}}
+|Broken up, 1955{{sfn|Gardiner|Gray|1985|p=197}}
+|-
+| {{ship|French battleship|Patrie||2}} || 1903-12-17{{sfn|Jordan|Caresse|2017|p=88}} ||{{sclass|République|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|France}}
+| Broken up, 1928{{sfn|Gardiner|Gray|1985|p=192}}
+|-
+| {{USS|Pennsylvania|BB-38|3}}|| 1915-04-16{{sfn|Friedman|1985|p=420}} ||{{sclass|Pennsylvania|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United States|1912}}
+| Sank as a target, 1948{{sfn|Friedman|1985|p=420}}
+|-
+| {{ship|Russian battleship|Peresvet||2}} || 1898-05-19 ||{{sclass|Peresvet|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Russian Empire}}
+|| Lost to Japan after the [[Siege of Port Arthur]] 1905, renamed ''Sagami'', sold back to Russia 1916 – mined off [[Port Said]], 4 Jan 1917
+|-
+| {{ship|Russian battleship|Petropavlovsk|1894|3}} || 1894 ||{{sclass|Petropavlovsk|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Russian Empire}}
+|
+|-
+| {{ship|Russian battleship|Petropavlovsk|1911|3}} || 1911-09-22 ||{{sclass|Gangut|battleship|4}}
+|[[Dreadnought]]||{{navy|Russian Empire}}|| Later Soviet {{ship|Soviet battleship|Marat||2}}
+|-
+| {{ship|Russian battleship|Pobeda||2}} || 1900-05-10 ||{{sclass|Peresvet|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Russian Empire}}
+| Lost to Japan after the [[Siege of Port Arthur]] 1905, renamed ''Suwo''
+|-
+| {{ship|Russian battleship|Poltava|1894|3}} || 1894-11-06 ||{{sclass|Petropavlovsk|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Russian Empire}}
+| Lost to Japan after the [[Siege of Port Arthur]] 1905, renamed ''Tango'', sold back to Russia 1916, renamed ''Chesma''
+|-
+| {{ship|Russian battleship|Poltava|1911|3}} || 1911-07-23 ||{{sclass|Gangut|battleship|4}}||[[Dreadnought]]||{{navy|Russian Empire}}|| Later Soviet {{ship|Soviet battleship|Frunze||2}}
+|-
+| {{SMS|Pommern||2}} || 1905-12-02{{sfn|Gröner|Jung|Martin|1990|p=22}} ||{{sclass|Deutschland|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|German Empire}}
+|Torpedoed by British destroyers at the [[Battle of Jutland]], 1 June 1916{{sfn|Gröner|Jung|Martin|1990|p=22}}
+|-
+| {{SMS|Posen||2}} || 1908-12-12{{sfn|Gröner|Jung|Martin|1990|p=24}} ||{{sclass|Nassau|battleship|4}}
+|[[Dreadnought]]||{{navy|German Empire}}
+|Surrendered to UK 1920, broken up, 1922{{sfn|Gröner|Jung|Martin|1990|p=24}}
+|-
+| {{SMS|Preussen|1903|3}} || 1903-10-30{{sfn|Gröner|Jung|Martin|1990|p=20}} ||{{sclass|Braunschweig|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|German Empire}}
+| Partially scrapped, 1931; sunk by bombers, 1945; raised and scrapped, 1954{{sfn|Gröner|Jung|Martin|1990|p=20}}
+|-
+|{{HMS|Prince George|1895|2}}
+|1894-09-10{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|{{sclass|Majestic|battleship|4}}
+|[[Pre-dreadnought]]
+|{{navy|United Kingdom}}
+|Foundered en route to Germany for break-up, 30 December 1921{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|-
+| {{HMS|Prince of Wales|1902|3}} || 1902-03-25{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}} ||{{sclass|London|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United Kingdom}}
+| Broken up, 1920{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}}
+|-
+| {{HMS|Prince of Wales|53|3}} || 1939-05-03 ||{{sclass|King George V|battleship (1939)|4}} (1939)
+|[[Fast battleship]]||{{navy|United Kingdom}}||[[Sinking of Prince of Wales and Repulse|Sunk by Japanese torpedo bombers]] off [[Kuantan]], [[South China Sea]], 10 Dec 1941
+|-
+| {{SMS|Prinz Eugen|1912|3}} || 1912-11-30{{sfn|Gardiner|Gray|1985|p=334}} ||{{sclass|Tegetthoff|battleship|4}}
+|[[Dreadnought]]||{{navy|Austria-Hungary}}
+|Sunk as target off [[Toulon arsenal|Toulon]], 28 June 1922{{sfn|Gardiner|Gray|1985|p=334}}
+|-
+| {{SMS|Prinzregent Luitpold||2}} || 1912-02-17{{sfn|Gröner|Jung|Martin|1990|p=26}} ||{{sclass|Kaiser|battleship|4}}
+|[[Dreadnought]]||{{navy|German Empire}}
+|[[Scuttling of the German fleet at Scapa Flow|Scuttled in Scapa Flow]], 21 June 1919, raised for scrap 1931{{sfn|Gröner|Jung|Martin|1990|p=26}}
+|-
+| {{ship|French battleship|Provence||2}}|| 1913-04-20{{sfn|Jordan|Caresse|2017|p=163}} ||{{sclass|Bretagne|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|France}}
+|[[Scuttling of the French fleet at Toulon|Scuttled at Toulon]], 27 Nov 1942, raised 1943, sunk again as [[blockship]], raised again for scrap 1949{{sfn|Gardiner|Gray|1985|p=198}}
+|-
+| {{HMS|Queen|1902|2}} || 1902-03-08{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}} ||{{sclass|London|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United Kingdom}}|| Broken up, 1920{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}}
+|-
+| {{HMS|Queen Elizabeth|1913|2}} || 1913-10-16 ||{{sclass|Queen Elizabeth|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}||
+|-
+| {{SMS|Radetzky||2}} || 1909-07-03{{sfn|Gardiner|Gray|1985|p=333}} ||{{sclass|Radetzky|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|Austria-Hungary}}
+|Broken up, 1920{{sfn|Gardiner|Gray|1985|p=333}}
+|-
+| {{HMS|Ramillies|1892|3}} || 1892-03-01{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=32}} ||{{sclass|Royal Sovereign|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United Kingdom}}
+| Broken up, 1913{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=32}}
+|-
+| {{HMS|Ramillies|07|3}} || 1916-09-12 ||{{sclass|Revenge|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}
+| 
+|-
+| {{ship|Italian battleship|Regina Elena||2}} || 1904 ||{{sclass|Regina Elena|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|Kingdom of Italy}}
+| 
+|-
+| {{ship|Italian battleship|Regina Margherita||2}} || 1901 ||{{sclass|Regina Margherita|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|Kingdom of Italy}}
+| 
+|-
+| {{HMS|Renown|1895|2}} || 1895-05-08{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}} ||{{sclass|Centurion|battleship|4}} (modified)
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United Kingdom}}
+| Broken up, 1914{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|-
+| {{ship|French battleship|République||2}} || 190209-04{{sfn|Jordan|Caresse|2017|p=88}} ||{{sclass|République|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|France}}
+| Broken up, 1921{{sfn|Gardiner|Gray|1985|p=192}}
+|-
+| {{HMS|Repulse|1892|2}} || 1892-02-27{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=32}} ||{{sclass|Royal Sovereign|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United Kingdom}}
+| Broken up, 1911{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=32}}
+|-
+| {{HMS|Resolution|1892|3}} || 1892-05-28{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=32}} ||{{sclass|Royal Sovereign|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United Kingdom}}
+| Broken up, 1914{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=32}}
+|-
+| {{HMS|Resolution|09|3}} || 1915-01-14 ||{{sclass|Revenge|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}
+| 
+|-
+| {{ship|Russian battleship|Retvizan||2}} || 1900-10-23 || 
+|[[Pre-dreadnought]]||{{navy|Russian Empire}}
+| Lost to Japan after the [[Siege of Port Arthur]] 1905, renamed ''Hizen''
+|-
+| {{HMS|Revenge|1892|3}} || 1892-11-03{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=32}} ||{{sclass|Royal Sovereign|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United Kingdom}}
+| Broken up, 1919{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=32}}
+|-
+| {{HMS|Revenge|06|3}} || 1915-05-29 ||{{sclass|Revenge|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}
+|Ex-''Renown''
+|-
+| {{SMS|Rheinland||2}} || 1908-09-26{{sfn|Gröner|Jung|Martin|1990|p=24}} ||{{sclass|Nassau|battleship|4}}
+|[[Dreadnought]]||{{navy|German Empire}}
+|Surrendered to UK 1920, broken up, 1921{{sfn|Gröner|Jung|Martin|1990|p=24}}
+|-
+| {{USS|Rhode Island|BB-17|3}}|| 1904-5-17{{sfn|Friedman|1985|p=419}} ||{{sclass|Virginia|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1923{{sfn|Friedman|1985|p=419}}
+|-
+| {{ship|French battleship|Richelieu||2}}|| 1939-01-17{{sfn|Jordan|Dumas|2009|p=123}} ||{{sclass|Richelieu|battleship|4}}
+|[[Fast battleship]]||{{navy|France}}
+|Broken up, 1968{{sfn|Jordan|Dumas|2009|p=208}}
+|-
+| {{ship|ARA|Rivadavia||2}} || 1911-08-26{{sfn|Gardiner|Gray|1985|p=401}} ||{{sclass|Rivadavia|battleship|4}}
+|[[Dreadnought]]||{{navy|Argentina}}
+| Broken up, 1956{{sfn|Gardiner|Gray|1985|p=401}}
+|-
+| {{HMS|Rodney|29|3}} || 1925-12-17 ||{{sclass|Nelson|battleship|4}}
+|[[Treaty Battleship|Treaty battleship]]||{{navy|United Kingdom}}||
+|-
+| {{ship|Italian battleship|Roma|1907|3}} || 1909 ||{{sclass|Regina Elena|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|Kingdom of Italy}}
+| 
+|-
+| {{ship|Italian battleship|Roma|1940|3}} || 1940-06-09 ||{{sclass|Littorio|battleship|4}}
+|[[Fast battleship]]||{{navy|Kingdom of Italy}}||Sunk by German [[Fritz X]] [[Kehl-Strasbourg radio control link|radio-controlled]] bomb in the [[Strait of Bonifacio]], 9 Sep 1943
+|-
+| {{ship|Russian battleship|Rostislav||2}} || 1896 || 
+|[[Pre-dreadnought]]||{{navy|Russian Empire}}
+| 
+|-
+| {{HMS|Royal Oak|1892|3}} || 1892-11-05{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=32}} ||{{sclass|Royal Sovereign|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United Kingdom}}
+| Broken up, 1914{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=32}}
+|-
+| {{HMS|Royal Oak|08|3}} || 1914-11-17 ||{{sclass|Revenge|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}
+|Torpedoed by German {{ship|German submarine|U-47|1938|2}} at [[Scapa Flow]], 14 Oct 1939
+|-
+| {{HMS|Royal Sovereign|1891|3}} || 1891-02-26{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=32}} ||{{sclass|Royal Sovereign|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United Kingdom}}
+| Broken up, 1913{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=32}}
+|-
+| {{HMS|Royal Sovereign|05|3}} || 1915-04-29 ||{{sclass|Revenge|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}
+|Transferred to Soviet Union 1944–49, renamed ''Arkhangelsk''
+|-
+| {{HMS|Russell|1901|2}} || 1901-02-19{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}} ||{{sclass|Duncan|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United Kingdom}}
+| Mined off Malta, 27 April 1916{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}}
+|- style="background:#FFEBAD;"
+| {{SMS|Sachsen|1916|3}} || 1916-11-21{{sfn|Gröner|Jung|Martin|1990|p=30}} ||{{sclass|Bayern|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|German Empire}}||Incomplete at end of [[World War I]], broken up, 1921{{sfn|Gröner|Jung|Martin|1990|p=30}}
+|-
+| {{ship|French battleship|Saint Louis||2}} || 1896-09-02{{sfn|Jordan|Caresse|2017|p=44}} ||{{sclass|Charlemagne|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|France}}
+| Broken up, 1933{{sfn|Gardiner|Gray|1985|p=192}}
+|-
+| {{ship|Brazilian battleship|São Paulo||2}} || 1909-04-19{{sfn|Gardiner|Gray|1985|p=404}} ||{{sclass|Minas Geraes|battleship|4}}
+|[[Dreadnought]]||{{navy|Brazil|1889}}
+|Foundered, 4 November 1951{{sfn|Whitley|1998|p=29}}
+|-
+| {{ship|Japanese battleship|Satsuma||2}} || 1906-11-06{{sfn|Gardiner|Gray|1985|p=228}} ||{{sclass|Satsuma|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|Empire of Japan}}||Sunk as target, 7 September 1924{{sfn|Gardiner|Gray|1985|p=228}}
+|-
+| {{ship|German battleship|Scharnhorst||2}} || 1936-10-03 ||{{sclass|Scharnhorst|battleship|4}}
+|[[Fast battleship]]||{{navy|Nazi Germany}}||Sunk by British forces at the [[Battle of North Cape]], 26 Dec 1943
+|-
+| {{SMS|Schlesien||2}} || 1906-05-28{{sfn|Gröner|Jung|Martin|1990|p=22}} ||{{sclass|Deutschland|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|German Empire}}
+|Scuttled after mine strike at [[Świnoujście|Swinemünde]], 3 May 1945, broken up ''in situ'' 1949–1956{{sfn|Gröner|Jung|Martin|1990|p=22}}
+|-
+| {{SMS|Schleswig-Holstein||2}} || 1906-12-17{{sfn|Gröner|Jung|Martin|1990|p=22}} ||{{sclass|Deutschland|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|German Empire}}
+|Sunk by British air attack at [[Gdynia|Gotenhafen]], 18 Dec 1944,{{sfn|Gröner|Jung|Martin|1990|p=22}} raised and used as target by [[Soviet Navy]] till the 1960s{{sfn|Breyer|1992|p=40}}
+|-
+| {{SMS|Schwaben||2}} || 1901-08-19{{sfn|Gröner|Jung|Martin|1990|p=17}} ||{{sclass|Wittelsbach|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|German Empire}}
+| Broken up, 1920{{sfn|Gröner|Jung|Martin|1990|p=17}}
+|-
+| {{ship|Japanese battleship|Settsu||2}} || 1911-03-30{{sfn|Gardiner|Gray|1985|p=229}} ||{{sclass|Kawachi|battleship|4}}
+|[[Dreadnought]]||{{navy|Empire of Japan}}
+|Sunk, 24 July 1945{{sfn|Gardiner|Gray|1985|p=229}}
+|-
+| {{ship|Russian battleship|Sevastopol|1895|3}} || 1895 ||{{sclass|Petropavlovsk|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|Russian Empire}}
+|
+|-
+| {{ship|Russian battleship|Sevastopol|1911|3}} || 1911-07-10 ||{{sclass|Gangut|battleship|4}}
+|[[Dreadnought]]||{{navy|Russian Empire}}|| Later Soviet {{ship|Soviet battleship|Parizhskaya Kommuna||2}}
+|-
+| {{ship|Japanese battleship|Shikishima||2}} || 1898-11-01{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=221}} ||{{sclass|Shikishima|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|Empire of Japan}}
+|Broken up, 1947{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=221}}
+|- style="background:#cedbec;"
+|{{ship|Japanese aircraft carrier|Shinano||2}}
+|1944-10-08{{sfn|Gardiner|Chesneau|1980|p=178}}
+|{{sclass|Yamato|battleship|4}}
+|[[Fast battleship]]
+|{{navy|Empire of Japan}}
+|Converted to aircraft carrier, sunk by {{USS|Archerfish|SS-311|6}}, 1944{{sfn|Gardiner|Chesneau|1980|p=178}}
+|-
+| {{ship|Russian battleship|Sissoi Veliky||2}} || 1894 ||
+|[[Pre-dreadnought]]||{{navy|Russian Empire}}
+|
+|-
+| {{ship|Russian battleship|Slava||2}} || 1903-08-29 ||{{sclass|Borodino|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|Russian Empire}}||Scuttled during the [[Battle of Moon Sound]], 17 Oct 1917, scrapped 1935
+|-
+| {{USS|South Carolina|BB-26|3}}|| 1908-07-25{{sfn|Friedman|1985|p=419}} ||{{sclass|South Carolina|battleship|4}}
+|[[Dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1924{{sfn|Friedman|1985|p=419}}
+|-
+| {{USS|South Dakota|BB-57|3}}|| 1941-06-07 ||{{sclass|South Dakota|battleship (1939)|4}}
+|[[Fast battleship]]||{{navy|United States|1912}}||Broken up 1962, parts preserved at [[Sioux Falls, South Dakota]]
+|-
+| {{HMS|St. Vincent|1908|2}} || 1908-09-10 ||{{sclass|St. Vincent|battleship|4}}
+|[[Dreadnought]]||{{navy|United Kingdom}}
+| 
+|-
+| {{ship|French battleship|Strasbourg||2}} || 1936-12-12{{sfn|Jordan|Dumas|2009|p=59}} ||{{sclass|Dunkerque|battleship|4}}||[[Fast battleship]]||{{navy|France}}||[[Scuttling of the French fleet at Toulon|Scuttled at Toulon]], 27 Nov 1942; broken up, 1955{{sfn|Jordan|Dumas|2009|p=93}}
+|-
+| {{ship|French battleship|Suffren||2}}|| 1899-07-25{{sfn|Jordan|Caresse|2017|p=75}} || 
+|[[Pre-dreadnought]]||{{navy|France}}
+| Sunk by {{ship|SM|U-47||2}}, 1916{{sfn|Gardiner|Gray|1985|p=192}}
+|-
+| {{HMS|Superb|1907|3}} || 1907-11-07 ||{{sclass|Bellerophon|battleship|4}}
+|[[Dreadnought]]||{{navy|United Kingdom}}
+| 
+|-
+|{{HMS|Swiftsure|1903|3}}
+|1903-01-12{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=39}}
+|{{sclass|Swiftsure|battleship|4}}
+|[[Pre-dreadnought]]
+|{{navy|United Kingdom}}
+|Ex-Chilean ''Constitución'', purchased 1903; broken up, 1920{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=39}}
+|-
+| {{SMS|Szent István||2}} || 1914-01-17{{sfn|Gardiner|Gray|1985|p=334}} ||{{sclass|Tegetthoff|battleship|4}}
+|[[Dreadnought]]||{{navy|Austria-Hungary}}
+|Sunk by [[MAS (motorboat)|''MAS 15'']], 10 June 1918{{sfn|Gardiner|Gray|1985|p=334}}
+|-
+| {{SMS|Tegetthoff|1912|2}}|| 1912-03-21{{sfn|Gardiner|Gray|1985|p=334}} ||{{sclass|Tegetthoff|battleship|4}}
+|[[Dreadnought]]||{{navy|Austria-Hungary}}
+|Broken up, 1924{{sfn|Gardiner|Gray|1985|p=334}}
+|-
+| {{HMS|Temeraire|1907|3}} || 1907-08-24 ||{{sclass|Bellerophon|battleship|4}}
+|[[Dreadnought]]||{{navy|United Kingdom}}
+| 
+|-
+| {{USS|Tennessee|BB-43|3}}|| 1919-04-30{{sfn|Friedman|1985|p=420}} ||{{sclass|Tennessee|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United States|1912}}
+|Broken up, 1959{{sfn|Friedman|1985|p=420}}
+|-
+| {{USS|Texas|BB-35|2}} || 1912-05-18{{sfn|Friedman|1985|p=420}} ||{{sclass|New York|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United States|1912}}
+|Museum ship at [[San Jacinto Battleground State Historic Site]]{{sfn|Friedman|1985|p=420}}
+|-
+| {{HMS|Thunderer|1911|2}} || 1911-02-01 ||{{sclass|Orion|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}
+| 
+|-
+| {{SMS|Thüringen||2}} || 1909-11-27{{sfn|Gröner|Jung|Martin|1990|p=25}} ||{{sclass|Helgoland|battleship|4}}
+|[[Dreadnought]]||{{navy|German Empire}}
+|Surrendered to France 1920, beached off [[Gâvres]] as a target, broken up, 1923–1933{{sfn|Gröner|Jung|Martin|1990|p=25}}
+|-
+| {{ship|German battleship|Tirpitz||2}} || 1939-04-01 ||{{sclass|Bismarck|battleship|4}}
+|[[Fast battleship]]||{{navy|Nazi Germany}}||Sunk by British bombers near [[Tromsø]], 12 Nov 1944, broken up 1948–57
+|- style="background:#FFEBAD;"
+| {{ship|Japanese battleship|Tosa||2}}
+|1921-12-18{{sfn|Gardiner|Gray|1985|p=232}}
+|{{sclass|Tosa|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]
+|{{navy|Empire of Japan}}
+|Cancelled under terms of [[Washington Naval Treaty]] 1922; scuttled, 9 Feb 1925{{sfn|Gardiner|Gray|1985|p=232}}
+|-
+| {{ship|Russian battleship|Tri Sviatitelia||2}} || 1893 || 
+|[[Pre-dreadnought battleship|Pre-dreadnought]]
+|{{navy|Russian Empire}}|| 
+|-
+|{{HMS|Triumph|1903|2}}
+|1903-01-15{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=39}}
+|{{sclass|Swiftsure|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]
+|{{navy|United Kingdom}}
+|Ex-Chilean ''Libertad'', purchased 1903; torpedoed by German [[SM U-21 (Germany)|''U-21'']], 25 May 1915{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=39}}
+|-
+| {{ship|Russian battleship|Tsesarevich||2}} || 1901-02-23 || 
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|Russian Empire}}
+|Renamed {{ship|Soviet battleship|Grazhdanin||2}} 1917, inoperative at [[Kronstadt]] 1918
+|-
+| {{USS|Utah|BB-31|3}}|| 1909-12-23{{sfn|Friedman|1985|p=419}} ||{{sclass|Florida|battleship|4}}
+|[[Dreadnought]]||{{navy|United States|1912}}
+| Sunk at Pearl Harbor, 1941{{sfn|Friedman|1985|p=419}}
+|-
+| {{HMS|Valiant|1914|3}} || 1914-11-04 ||{{sclass|Queen Elizabeth|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United Kingdom}}||
+|-
+| {{HMS|Vanguard|1909|3}} || 1909-02-22 ||{{sclass|St. Vincent|battleship|4}}
+|[[Dreadnought]]||{{navy|United Kingdom}}
+|Blew up at [[Scapa Flow]], 9 July 1917
+|-
+| {{HMS|Vanguard|23|3}} || 1944-11-30 || 
+|[[Fast battleship]]||{{navy|United Kingdom}}|| Last battleship launched, sold for scrap in 1960
+|-
+| {{HMS|Venerable|1899|2}} || 1899-11-02{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}} ||{{sclass|London|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United Kingdom}}
+| Broken up, 1920{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=37}}
+|-
+| {{HMS|Vengeance|1899|2}} || 1899-07-25{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=35}} ||{{sclass|Canopus|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United Kingdom}}
+| Broken up, 1921{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=35}}
+|-
+| {{ship|French battleship|Vergniaud||2}} || 1910-04-12{{sfn|Jordan|Caresse|2017|p=116}} ||{{sclass|Danton|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|France}}
+| Broken up, 1929{{sfn|Gardiner|Gray|1985|p=197}}
+|-
+| {{ship|French battleship|Vérité||2}} || 1907-05-28{{sfn|Jordan|Caresse|2017|p=88}} ||{{sclass|Liberté|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|France}}
+| Broken up, 1922{{sfn|Gardiner|Gray|1985|p=192}}
+|-
+| {{USS|Vermont|BB-20|3}}|| 1905-08-31{{sfn|Friedman|1985|p=419}} ||{{sclass|Connecticut|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1923{{sfn|Friedman|1985|p=419}}
+|-
+|{{HMS|Victorious|1895|2}}
+|1895-10-19{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|{{sclass|Majestic|battleship|4}}
+|[[Pre-dreadnought]]
+|{{navy|United Kingdom}}
+|Broken up, 1922{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=34}}
+|-
+| {{USS|Virginia|BB-13|3}}|| 1904-04-05{{sfn|Friedman|1985|p=419}} ||{{sclass|Virginia|battleship|4}}
+|[[Pre-dreadnought]]||{{navy|United States|1912}}
+| Sunk as a target, 1923{{sfn|Friedman|1985|p=419}}
+|-
+| {{SMS|Viribus Unitis||2}} || 1911-06-24{{sfn|Gardiner|Gray|1985|p=334}} ||{{sclass|Tegetthoff|battleship|4}}
+|[[Dreadnought]]||{{navy|Austria-Hungary}}
+| Sunk by Italian [[limpet mine]], 1 November 1918{{sfn|Gardiner|Gray|1985|p=334}}
+|-
+| {{ship|Italian battleship|Vittorio Emanuele||2}} || 1904-10-12 ||{{sclass|Regina Elena|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|Kingdom of Italy}}
+| 
+|-
+| {{ship|Italian battleship|Vittorio Veneto||2}} || 1937-07-25 ||{{sclass|Littorio|battleship|4}}
+|[[Fast battleship]]||{{navy|Kingdom of Italy}}||As [[Prize (law)|war prize]] to UK, scrapped 1951–54
+|-
+| {{ship|French battleship|Voltaire||2}}|| 1909-01-16{{sfn|Jordan|Caresse|2017|p=116}} ||{{sclass|Danton|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Semi-dreadnought]]||{{navy|France}}
+| Broken up, 1939{{sfn|Gardiner|Gray|1985|p=196}}
+|-
+| {{HMS|Warspite|03|2}} || 1913-11-26 ||{{sclass|Queen Elizabeth|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]
+|{{navy|United Kingdom}}|| 
+|- style="background:#FFEBAD;"
+| {{USS|Washington|BB-47|3}}|| 1921-09-01{{sfn|Friedman|1985|p=420}} ||{{sclass|Colorado|battleship|4}}
+|[[Fast battleship|Super-dreadnought]]||{{navy|United States|1912}}||Cancelled under terms of [[Washington Naval Treaty]], 1922; sunk as gunnery target, 1924{{sfn|Friedman|1985|p=420}}
+|-
+| {{USS|Washington|BB-56|3}} || 1940-06-01 ||{{sclass|North Carolina|battleship|4}}
+|[[Fast battleship]]||{{navy|United States|1912}}||Sold for scrap, 1961
+|-
+| {{SMS|Weissenburg||2}} || 1891-12-14{{sfn|Gröner|Jung|Martin|1990|p=14}} ||{{sclass|Brandenburg|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Pre-dreadnought]]||{{navy|German Empire}}
+| Sold to Turkey, 12 Sep 1910,{{sfn|Gröner|Jung|Martin|1990|p=14}} renamed ''Turgut Reis'', broken up, 1950{{sfn|Langensiepen|Güleryüz|1995|p=147}}
+|-
+| {{USS|West Virginia|BB-48|2}}|| 1921-11-19{{sfn|Friedman|1985|p=420}} ||{{sclass|Colorado|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|United States|1912}}|
+|Broken up, 1959{{sfn|Friedman|1985|p=420}}
+|-
+| {{SMS|Westfalen||2}} || 1908-07-01{{sfn|Gröner|Jung|Martin|1990|p=24}} ||{{sclass|Nassau|battleship|4}}
+|[[Dreadnought]]||{{navy|German Empire}}
+|Surrendered to UK 1920, broken up, 1924{{sfn|Gröner|Jung|Martin|1990|p=24}}
+|-
+| {{SMS|Wettin||2}} || 1901-06-06{{sfn|Gröner|Jung|Martin|1990|p=17}} ||{{sclass|Wittelsbach|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|German Empire}}
+| Broken up, 1920{{sfn|Gröner|Jung|Martin|1990|p=17}}
+|-
+| {{USS|Wisconsin|BB-9|3}} || 1898-11-26{{sfn|Friedman|1985|p=419}} ||{{sclass|Illinois|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|United States|1912}}
+| Broken up, 1922{{sfn|Friedman|1985|p=419}}
+|-
+| {{USS|Wisconsin|BB-64|3}} || 1943-12-07 ||{{sclass|Iowa|battleship|4}}
+|[[Fast battleship]]||{{navy|United States|1912}}||Museum ship at [[Nauticus, The National Maritime Center|Nauticus]] in [[Norfolk, Virginia]]
+|-
+| {{SMS|Wittelsbach||2}} || 1900-07-03{{sfn|Gröner|Jung|Martin|1990|p=17}} ||{{sclass|Wittelsbach|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|German Empire}}
+| Broken up, 1920{{sfn|Gröner|Jung|Martin|1990|p=17}}
+|-
+| {{SMS|Wörth||2}} || 1892-08-06{{sfn|Gröner|Jung|Martin|1990|p=14}} ||{{sclass|Brandenburg|battleship|4}}
+|[[Dreadnought#All-big-gun mixed-calibre ships|Pre-dreadnought]]||{{navy|German Empire}}
+| Broken up, 1919{{sfn|Gröner|Jung|Martin|1990|p=14}}
+|- style="background:#FFEBAD;"
+| {{SMS|Württemberg|1917|3}} || 1917-06-20{{sfn|Gröner|Jung|Martin|1990|p=30}} ||{{sclass|Bayern|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]||{{navy|German Empire}}||Incomplete at end of [[World War I]], broken up, 1921{{sfn|Gröner|Jung|Martin|1990|p=30}}
+|-
+| {{USS|Wyoming|BB-32|3}}|| 1911-05-25{{sfn|Friedman|1985|p=420}} ||{{sclass|Wyoming|battleship|4}}
+|[[Dreadnought]]||{{navy|United States|1912}}
+|Broken up, 1948{{sfn|Friedman|1985|p=420}}
+|-
+| {{ship|Japanese battleship|Yamashiro||2}} || 1915-11-03{{sfn|Gardiner|Gray|1985|p=229}} ||{{sclass|Fusō|battleship|4}}
+|[[Dreadnought#Super-dreadnoughts|Super-dreadnought]]
+|{{navy|Empire of Japan}}||Sunk, 25 October 1944{{sfn|Gardiner|Gray|1985|p=229}}
+|-
+| {{ship|Japanese battleship|Yamato||2}} || 1940-08-08{{sfn|Gardiner|Chesneau|1980|p=178}} ||{{sclass|Yamato|battleship|4}}
+|[[Fast battleship]]||{{navy|Empire of Japan}}||Sunk, 7 April 1945{{sfn|Gardiner|Chesneau|1980|p=178}}
+|-
+| {{ship|Japanese battleship|Yashima||2}} || 1896-02-28{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=221}} ||{{sclass|Fuji|battleship|4}}
+|[[Pre-dreadnought battleship|Pre-dreadnought]]||{{navy|Empire of Japan}}
+|Mined and sunk, 15 May 1904{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=221}}
+|}
+
+==See also==
+
+* [[List of ironclads]]
+* [[List of battlecruisers]]
+* [[List of battleships of World War I]]
+* [[List of battleships of World War II]]
+
+== Notes ==
+{{reflist|20em}}
+
+==References==
+* {{cite book
+  | last = Breyer
+  | first = Siegfried
+  | year = 1992
+  | title = Linienschiffe Schleswig-Holstein und Schlesien: Die "Bügeleisen" der Ostsee
+  | lang = de
+  | publisher = Podzun-Pallas-Verlag GmbH
+  | location = Friedberg
+  | isbn = 3-7909-0463-5
+  }}
+* {{cite book
+  |last1=Caresse
+  |first1=Philippe
+  |title=Warship 2019
+  |date=2019
+  |publisher=Osprey Publishing
+  |location=Oxford
+  |isbn=978-1-4728-3595-6
+  |pages=29–46
+  |editor1-last=Jordan
+  |editor1-first=John
+  |chapter=The French Battleship ''Brennus''
+  }}
+* {{cite book
+  | last = Friedman
+  | first = Norman
+  | year = 1985
+  | title = U.S. Battleships: An Illustrated Design History
+  | location = Annapolis
+  | publisher = [[Naval Institute Press]]
+  | isbn = 978-0-87021-715-9
+  }}
+* {{cite book
+  |last1=Jordan
+  |first1=John
+  |last2=Caresse
+  |first2=Philippe
+  |title=French Battleships of World War One
+  |date=2017
+  |publisher=Naval Institute Press
+  |location=Annapolis
+  |isbn=978-1-59114-639-1
+  |name-list-style=amp
+  }}
+* {{cite book
+  |last1=Jordan
+  |first1=John
+  |last2=Dumas
+  |first2=Robert
+  |title=French Battleships 1922–1956
+  |publisher=Seaforth Publishing
+  |isbn=978-1-84832-034-5
+  |year=2009
+  |location=Barnsley
+  | name-list-style=amp
+  }}
+*{{cite book
+ |editor1-last=Gardiner
+ |editor1-first=Robert
+ |editor2-last=Chesneau
+ |editor2-first=Roger
+ |editor3-last=Kolesnik
+ |editor3-first=Eugene M.
+ |date=1979
+ |title=Conway's All the World's Fighting Ships 1860–1905
+ |url=
+ |location=London
+ |publisher=Conway Maritime Press
+ |page= <!-- or pages= -->
+ |isbn=0-85177-133-5
+ |author-link=
+}}
+*{{cite book
+ |editor1-last=Gardiner
+ |editor1-first=Robert
+ |editor2-last=Gray
+ |editor2-first=Randal
+ |date=1985
+ |title=Conway's All the World's Fighting Ships 1906–1921
+ |url=
+ |location=London
+ |publisher=Conway Maritime Press
+ |page= <!-- or pages= -->
+ |isbn=0-85177-245-5
+ |author-link=
+}}
+*{{cite book
+ |editor1-last=Gardiner
+ |editor1-first=Robert
+ |editor2-last=Chesneau
+ |editor2-first=Roger
+ |date=1980
+ |title=Conway's All the World's Fighting Ships 1922–1946
+ |url=
+ |location=London
+ |publisher=Conway Maritime Press
+ |page= <!-- or pages= -->
+ |isbn=0-85177-146-7
+ |author-link=
+}}
+* {{cite book
+  | last1 = Gröner
+  | first1 = Erich
+  |author-link1=Erich Gröner
+  | last2 = Jung
+  | first2 = Dieter
+  | last3 = Martin
+  | first3 = Maass
+  | year = 1990
+  | title = German Warships: 1815–1945
+  | volume = I: Major Surface Vessels
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-0-87021-790-6
+  }}
+*{{cite book
+ |last1=Langensiepen
+ |first1=Bernd
+ |last2=Güleryüz
+ |first2=Ahmet
+ |date=1995
+ |title=The Ottoman Steam Navy 1828–1923
+ |url=
+ |location=London
+ |publisher=Conway Maritime Press
+ |page= <!-- or pages= -->
+ |isbn=0-85177-610-8
+ |author-link=
+}}
+* {{cite book
+  | last = Whitley
+  | first = M.J.
+  | title = Battleships of World War Two: An International Encyclopedia
+  | location = Annapolis
+  | publisher = Naval Institute Press
+  | year = 1998
+  | isbn = 978-1-55750-184-4
+  }}
+
+==External links==
+* [http://www.maritimequest.com/warship_directory/20th_century_battleship_overview.htm Maritimequest Battleships & Battlecruisers of the 20th century]
+
+{{Battleships}}
+
+[[Category:Lists of battleships|*]]
