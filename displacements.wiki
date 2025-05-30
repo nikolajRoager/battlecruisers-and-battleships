@@ -1,0 +1,29 @@
+Several examples of lines with displacement, for testing regices
+
+{{convert|8232|LT|t|0|lk=in}}
+{{convert|8748|LT|t|0}} full load
+[[Normal displacement|Normal]]: {{convert|15585|to|15885|LT|lk=on}}
+[[Full load]]: {{convert|17009|to|17290|LT}}
+{{convert|16500|LT|t|lk=on}}
+{{convert|16500|LT|t|lk=on}}
+{{convert|17683|LT|t}} [[deep load]]
+{{convert|16750|ihp|abbr=on|lk=on}}
+{{convert|27850|LT|t|lk=on}} (load)
+{{convert|30860|LT|t}} ([[deep load]])
+{{convert|25420|LT|t|lk=in}} (normal)
+{{convert|20100-21800|LT|t|lk=on|0}}
+[[normal displacement|Normal]]: {{convert|11565|LT|lk=on}}
+[[Full load]]: {{convert|12250|LT}}
+[[standard displacement|Standard]]: {{convert|37970|LT|t|lk=on}}
+[[Full load]]: {{convert|44519|LT|t|abbr=on}}
+[[Normal displacement|Normal]]: {{convert|13270|to|13745|LT|lk=on}}
+[[Full load]]: {{convert|14900|to|15200|LT}}
+[[Full load]]: {{convert|14300|LT|abbr=on|lk=on}}
+[[normal displacement|Normal]]: {{convert|15700|t|LT|abbr=on|lk=on}}
+[[Full load]]: {{convert|16450|t|LT|abbr=on}}
+{{convert|28600|LT|t|0|lk=on}}
+[[Normal displacement|Normal]]: {{convert|10082|LT|t|0|lk=on}} 
+[[Full load]]: {{convert|10531|LT|t|0}}
+[[Full load]]: {{cvt|24729|MT|lk=on}}
+{{convert|17320|LT|t|lk=on}}
+{{convert|18580|LT|t}} ([[deep load]]) 

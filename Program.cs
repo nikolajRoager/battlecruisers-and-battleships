@@ -9,6 +9,8 @@ public static class Program
 {
     public async static Task Main()
     {
+        List<Ship> battleships = new();
+
         //Semi-AI generated text to download the wikitext for the main list
         //The method for downloading the page is AI, but all the null checks and comments are human generated
         string title = "List_of_battleships";
@@ -28,9 +30,7 @@ public static class Program
         //My guess is that there will only be one page, but you never know
         foreach (var page in pages)
         {
-            Console.WriteLine("Analyzing page for shiplist");
-
-            //It is not null, I know it is not null
+            //It is not null, I know it is not null, but the compiler doesn't
             string? wikitext = (string?)page?.First?["revisions"]?[0]?["*"];
             if (wikitext == null)
                 continue;
@@ -59,7 +59,7 @@ public static class Program
 
             //I will try to explain each section of the regex string in the comments below the string 
             //You should turn off text wrap for it to be clear 
-            Regex MatchShipLine = new Regex(@"(?<=\|-\n)\|.*?({{.*?}}).*?[\|\||\n].*?(\d+-\d+-\d+).*?[\|\||\n].*?({{.*?}}).*?[\|\||\n\|].*?\[\[(.*?)\]\].*?[\|\||\n].*?({{.*?}})");
+            Regex MatchShipLine = new Regex(@"(?<=\|-\n)\|.*?({{.*?}}).*?[\|\||\n].*?(\d+-\d+-\d+).*?[\|\||\n](.*?)[\|\||\n\|].*?\[\[(.*?)\]\].*?[\|\||\n].*?({{.*?}})");
             /*                                +-A------++B+C+-D------++C++-E--------++C++---F--------+C++-E--------++C++--G----++C+++E----------++C++-E----------+C++-E----------+C++-H----
             A: Positive look-behind, find anything after a newline, a |, and a space
             B: Start of line
@@ -75,64 +75,91 @@ public static class Program
             {
                 //Console.WriteLine("MATCHED SHIP WITH THE FOLLOWING DATA");
                 string fullMatch = MatchShipLineMatch.Groups[0].Value;
-                Console.WriteLine($"Full match =\"{fullMatch}\"");
+                //      Console.WriteLine($"Full match =\"{fullMatch}\"");
                 string shipLink = MatchShipLineMatch.Groups[1].Value;
                 //This will be a template {{ship|name|disambiquation|display}}
                 //Or a navy specific like {{hms|name|pendant or year|display}}
                 //There will be 4 things to catch either way, and we don't care about the last
                 //This Regex gets all individual parts
-                Regex splitShipLink = new Regex(@"{{(.*?)\|(.*?)\|(.*?)\|(.*?)}}");
-                var shiplinkMatches=splitShipLink.Match(shipLink);
+                Regex splitShipLink = new Regex(@"{{(.*?)\|(.*?)\|(.*?)\|(.*?)[\|(.*?)}}|}}]?");
+                var shiplinkMatches = splitShipLink.Match(shipLink);
                 if (!shiplinkMatches.Success)
                 {
-                    Console.Error.WriteLine("Could not find ship name in "+shipLink+" in "+fullMatch);
+                    Console.Error.WriteLine("Could not find ship name in " + shipLink + " in " + fullMatch);
                     return;
                 }
-                string shipTitle;
-                shipTitle= (shiplinkMatches.Groups[1].Value.ToLower()!="ship"? shiplinkMatches.Groups[1].Value+"_":"")+shiplinkMatches.Groups[2].Value+(shiplinkMatches.Groups[3].Value.Count()>0? "_("+shiplinkMatches.Groups[3].Value+")":"");
-                shipTitle=shipTitle.Replace(" ", "_");
-                Console.Write($"Ship =\"{shipTitle}\"");
-                string launched = MatchShipLineMatch.Groups[2].Value;
+                string shipName;
 
-                //Just get the launch date as a string
-                Console.Write($"Launched   =\"{launched}\"");
+                string altName;
+
+                if (shiplinkMatches.Groups[1].Value.ToLower() == "ship")
+                {
+                    shipName = shiplinkMatches.Groups[2].Value + "_" + shiplinkMatches.Groups[3].Value + (shiplinkMatches.Groups[4].Value.Count() > 0 ? "_(" + shiplinkMatches.Groups[4].Value + ")" : "");
+                    altName = shiplinkMatches.Groups[2].Value + "_" + shiplinkMatches.Groups[3].Value;
+                }
+                else
+                {
+
+                    shipName = (shiplinkMatches.Groups[1].Value.ToLower() != "ship" ? shiplinkMatches.Groups[1].Value + "_" : "") + shiplinkMatches.Groups[2].Value + (shiplinkMatches.Groups[3].Value.Count() > 0 ? "_(" + shiplinkMatches.Groups[3].Value + ")" : "");
+                    altName = (shiplinkMatches.Groups[1].Value.ToLower() != "ship" ? shiplinkMatches.Groups[1].Value + "_" : "") + shiplinkMatches.Groups[2].Value;
+                }
+
+                shipName = shipName.Replace(" ", "_");
+                altName= altName.Replace(" ", "_");
+                string launchDate = MatchShipLineMatch.Groups[2].Value;
+
 
                 //Split out the class name from this
                 string classLink = MatchShipLineMatch.Groups[3].Value;
                 //This is done with a simpler regex than the name of the ship, we have only class and type (e.g. battleship):
-                Regex splitShipClass = new Regex(@"{{sclass\|(.*?)\|(.*?)\|(.*?)}}");
-                var shipClassMatches=splitShipLink.Match(classLink);
-                string sclass;
+                Regex splitShipClass = new Regex(@"{{sclass\|(.*?)\|(.*?)\|.*?}}");
+                var shipClassMatches = splitShipLink.Match(classLink);
+                string shipClass;
                 if (!shipClassMatches.Success)
                 {
-                    sclass = shipTitle;
+                    //Just use the ship title if this is a one-off
+                    shipClass = shipName;
                 }
                 else
                 {
-                    sclass = shipClassMatches.Groups[2].Value;
+                    if (shipClassMatches.Groups[3].Value.Length > 0)
+                        shipClass = shipClassMatches.Groups[2].Value + "-class_" + shipClassMatches.Groups[3];
+                    else
+                        shipClass = shipClassMatches.Groups[2].Value;
                 }
-                Console.Write($"Class =\"{sclass}\"");
 
                 //The type is either just written, or there is a |, in which case we are interested in the part to the right
                 string typeLink = MatchShipLineMatch.Groups[4].Value;
                 var types = typeLink.Split('|');
                 string type = types[types.Length - 1];
-                Console.Write($"Type =\"{type}\"");
-                string navyLink= MatchShipLineMatch.Groups[5].Value;
+                string navyLink = MatchShipLineMatch.Groups[5].Value;
                 //Finally split the navy from the navy link:
-                Regex splitShipnavy  = new Regex(@"{{navy\|(.*?)[\|.+]?}}");
-                var shipNavyMatches=splitShipnavy.Match(navyLink);
+                Regex splitShipnavy = new Regex(@"{{navy\|(.*?)}}");
+                var shipNavyMatches = splitShipnavy.Match(navyLink);
                 if (!shipNavyMatches.Success)
                 {
-                    Console.Error.WriteLine("Could not find ship navy in "+navyLink+" in "+fullMatch);
+                    Console.Error.WriteLine("Could not find ship navy in " + navyLink + " in " + fullMatch);
                     return;
                 }
-                string navy = shipNavyMatches.Groups[1].Value;
+                string[] navy = shipNavyMatches.Groups[1].Value.Split("|", StringSplitOptions.RemoveEmptyEntries);
 
-                Console.WriteLine($"Navy =\"{navy}\"");
+                battleships.Add(new Ship(shipName, altName, launchDate, shipClass, type, navy[0]));
+
             }
-
         }
 
+        for (int i = 0; i < battleships.Count; ++i)
+        {
+            Console.WriteLine($"\n\nReading {i}/{battleships.Count}");
+            await battleships[i].DownloadData();
+        }
+
+        List<String> data = new List<String>();
+        data.Add($"name,class,navy,standard displacement,deep load displacement,normal displacement,indicated horsepower,shaft horsepower,year");
+        foreach (var ship in battleships)
+        {
+            data.Add($"{ship.Name},{ship.ClassName},{ship.Navy},{(ship.displacementMT.ContainsKey(Ship.Displacement.Standard)? ship.displacementMT?[Ship.Displacement.Standard]:"null")},{(ship.displacementMT.ContainsKey(Ship.Displacement.Deep)? ship.displacementMT?[Ship.Displacement.Deep]:"null")},{(ship.displacementMT.ContainsKey(Ship.Displacement.Normal)?ship.displacementMT?[Ship.Displacement.Normal]:"null")},{(ship.powerShp.ContainsKey(false)? ship.powerShp?[false]:"null")},{(ship.powerShp.ContainsKey(true)? ship.powerShp?[true]:"null")},{ship.LaunchDate.Year}");
+        }
+        System.IO.File.WriteAllLines("battleship.csv", data);
     }
 }

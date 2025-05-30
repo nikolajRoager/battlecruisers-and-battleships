@@ -1,0 +1,219 @@
+{{Short description|Austro-Hungarian Navy's Habsburg-class pre-dreadnought battleship}}
+{| {{Infobox ship begin}}
+|+ SMS ''Árpád''
+{{Infobox ship image
+|Ship image=File:Austrian battleship, SMS Árpád 1914 (31233846062).jpg
+|Ship caption=''Árpád'' in 1914
+}}
+{{Infobox ship career
+| Hide header = 
+| Ship country = [[Austria-Hungary]]
+| Ship flag = {{shipboxflag|Austria-Hungary|naval}}
+| Ship name = ''Árpád''
+| Ship namesake = [[Árpád]], [[Grand Prince of the Hungarians]]
+| Ship ordered = 
+| Ship builder = STT
+| Ship laid down = 10 June 1899
+| Ship launched = 11 September 1901
+| Ship completed = 
+| Ship commissioned = 15 June 1903
+| Ship decommissioned = 
+| Ship in service = 
+| Ship out of service = 
+| Ship struck = 
+| Ship reinstated = 
+| Ship honours = 
+| Ship fate = [[Scrap]]ped, 1921
+| Ship notes = 
+}}
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption = 
+| Ship class = {{sclass|Habsburg|battleship|0}} [[pre-dreadnought battleship]]
+| Ship displacement =* {{convert|8232|LT|t|0|lk=in}}
+* {{convert|8748|LT|t|0}} full load
+
+| Ship length = {{convert|375|ft|10|in|m|1|abbr=on}}
+| Ship beam   = {{convert|65|ft|m|1|abbr=on}}
+| Ship power  = {{convert|14307|ihp|0|lk=in|abbr=on}}
+| Ship draft  = {{convert|24|ft|6|in|m|1|abbr=on}}
+| Ship propulsion = 2 shafts, 4-cylinder [[Marine steam engine#Triple or multiple expansion|vertical triple expansion steam engines]], 16 Belleville [[boiler (steam generator)|boiler]]s
+| Ship speed  = {{convert|19.65|kn|lk=in}}
+| Ship range = 
+| Ship complement = 638
+| Ship sensors = 
+| Ship EW = 
+| Ship armament =*  3 × [[24 cm SK L/40|{{convert|24|cm|1|abbr=on|adj=on}}/40 cal.]] [[Krupp]] C97 guns
+* 12 × [[15 cm SK L/40 naval gun|{{convert|15|cm|1|abbr=on}}/40]] cal. Krupp C96 guns
+* 10 × {{convert|6.6|cm|1|adj=on|sp=us}}/45 cal Skoda guns
+*  6 × [[QF 3-pounder Hotchkiss#Austro-Hungarian service|{{convert|47|mm|in|sp=us|abbr=on}}]]/44 cal Skoda QF guns
+*  2 × 4.7-cm/33 cal Skoda QF guns
+*  2 × {{convert|45|cm|1|adj=on|sp=us}} [[torpedo tube]]s
+
+| Ship armor =* [[Belt armor|Waterline belt]]: {{convert|180|-|220|mm|in|abbr=on|1}}
+* [[Deck (ship)|Deck]]: {{convert|40|mm|in|abbr=on|1}}
+* [[Gun turret|Turrets]] & [[Casemates]]: {{convert|210|-|280|mm|in|abbr=on|1}}
+* [[Conning tower]]: {{convert|150|mm|in|abbr=on|1}}
+
+| Ship notes = 
+}}
+|}
+
+'''SMS ''Árpád''''' {{efn|name=SMS}} was a [[pre-dreadnought battleship]] built by the Austro-Hungarian Navy in the early 20th century. She was launched on 11 September 1901 as the second of three {{sclass|Habsburg|battleship|2}}s.{{sfn|Sieche|p=330}} Along with her sister ships, she participated at the [[bombardment of Ancona]] during [[World War I]]. Due to a shortage of coal, she was soon decommissioned after the bombardment of Ancona and used as harbor defense ship for the remainder of the war. After the war, all of the ''Habsburg''-class battleships were ceded to Great Britain as war prizes. She was scrapped in [[Italy]] in 1921.
+
+== Construction and layout ==
+
+{{main|Habsburg-class battleship}}
+
+''Árpád'' was the second of three battleships of her class. Her hull was laid down on 10 June 1899 at the [[Stabilimento Tecnico Triestino]] shipyard in [[Trieste]]. Following more than two years of construction, she was launched on 11 September 1901. After final fitting-out work was finished, ''Árpád'' was fully ready for service and commissioned into the Austro-Hungarian Navy on 15 June 1903.{{sfn|Sieche|p=333}}
+
+[[File:Habsburg class linedrawing2.jpg|thumb|left|Line-drawing of the ''Habsburg''-class ships; shaded areas show the extent of the armor layout]]
+
+Like all ships of her class, ''Árpád'' was {{convert|113.11|m|ftin|abbr=on}} [[length at the waterline|long at the waterline]] and was {{convert|114.55|m|ftin|abbr=on}} in [[length overall|overall length]].{{sfn|Gardiner Chesneau & Kolesnik|p=272}} She had a [[beam (nautical)|beam]] of {{convert|19.8|m|ftin|abbr=on}} and a [[Draft (hull)|draft]] of {{convert|7.5|m|ftin|abbr=on}}.{{sfn|Hore|p=91}} [[Freeboard (nautical)|Freeboard]] was approximately {{convert|5.8|m|ft|abbr=on}} forward and about {{convert|5.5|m|ft|abbr=on}} aft. She also displaced {{convert|8,364|MT|LT|lk=on}}. Once construction on her had finished and she was commissioned into the Navy, ''Árpád'' had a crew of 638 officers and enlisted men.{{sfn|Hore|p=91}}
+
+''Árpád'' was powered by 2-shaft, 4-cylinder vertical [[triple expansion engine]]s, which were supplied with steam by 16 [[Belleville boiler]]s. ''Árpád''{{'}}s power output was rated at {{convert|14,307|ihp|kW|lk=in}}, which produced a top speed of {{convert|19.65|kn|lk=in}}.{{sfn|Gardiner Chesneau & Kolesnik|p=272}}
+
+The hull for the ship was constructed from longitudinal and transverse steel frames, over which the outer hull plates were [[rivet]]ed into place. The hull incorporated a [[double bottom]] that ran for 63% of the ship's length. A series of watertight [[Bulkhead (partition)|bulkhead]]s also extended from the [[keel]] to the gun deck. All in all, there was a total of 174 [[watertight compartment]]s in the ship.{{sfn|Phelps|p=25}} ''Árpád'' had a [[metacentric height]] of between {{convert|.82|m|ft|abbr=on}} and {{convert|1.02|m|ft|abbr=on}}. [[Bilge keel]]s were mounted on either side of the hull to reduce rolling and prevent her from capsizing.{{sfn|Phelps|p=26}} ''Árpád'' had a flush main deck that was planked with wood, while the upper decks were covered with [[linoleum]] or [[corticine]].
+
+''Árpád'' had three [[24 cm SK L/40|{{convert|24|cm|in|abbr=on}} L/40 guns]], two mounted in a twin [[Gun turret|turret]] forward and one mounted in a single turret aft of the main superstructure. The C&nbsp;97-type guns were manufactured by [[Krupp]] in Germany.{{sfn|Gardiner Chesneau & Kolesnik|p=272}} The main guns fired at a [[rate of fire|rate]] of between three and four {{convert|215|kg|lb|abbr=on}} [[armor-piercing shot and shell|armor-piercing]] (AP) shells per minute. Her secondary armament consisted of twelve [[15 cm SK L/40 naval gun|{{convert|15|cm|1|abbr=on}}]] SK L/40 guns in [[casemate]]s.{{sfn|Gardiner Chesneau & Kolesnik|p=272}} These guns could fire at 4–5 shells per minute. She was built with [[Case hardening|face-hardened]] chrome-nickel steel. The main [[belt armor|armored belt]] was {{convert|220|mm|in|abbr=on}} in the central portion of the ship, where the ammunition magazines, machinery spaces, and other critical areas were located. The belt tapered slightly to {{convert|180|mm|in|abbr=on}} on either end of the central section.{{sfn|Gardiner Chesneau & Kolesnik|p=272}}
+
+== Service history ==
+
+=== Peacetime ===
+[[File:SMS Arpad (1901), Modell.jpg|300px|right|thumb|1:50 scale model of Árpád]]
+''Árpád'' took part in her first fleet maneuvers in mid-1903 with her [[sister ship]] ''Habsburg''. The third sister, ''Babenberg'', was commissioned in Summer 1904, and participated in successive fleet drills. Following a series of simulated war games pitting ''Árpád'' and her sister ships against the three {{sclass|Monarch|coastal defense ship|0}} battleships,{{sfn|Sondhaus|p=158}} ''Árpád'' and the other two ''Habsburg''-class ships became the I Battleship Division.{{sfn|Blatchford|p=437}} This new division was active in the Mediterranean region. When ''Habsburg'' underwent a training cruise with the three ''Monarch''-class battleships in January 1903, ''Árpád'' joined her the next year in a voyage around the Mediterranean Sea.{{sfn|Sondhaus|p=158}} With the commissioning of the {{sclass|Erzherzog Karl|battleship|2}}s in 1906 and 1907, the ''Habsburg''-class ships were transferred from the I to the II Battleship Division, and the three ''Monarch''-class battleships were moved from the II to the III Battleship Division.{{sfn|Sondhaus|p=158}} In 1910–1911, ''Árpád'' had one of her superstructure decks removed to reduce weight.{{sfn|Sieche|p=330}}
+
+=== World War I ===
+
+Early in [[World War I]], ''Árpád'' was transferred to the Austro-Hungarian Navy's IV Division after the first new {{sclass|Tegetthoff|battleship|2}}s came into service. At around the same time, ''Árpád'', her sister ships {{SMS|Habsburg||2}} and {{SMS|Babenberg||2}} and the remainder of the Austro-Hungarian Navy were mobilized to support the flight of {{SMS|Goeben}} and {{SMS|Breslau||2}} from 28 July to 10 August 1914. The two German ships were stationed in the Mediterranean and were attempting to break out of the strait of [[Messina]], which was surrounded by British vessels. After breaking out, the German ships planned to steam to Turkey. After the Germans successfully broke out of Messina, the Austro-Hungarian Navy was recalled. The fleet had by that time advanced as far south as [[Brindisi]] in southeastern coast of Italy.{{sfn|Halpern|p=54}} After [[Italy]] entered the war on the side of [[France]] and [[United Kingdom|Great Britain]], the Austro-Hungarian Navy bombarded several Italian port cities along the Adriatic coast. ''Árpád'' took part in the [[Bombardment of Ancona]] on 23 May 1915.{{sfn|Hore|p=91}}
+
+Due to a coal shortage, ''Árpád'' was later decommissioned and re-purposed as a harbor defense ship for the latter half of the war.{{sfn|Sieche|p=330}} ''Árpád''{{'}}s crew was transferred to man the new [[U-boat]]s and aircraft.{{sfn|Hore|p=91}} Following the war, ''Árpád'', along with her sister ships, were awarded to Great Britain as [[war prize]]s. They were sold to Italy and broken up for scrap in 1921.{{sfn|Sieche|p=330}}
+
+== Footnotes ==
+
+===Explanatory notes===
+
+{{notes
+| notes =
+
+{{efn
+| name = SMS
+| "SMS" stands for "''[[Seiner Majestät Schiff]]'' ", or "His Majesty's Ship" in German.
+}}
+
+}}
+
+===Citations===
+
+{{reflist|25em}}
+
+== References ==
+
+* {{cite book
+  | last = Blatchford
+  | first = Robert
+  | year = 1904
+  | chapter = Sundries: A Socialist editor on conscription
+  | title = The United Service Magazine
+  | volume = 150
+  | publisher = H. Colburn
+  | location = 
+  | isbn =
+  | ref = {{sfnRef|Blatchford}}
+  }}
+* {{cite book
+  | editor1-last = Gardiner
+  | editor1-first = Robert
+  | editor2-last = Chesneau
+  | editor2-first = Roger
+  | editor3-last = Kolesnik
+  | editor3-first = Eugene M.
+  | year = 1979
+  | title = Conway's All the World's Fighting Ships 1860–1905
+  | publisher = Conway Maritime Press
+  | location = London
+  | isbn = 978-0-85177-133-5
+  | url-access = registration
+  | url = https://archive.org/details/conwaysallworlds0000unse_l2e2
+  | ref = {{sfnRef|Gardiner Chesneau & Kolesnik}}
+  }}
+* {{cite book
+  | last = Halpern
+  | first = Paul G.
+  | year = 1995
+  | title = A Naval History of World War I
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-1-55750-352-7
+  | oclc = 57447525
+  | ref = {{sfnRef|Halpern}}
+  }}
+* {{cite book
+  | last = Hore
+  | first = Peter
+  | year = 2006
+  | title = The Ironclads
+  | publisher = Southwater Publishing
+  | location = London
+  | isbn = 978-1-84476-299-6
+  | oclc = 
+  | ref = {{sfnRef|Hore}}
+  | url-access = registration
+  | url = https://archive.org/details/ironcladsillustr0000hore
+  }}
+* {{cite book
+  | last = Phelps
+  | first = Harry
+  | year = 1901
+  | chapter = Notes on ships and torpedo boats, Section 2
+  | title = Notes on the Year's Naval Progress, Issue 20
+  | publisher = Office of Naval Intelligence, Government Printing Office
+  | location = 
+  | isbn = 
+  | ref = {{sfnRef|Phelps}}
+  }}
+* {{cite book
+  | last = Sieche
+  | first = Erwin
+  | chapter = Austria-Hungary
+  | editor1-last = Gardiner
+  | editor1-first = Robert
+  | editor2-last = Gray
+  | editor2-first = Randal
+  | year = 1985
+  | title = Conway's All the World's Fighting Ships 1906–1921
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-0-87021-907-8
+  | ref = {{sfnRef|Sieche}}
+  | url=https://archive.org/details/conwaysallworlds0000unse_z3o0
+  }}
+* {{cite book
+  | last = Sondhaus
+  | first = Lawrence
+  | year = 1994
+  | title = The Naval Policy of Austria-Hungary, 1867–1918
+  | location = West Lafayette, IN
+  | publisher = Purdue University Press
+  | isbn = 978-1-55753-034-9
+  | oclc = 28112077
+  | ref = {{sfnRef|Sondhaus}}
+  }}
+* {{cite book
+  | last = Tucker
+  | first = Spencer E.
+  | year = 2005
+  | title = The Encyclopedia of World War I
+  | publisher = ABC-CLIO
+  | isbn = 978-1-85109-420-2
+  | ref = {{sfnRef|Tucker}}
+  }}
+
+{{Habsburg class battleship}}
+{{Good article}}
+
+{{DEFAULTSORT:Arpad}}
+[[Category:Habsburg-class battleships]]
+[[Category:Ships built in Trieste]]
+[[Category:1901 ships]]
+[[Category:World War I battleships of Austria-Hungary]]

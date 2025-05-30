@@ -1,0 +1,56 @@
+There are some errors in finding displacement in the following cases
+
+Ill formated displacement, fix Wikipedia instead
+-----------
+
+    HMS_King_George_V_(41)
+    USS_Nevada_(BB-36)
+    Brazilian_battleship_São_Paulo
+
+Page does not redirect correcly, disambiguation missing
+--------
+
+    French_battleship_Courbet
+    Russian_battleship_Gangut
+    French_battleship_Jean_Bart
+    French_battleship_Jean_Bart (again, disambiguation missing)
+    Russian_battleship_Petropavlovsk
+    Russian_battleship_Petropavlovsk
+    Russian_battleship_Poltava
+    Russian_battleship_Poltava
+    Italian_battleship_Roma
+    Italian_battleship_Roma
+    Russian_battleship_Sevastopol
+    Russian_battleship_Sevastopol
+    SMS_Radetzky
+
+WTF is Actual displacement, open issue on Wikipedia
+---------------
+
+    Russian_battleship_Potemkin
+
+
+St_vincent, fix period
+---------
+
+    HMS_St._Vincent_(1908)
+
+
+
+Ship renamed, need manual workaround
+------------
+
+    USS_Idaho_(BB-24) Greek battleship Lemnos
+    USS_Mississippi_(BB-23) Greek battleship Kilkis
+    HMS_New_Zealand_(1904) Renamed to Zealandia
+
+Inexplicable connection error
+-------
+
+    SMS_Nassau
+
+Unknown regex error
+----------
+
+    Russian_battleship_Slava
+    Russian_battleship_Tsesarevich

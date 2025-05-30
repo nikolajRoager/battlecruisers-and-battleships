@@ -1,0 +1,610 @@
+WRITING WRITING 0
+SEARCH SMS_Árpád
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption = 
+| Ship class = {{sclass|Habsburg|battleship|0}} [[pre-dreadnought battleship]]
+| Ship displacement =* {{convert|8232|LT|t|0|lk=in}}
+* {{convert|8748|LT|t|0}} full load
+
+| Ship length = {{convert|375|ft|10|in|m|1|abbr=on}}
+| Ship beam   = {{convert|65|ft|m|1|abbr=on}}
+| Ship power  = {{convert|14307|ihp|0|lk=in|abbr=on}}
+| Ship draft  = {{convert|24|ft|6|in|m|1|abbr=on}}
+| Ship propulsion = 2 shafts, 4-cylinder [[Marine steam engine#Triple or multiple expansion|vertical triple expansion steam engines]], 16 Belleville [[boiler (steam generator)|boiler]]s
+| Ship speed  = {{convert|19.65|kn|lk=in}}
+| Ship range = 
+| Ship complement = 638
+| Ship sensors = 
+| Ship EW = 
+| Ship armament =*  3 × [[24 cm SK L/40|{{convert|24|cm|1|abbr=on|adj=on}}/40 cal.]] [[Krupp]] C97 guns
+* 12 × [[15 cm SK L/40 naval gun|{{convert|15|cm|1|abbr=on}}/40]] cal. Krupp C96 guns
+* 10 × {{convert|6.6|cm|1|adj=on|sp=us}}/45 cal Skoda guns
+*  6 × [[QF 3-pounder Hotchkiss#Austro-Hungarian service|{{convert|47|mm|in|sp=us|abbr=on}}]]/44 cal Skoda QF guns
+*  2 × 4.7-cm/33 cal Skoda QF guns
+*  2 × {{convert|45|cm|1|adj=on|sp=us}} [[torpedo tube]]s
+
+| Ship armor =* [[Belt armor|Waterline belt]]: {{convert|180|-|220|mm|in|abbr=on|1}}
+* [[Deck (ship)|Deck]]: {{convert|40|mm|in|abbr=on|1}}
+* [[Gun turret|Turrets]] & [[Casemates]]: {{convert|210|-|280|mm|in|abbr=on|1}}
+* [[Conning tower]]: {{convert|150|mm|in|abbr=on|1}}
+
+| Ship notes = 
+
+WRITING WRITING 1
+SEARCH HMS_Africa_(1905)
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass|King Edward VII|battleship|0}} [[pre-dreadnought battleship]]
+| Ship displacement = 
+*[[Normal displacement|Normal]]: {{convert|15585|to|15885|LT|lk=on}}
+*[[Full load]]: {{convert|17009|to|17290|LT}}
+|Ship length={{convert|453|ft|9|in|m|abbr=on|1}} ([[length overall|loa]])
+|Ship beam={{convert|75|ft|m|abbr=on|1}}
+|Ship draught={{convert|25|ft|8|in|m|abbr=on}}
+|Ship power=
+*16 [[water-tube boiler]]s
+*{{convert|18000|ihp|kW|lk=in|abbr=on|-1}}
+|Ship propulsion=
+*2 × [[Marine steam engine#Triple or multiple expansion|triple-expansion steam engines]]
+*2 × [[screw propeller]]s
+|Ship speed={{convert|18.5|kn|lk=in}}
+|Ship complement=777
+|Ship armament=
+*4 × [[BL 12 inch Mk IX naval gun|BL {{convert|12|in|mm|abbr=on|0}} Mk IX gun]]s
+*4 × [[BL 9.2 inch gun Mk IX - X|BL {{convert|9.2|in|mm|abbr=on|0}} Mk X gun]]s
+*10 × [[BL 6 inch Mk VII naval gun|BL {{convert|6|in|mm|abbr=on|0}} Mk VII gun]]s
+*14 × [[QF 12 pounder 12 cwt naval gun|12-pounder {{convert|3|in|abbr=on|0}} guns]]
+*14 × [[QF 3 pounder Hotchkiss|3-pounder {{convert|47|mm|abbr=on}} guns]]
+*4 × [[British 18 inch torpedo|18-in (450-mm)]] [[torpedo tube]]s (submerged)
+|Ship armour=
+*[[Belt armor|Belt]]: {{convert|9|in|mm|abbr=on|0}}
+*[[Bulkhead (partition)|Bulkhead]]s: {{convert|8|-|12|in|mm|abbr=on|0}}
+*[[Barbette]]s: 12&nbsp;in
+*[[Gun turret|Turret]]s:
+**Main battery: 8–12&nbsp;in
+**9.2-inch battery: {{convert|5|-|9|in|mm|abbr=on|0}}
+*[[Casemate]]s: {{convert|7|in|mm|abbr=on|0}}
+*[[Conning tower]]: 12&nbsp;in
+*[[Deck (ship)|Deck]]s: {{convert|1|-|2.5|in|mm|abbr=on}}
+|Ship notes=
+
+WRITING WRITING 2
+SEARCH HMS_Agamemnon_(1906)
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=[[Lord Nelson-class battleship|''Lord Nelson''-class]] [[pre-dreadnought battleship]]
+|Ship displacement=*{{convert|16500|LT|t|lk=on}}
+*{{convert|17683|LT|t}} [[deep load]]
+|Ship length={{convert|443|ft|6|in|m|1|abbr=on}}
+|Ship beam={{convert|79|ft|6|in|m|1|abbr=on}}
+|Ship draught={{convert|26|ft|9|in|m|1|abbr=on}}
+|Ship propulsion=*2 shafts, 2 [[Marine steam engine#Triple or multiple expansion|triple-expansion steam engines]]
+|Ship speed={{convert|18|kn|lk=in}}
+|Ship range={{convert|9180|nmi|lk=in|-1}} at {{convert|10|kn}}
+|Ship power=*15 [[water-tube boiler]]s
+*{{convert|16750|ihp|abbr=on|lk=on}}
+|Ship complement=800–817
+|Ship armament=*2 × twin [[BL 12 inch Mk X naval gun|{{cvt|12|in|0}} guns]]
+*4 × twin, 2 × single [[BL 9.2 inch Mk XI naval gun|{{cvt|9.2|in|0}} guns]]
+*24 × single [[QF 12-pounder 18 cwt naval gun|12-pdr (3&nbsp;in (76&nbsp;mm)) guns]]
+*5 × [[British 18 inch torpedo|{{cvt|18|in|mm|0}} torpedo]] tubes
+|Ship armour=*[[Belt armor|Belt]]: {{convert|12|in|mm|0|abbr=on}}
+*[[Deck (ship)|Decks]]: {{convert|1|-|4|in|mm|0|abbr=on}}
+*[[Barbette]]s: {{convert|3|-|12|in|mm|abbr=on|0}}
+*Main [[gun turret]]s: {{convert|12|-|13.5|in|mm|0|abbr=on}}
+*Secondary gun turrets: {{convert|3|-|7|in|mm|0|abbr=on}}
+*[[Conning tower]]: {{convert|12|in|mm|0|abbr=on}}
+*[[Bulkhead (partition)|Bulkhead]]s: {{convert|8|in|mm|0|abbr=on}}
+|Ship notes=
+
+WRITING WRITING 3
+SEARCH HMS_Agincourt_(1913)
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(in British service)
+|Ship type=[[Dreadnought battleship]]
+|Ship displacement=*{{convert|27850|LT|t|lk=on}} (load)
+* {{convert|30860|LT|t}} ([[deep load]])
+|Ship length={{convert|671|ft|6|in|m|abbr=on|1}}
+|Ship beam={{convert|89|ft|m|abbr=on|1}}
+|Ship draught={{convert|29|ft|10|in|m|abbr=on|1}}
+|Ship power=*22 × [[water-tube boiler]]s
+* {{convert|34000|shp|kW|lk=on|abbr=on}}
+|Ship propulsion=4 × shafts; 4 × [[steam turbine]]s
+|Ship speed={{convert|22|kn|lk=in}}
+|Ship range={{convert|7000|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship complement=1268 (1917)
+|Ship armament=*7 × twin [[EOC 12 inch/45 naval gun|{{convert|12|in|mm|0|abbr=on}} guns]]
+* 20 × single [[BL 6 inch Mk XIII naval gun|{{convert|6|in|mm|0|abbr=on}} guns]]
+* 10 × single {{convert|3|in|mm|abbr=on|0}} guns
+* 3 × [[British 21 inch torpedo|21&nbsp;in (533&nbsp;mm)]] [[torpedo tube]]s
+|Ship armour=*[[Belt armor|Belt]]: {{convert|9|in|mm|0|abbr=on}}
+* [[Deck (ship)|Deck]]: {{convert|1|-|2.5|in|mm|0|abbr=on}}
+* [[Barbette]]s: {{convert|2|-|9|in|mm|0|abbr=on}}
+* [[Gun turret|Turret]]: {{convert|8|-|12|in|mm|0|abbr=on}}
+* [[Conning tower]]: {{convert|12|in|mm|0|abbr=on}}
+* [[Bulkhead (partition)|Bulkhead]]s: {{convert|2.5|-|6|in|mm|0|abbr=on}}
+|Ship notes=
+
+WRITING WRITING 4
+SEARCH HMS_Ajax_(1912)
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption = (as built)
+| Ship class = {{sclass|King George V|battleship|0||1911}} [[dreadnought battleship]]
+| Ship displacement = {{convert|25420|LT|t|lk=in}} (normal)
+| Ship length = {{convert|597|ft|9|in|m|abbr=on|1}} ([[Length overall|o/a]])
+| Ship beam = {{convert|89|ft|1|in|m|abbr=on|1}}
+| Ship draught = {{convert|28|ft|8|in|m|abbr=on|1}}
+| Ship power = *{{convert|27000|shp|lk=in|abbr=on}}
+*18 × [[Babcock & Wilcox boiler]]s
+| Ship propulsion = 4 × shafts; 2 × [[steam turbine]] sets
+| Ship speed = {{convert|21|kn|lk=in}}
+| Ship range = {{convert|6310|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+| Ship complement = 869 (1914)
+| Ship armament = * 5 × twin [[BL 13.5 inch Mk V naval gun|13.5-inch (343&nbsp;mm) guns]]
+* 16 × single [[BL 4 inch naval gun Mk VII|4-inch (102&nbsp;mm) guns]]
+* 3 × [[British 21-inch torpedo|21-inch (533&nbsp;mm)]] [[torpedo tube]]s
+| Ship armour = * [[Belt armor|Belt]]: {{convert|12|in|mm|abbr=on|0}}
+* [[Deck (ship)|Deck]]: {{convert|1|-|4|in|mm|0|abbr=on}}
+* [[Gun turret|Turrets]]: {{convert|11|in|mm|abbr=on}}
+* [[Barbette]]s: {{convert|10|in|mm|abbr=on|0}}
+
+WRITING WRITING 5
+SEARCH Japanese_battleship_Aki
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass|Satsuma|battleship|0}} [[semi-dreadnought]] [[battleship]]
+|Ship displacement= {{convert|20100-21800|LT|t|lk=on|0}}
+|Ship length={{convert|492|ft|m|abbr=on|0}}
+|Ship beam={{convert|83|ft|7|in|m|abbr=on|1}}
+|Ship draft={{convert|27|ft|6|in|m|abbr=on|1}}
+|Ship power=*15 Miyabara [[water-tube boiler]]s
+*{{cvt|24000|shp|lk=on}}
+|Ship propulsion=2 shafts, 2 [[steam turbine]] sets
+|Ship speed={{convert|20|kn|lk=in}}
+|Ship range={{convert|9100|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship complement=931
+|Ship armament=* 2 × twin [[EOC 12 inch /45 naval gun|{{cvt|12|in|mm|0}} guns]]
+* 6 × twin [[Vickers 10 inch /45 naval gun|{{cvt|10|in|mm|0}} guns]]
+* 8 × single [[15 cm/45 41st Year Type|{{cvt|6|in|0}} guns]]
+* 12 × single [[QF 12 pounder 12 cwt naval gun|12 pdr ({{cvt|3|in|0}}) guns]]
+* 5 × {{cvt|18|in|mm|0}} [[torpedo tube]]s 
+|Ship armor=*[[Belt armor|Waterline belt]]: {{convert|4|-|9|in|mm|0|abbr=on}}
+*[[Deck (ship)|Deck]]: {{convert|2|-|3|in|mm|0|abbr=on}}
+*[[Gun turret]]s: {{convert|7|-|9.5|in|mm|0|abbr=on}}
+*[[Conning tower]]: {{convert|6|in|mm|0|abbr=on}}
+*[[Casemate]]s: {{convert|6|in|mm|0|abbr=on}}
+
+|Ship notes=
+
+WRITING WRITING 6
+SEARCH USS_Alabama_(BB-8)
+{{Infobox ship characteristics
+| Hide header =
+| Header caption =
+| Ship class = {{sclass|Illinois|battleship}}
+| Ship displacement = 
+*[[normal displacement|Normal]]: {{convert|11565|LT|lk=on}}
+*[[Full load]]: {{convert|12250|LT}}
+| Ship length = {{convert|374|ft|abbr=on}} [[length overall|loa]]
+| Ship beam = {{convert|72|ft|3|in|abbr=on}}
+| Ship draft = {{convert|23|ft|6|in|abbr=on}}
+| Ship power = 
+*8 × [[fire-tube boiler]]s
+*{{convert|10000|ihp|abbr=on|lk=on}}
+| Ship propulsion =
+*2 × [[triple-expansion steam engine]]s
+*2 × screw [[propeller]]s
+| Ship speed = {{convert|16|kn|lk=in}}
+| Ship range =
+| Ship crew =536
+| Ship armament =*  4 × [[13"/35 caliber gun|{{convert|13|in|mm|abbr=on|0}}/35 caliber guns]]
+* 14 × [[6"/40 caliber gun|{{convert|6|in|mm|abbr=on|0}}/40 caliber guns]]
+* 16 × [[QF 6-pounder Hotchkiss|6-pounder guns]] ({{convert|57|mm|in|abbr=on}})
+*  6 × [[QF 1-pounder pom-pom|1-pounder guns]] ({{convert|37|mm|in|abbr=on}})
+*  4 × [[American 18 inch torpedo|{{cvt|18|in|0}}]] [[torpedo tube]]s
+| Ship armor =
+* [[Belt armor|Belt]]: {{cvt|4|to|16.5|in|0}}
+* [[Gun turret|Turrets]]: {{cvt|14|in|0}}
+* [[Barbette]]s: {{cvt|15|in|0}}
+* [[Casemate]]s: {{cvt|6|in|0}}
+* [[Conning tower]]: {{cvt|10|in|0}}  
+| Ship notes =
+
+WRITING WRITING 7
+SEARCH USS_Alabama_(BB-60)
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption =
+| Ship class = {{sclass|South Dakota|battleship (1939)|0}} [[battleship]]
+| Ship displacement =
+*[[standard displacement|Standard]]: {{convert|37970|LT|t|lk=on}}
+*[[Full load]]: {{convert|44519|LT|t|abbr=on}}
+| Ship length = {{convert|680|ft|m|abbr=on}} [[Length overall|o/a]]
+| Ship beam = {{convert|108|ft|2|in|m|abbr=on}} 
+| Ship draft = {{convert|35|ft|1|in|abbr=on}}
+| Ship power =
+*{{convert|130000|shp|kW|lk=in|abbr=on}}
+*8 × [[Babcock & Wilcox boiler]]s
+| Ship propulsion = 
+*4 × [[General Electric]] [[steam turbine]]s
+*4 × [[screw propeller]]s
+| Ship speed = {{convert|27.5|kn|lk=in}}
+| Ship range = {{convert|15000|nmi|abbr=on|lk=in}} at {{convert|15|kn}}
+| Ship crew =* 1,793 officers and enlisted men (peace)
+* 2,500 officers and enlisted men (war)
+| Ship armament =* 9 × [[16"/45 caliber Mark 6 gun|{{convert|16|in|mm|abbr=on|0}} guns]]
+* 20 × [[5-inch/38-caliber gun|{{convert|5|in|mm|abbr=on|0}}]] [[Dual-purpose gun|DP guns]]
+* 6 × quadruple [[Bofors 40 mm Automatic Gun L/60|{{convert|40|mm|in|abbr=on}}]] AA guns
+* 35 × single [[Oerlikon 20 mm cannon|{{convert|20|mm|in|abbr=on|1}}]] AA guns
+| Ship armor =* [[Belt armor|Belt]]: {{convert|12.2|in|abbr=on}}
+* [[Deck (ship)|Deck]]: {{convert|6|in|mm|abbr=on|0}} 
+* [[Gun turret|Turret]]s: {{convert|18|in|mm|abbr=on|0}}
+* [[Barbette]]s: {{convert|17.3|in|mm|abbr=on}}
+* [[Conning tower]]: 16&nbsp;in
+| Ship aircraft = 3 × [[Vought OS2U Kingfisher|"Kingfisher"]] [[floatplane]]s 
+| Ship aircraft facilities = 2 × [[Aircraft catapult|catapults]]
+| Ship notes = 
+
+WRITING WRITING 8
+SEARCH HMS_Albemarle_(1901)
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass|Duncan|battleship|0}} [[pre-dreadnought]] [[battleship]]
+|Ship displacement=
+*[[Normal displacement|Normal]]: {{convert|13270|to|13745|LT|lk=on}}
+*[[Full load]]: {{convert|14900|to|15200|LT}}
+|Ship length={{convert|432|ft|m|abbr=on}} ([[length overall|loa]])
+|Ship beam={{convert|75|ft|6|in|m|abbr=on}}
+|Ship draught={{convert|25|ft|9|in|m|abbr=on}}
+|Ship power=
+*{{convert|18,000|ihp|kW|abbr=on|lk=in}}
+*24 × [[Belleville boiler|Belleville]] [[water-tube boilers]]
+|Ship propulsion=
+*2 × [[Marine steam engine#Triple or multiple expansion|triple-expansion steam engines]]
+*2 × [[screw propeller]]s
+|Ship speed= {{convert|19|kn|lk=in}}
+|Ship range={{convert|6070|nmi|abbr=on|lk=in}} at {{convert|10|kn}}
+|Ship complement=720
+|Ship armament=
+*4 × [[BL 12 inch Mk IX naval gun|{{convert|12|in|mm|adj=on|0}} 40-caliber Mk IX guns]]
+*12 × [[BL 6-inch Mk VII naval gun|{{convert|6|in|mm|adj=on|0}} 45-calibre guns]]
+*10 × [[QF 12-pounder 12 cwt naval gun|12-pounder guns]]
+*6 × [[QF 3-pounder Hotchkiss|3-pounder guns]]
+*4 × [[British 18 inch torpedo|{{convert|18|in|mm|adj=on|0}} torpedo tubes]] (submerged)
+|Ship armour=
+*[[Belt armor|Belt]]: {{convert|7|in|mm|abbr=on|0}}
+*[[Bulkhead (partition)|Bulkheads]]: {{convert|11|-|7|in|mm|abbr=on|0}}
+*[[Deck (ship)|Decks]]: {{convert|2|-|1|in|mm|abbr=on}}
+*[[Gun turret|Turrets]]: {{convert|10|-|8|in|mm|0|abbr=on}}
+*[[Barbettes]]: {{convert|11|-|4|in|mm|0|abbr=on}}
+*[[Casemates]]: {{convert|6|in|mm|abbr=on|0}}
+*[[Conning tower]]: {{convert|12|in|mm|abbr=on|0}}
+|Ship notes=
+
+WRITING WRITING 9
+SEARCH HMS_Albion_(1898)
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=[[Canopus-class battleship|''Canopus''-class]] [[pre-dreadnought]] [[battleship]]
+|Ship displacement=[[Full load]]: {{convert|14300|LT|abbr=on|lk=on}}
+|Ship length={{convert|421|ft|6|in|m|abbr=on|1}} ([[long overall|loa]])
+|Ship beam={{convert|74|ft|m|abbr=on|1}}
+|Ship draught={{convert|26|ft|m|abbr=on}}
+|Ship propulsion=
+* 2 × [[screw propeller]]s
+* 2 × [[triple-expansion steam engine]]s
+|Ship power=
+* 20 × [[water tube boiler]]s
+* {{convert|13500|ihp|abbr=on|lk=on}}
+|Ship speed={{convert|18|kn|km/h|0|lk=in}}
+|Ship range=
+|Ship complement=750
+|Ship armament=
+*4 × [[BL 12 inch naval gun Mk VIII|BL {{convert|12|in|mm|abbr=on|0}} 35-caliber Mk VIII guns]]
+* 12 × [[QF 6 inch Mk I - III naval gun|QF {{convert|6|in|mm|abbr=on|0}} 40-caliber guns]]
+* 10 × [[QF 12-pounder 12 cwt naval gun|12-pounder {{cvt|76|mm|0}}]] quick-firing guns
+* 6 × [[QF 3-pounder Hotchkiss|3-pounder]] guns
+* 4 × [[British 18 inch torpedo|{{cvt|18|in|0}} torpedo]] [[torpedo tube|tubes]]
+|Ship armour=*[[Belt armor|Belt]] 6 in (152 mm)
+* [[Bulkhead (partition)|Bulkheads]] {{convert|10|-|6|in|mm|abbr=on|0}}
+* [[Barbette]]s 12 in
+* [[Gun turret|Gun houses]] {{convert|8|in|mm|abbr=on|0}}
+* [[Casemate#Single casemates (1889 onwards)|Casemates]] 6 in
+* [[Conning tower]] 12 in
+* [[Deck (ship)|Decks]] {{convert|2|-|1|in|mm|abbr=on}}
+|Ship notes=
+
+WRITING WRITING 10
+SEARCH Spanish_battleship_Alfonso_XIII
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass|España|battleship}}
+|Ship displacement=
+* [[normal displacement|Normal]]: {{convert|15700|t|LT|abbr=on|lk=on}}
+* [[Full load]]: {{convert|16450|t|LT|abbr=on}}
+|Ship length={{convert|140|m|abbr=on|ftin}} [[o/a]]
+|Ship beam={{convert|24|m|abbr=on|ftin}}
+|Ship draft={{convert|7.8|m|abbr=on|ftin}}
+|Ship propulsion=
+* 4 × [[steam turbine]]s
+* 4 × [[screw propeller]]s
+|Ship power=
+* 12 × [[Yarrow boiler]]s
+* {{cvt|15500|shp|lk=on}}
+|Ship speed={{convert|19.5|kn|km/h|lk=in}}
+|Ship range={{convert|5000|nmi|km|abbr=on|lk=in}} at {{convert|10|kn|km/h}}
+|Ship complement=854
+|Ship armament=*8 × {{convert|305|mm|in|0|abbr=on}} guns
+* 20 × {{convert|102|mm|in|0|abbr=on}} guns
+* 4 × {{cvt|47|mm}} [[Ordnance QF 3-pounder Vickers|3-pounder]] guns
+* 2 × machine guns
+|Ship armor=
+* [[Belt armor]]: {{cvt|203|mm|0}}
+* [[deck (ship)|Deck]]: {{cvt|38|mm}}
+* [[Gun turret|Turrets]]: 203&nbsp;mm
+* [[Conning tower]]: {{cvt|254|mm|0}}
+
+WRITING WRITING 11
+SEARCH Chilean_battleship_Almirante_Latorre
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass|Almirante Latorre|battleship}}
+|Ship displacement={{convert|28600|LT|t|0|lk=on}}
+|Ship length= {{convert|661|ft|m|abbr=on|1}} [[length overall|overall]]
+|Ship beam= {{convert|92|ft|6|in|m|1|abbr=on}} <!--also confirmed in Jane's Fighting Ships of 1920, although Conways' Chile section says 103ft: https://books.google.com/books?id=yf83AQAAMAAJ&pg=PA504 https://books.google.com/books?id=icFlAAAAMAAJ&pg=PA285-->
+|Ship draught= {{convert|29|ft|m|abbr=on|1}} mean
+|Ship propulsion=4 shafts; 2 [[steam turbine]] sets
+|Ship speed= {{convert|22.75|kn|lk=in|1}}
+|Ship power=*21 [[Water-tube boiler#Yarrow|Yarrow boilers]]
+* {{cvt|37000|shp|0|lk=on}}
+|Ship range=
+|Ship complement=834
+|Ship armament=*5 × twin [[EOC 14 inch /45 naval gun|{{convert|14|in|mm|0|abbr=on}}]] guns
+* 16 × single [[BL 6 inch naval guns Mk XIII - XVIII#6-inch Mark XVII gun in Royal Navy service|{{convert|6|in|mm|0|abbr=on}} guns]]
+* 2 × single [[QF 3-inch 20 cwt|{{convert|3|in|mm|0|abbr=on}}]] [[AA gun]]s
+* 4 × single [[QF 3-pounder Hotchkiss|{{Convert|47|mm|in|abbr=on}}]] guns
+* 4 × [[British 21 inch torpedo|21 in (533 mm)]] [[torpedo tube]]s
+|Ship armor=*[[Belt armor|Belt]]: {{convert|9|in|mm|abbr=on}}
+* Deck: {{convert|1.5|in|mm|abbr=on}}
+* [[Barbette]]: {{convert|10|in|mm|0|abbr=on}}
+* Turret: {{convert|10|in|mm|0|abbr=on}}
+* [[Conning tower]]: {{convert|11|in|mm|abbr=on}}
+|Ship notes=
+
+WRITING WRITING 12
+SEARCH Italian_battleship_Ammiraglio_di_Saint_Bon
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass|Ammiraglio di Saint Bon|battleship|0}} [[pre-dreadnought battleship]]
+|Ship displacement=
+*[[Normal displacement|Normal]]: {{convert|10082|LT|t|0|lk=on}} 
+*[[Full load]]: {{convert|10531|LT|t|0}}
+|Ship length={{cvt|111.8|m|ftin}}
+|Ship beam={{cvt|21.12|m|ftin}}
+|Ship draft={{cvt|7.69|m|ftin}}
+|Ship power=
+*12 × [[fire-tube boiler]]s
+*{{cvt|14296|ihp|0|lk=in}}
+|Ship propulsion=
+*2 × [[triple-expansion steam engine]]s
+*2 × [[screw propeller]]s
+|Ship speed={{convert|18.3|kn|lk=in}}
+|Ship range={{cvt|5500|nmi|lk=on}} at {{convert|10|knots}}
+|Ship complement=557
+|Ship armament=
+*4 × [[EOC 10 inch 40 caliber|{{cvt|10|in|0|order=flip}} guns]]
+*8 × [[QF 6 inch /40 naval gun|{{cvt|6|in|0|order=flip}} guns]]
+*8 × [[QF 4.7 inch Gun Mk I–IV|{{cvt|4.7|in|order=flip}} guns]]
+*8 × [[QF 6-pounder Hotchkiss|{{cvt|57|mm|2}} six-pounder guns]]
+*2 × {{cvt|37|mm}} guns
+*4 × {{cvt|17.7|in|mm|0|order=flip}} [[torpedo tube]]s
+|Ship armor=
+*[[Belt armor|Belt]]: {{cvt|9.8|in|mm|0|order=flip}}
+*[[Deck (ship)|Deck]]: {{cvt|2.75|in|mm|1|order=flip}}
+*[[Gun turret|Turrets]]: {{cvt|9.8|in|mm|0|order=flip}}
+*[[Conning tower]]: {{cvt|9.8|in|mm|0|order=flip}}
+*[[Casemate]]s: {{cvt|5.9|in|mm|0|order=flip}}
+|Ship notes=
+
+WRITING WRITING 13
+SEARCH Italian_battleship_Andrea_Doria
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass|Andrea Doria|battleship}}
+|Ship displacement=[[Full load]]: {{cvt|24729|MT|lk=on}}
+|Ship length={{convert|176|m|abbr=on}}
+|Ship beam={{convert|28|m|abbr=on}}
+|Ship draft={{convert|9.4|m|ft|abbr=on}}
+|Ship propulsion=
+*4 × [[Parsons Marine Steam Turbine Company|Parsons]] [[steam turbine]]
+*4 × [[screw propeller]]s
+|Ship power=
+*20 × [[Yarrow boiler]]s
+*{{convert|30000|shp|abbr=on|lk=on}}
+|Ship speed={{convert|21|kn|lk=in}}
+|Ship range={{convert|4800|nmi|abbr=on|lk=in}} at {{convert|10|kn|abbr=on}}
+|Ship complement=
+*35 officers
+*1,998 enlisted
+|Ship armament=
+*13 × [[305 mm /46 Model 1909|{{cvt|305|mm|0}} guns]]
+*16 × [[Cannone da 152/45|{{cvt|152|mm|0}} guns]]
+*13 × [[QF 14 pounder naval gun Mk I & II naval gun|{{cvt|76|mm|0}} guns]]
+*6 × 76&nbsp;mm [[anti-aircraft]] guns
+*3 × {{cvt|450|mm|1}} [[torpedo]] tubes
+|Ship armor=
+*[[Belt armor|Belt]]: {{cvt|254|mm|0}}
+*[[Gun turret]]s: {{cvt|280|mm}}
+*[[Deck (ship)|Deck]]: {{cvt|98|mm}}
+*[[Conning tower]]: 280&nbsp;mm
+|Ship notes=
+
+WRITING WRITING 14
+SEARCH Russian_battleship_Andrei_Pervozvanny
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=as built
+|Ship class={{sclass|Andrei Pervozvanny|battleship|0}} [[predreadnought battleship]]
+|Ship displacement=*{{convert|17320|LT|t|lk=on}}
+*{{convert|18580|LT|t}} ([[deep load]]) 
+|Ship length= {{cvt|460|ft|m|1}} ([[o/a]])
+|Ship beam={{cvt|80|ft|m|1}} 
+|Ship draft={{cvt|27|ft|m|1}}
+|Ship power=*25 × [[Belleville boiler]]s 
+*{{cvt|17600|ihp|lk=on}}
+|Ship propulsion=2 shafts; 2 [[Marine steam engine#Triple or multiple expansion|triple-expansion steam engines]]
+|Ship speed= {{convert|18.5|kn|lk=in}}
+|Ship range= {{convert|2100|nmi|lk=in|abbr=on}} at {{convert|12|kn}}
+|Ship complement=956
+|Ship armament=*2 × twin [[Russian 12 inch 40 caliber naval gun|12 in (305&nbsp;mm)]] guns
+*4 × twin, 6 × single [[203 mm 50 caliber Pattern 1905|8 in (203&nbsp;mm)]] guns
+*12 × single [[120mm 45 caliber Pattern 1892|{{cvt|120|mm|in}}]] guns
+*4 × single [[QF 3-pounder Hotchkiss|{{cvt|47|mm|in|1}}]] guns
+*2 × {{cvt|457|mm|in|0}} [[torpedo tube]]s
+|Ship armor=*[[Belt armor|Belt]]: 4–8.5&nbsp;in (102–216&nbsp;mm)
+*Upper belt: 3.1–5&nbsp;in (79–127&nbsp;mm)
+*[[Casemate]]s: 3.1–5&nbsp;in (79–127&nbsp;mm)
+*[[Conning tower]]: 4–8&nbsp;in (102–203&nbsp;mm)
+*Main [[gun turret]]s: 8–10&nbsp;in (203–54&nbsp;mm)
+*Main gun [[barbette]]s: 4–5&nbsp;in (102–27&nbsp;mm)
+*Secondary gun turrets: 5–6&nbsp;in (127–52&nbsp;mm)
+
+WRITING WRITING 15
+SEARCH HMS_Anson_(79)
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption = 
+| Ship class = {{sclass|King George V|battleship (1939)|0}} [[battleship]]
+| Ship displacement = *{{convert|42600|LT|t}} Trials
+*{{convert|45360|LT|t}} [[Deep load]]
+| Ship length = *{{convert|744|ft|11.50|in|m|1|abbr=on}} Overall
+*{{convert|740|ft|0|in|m|1|abbr=on}} Waterline
+| Ship beam = {{convert|103|ft|0.62|in|m|1|abbr=on}}
+| Ship draught = {{convert|34|ft|2.25|in|m|1|abbr=on}}
+| Ship power = {{convert|110300|shp|lk=in|abbr=on}} (trials)
+| Ship propulsion = *4 shafts, 4 sets Parsons geared [[steam turbine|turbines]]
+*8 Admiralty 3-drum small-tube boilers
+| Ship speed = {{convert|29.25|kn}}
+| Ship range = {{convert|6100|nmi|abbr=on|lk=in}} at {{convert|10|kn}}
+| Ship complement = 1,553–1,558 peacetime 1,900 war
+| Ship sensors = 
+| Ship EW = 
+| Ship armament = *10 × [[BL 14 inch / 45 mk VII naval gun|BL {{convert|14|in|mm|adj=on|0}} Mark VII]]
+*16 × [[QF 5.25 inch Mark I naval gun|QF {{convert|5.25|in|mm|adj=on}} Mk. I]]
+*6 × 8-barrelled [[QF 2-pounder naval gun|QF 2-pounder {{convert|1.575|in|mm|adj=on}} Mk. VIII]]
+*18 × [[Oerlikon 20 mm cannon|{{convert|20|mm|in|adj=on|1}} Oerlikon]].
+| Ship armour = *[[Belt armor|Main Belt]]: {{convert|14.7|in|mm}}
+*Lower belt: {{convert|5.4|in|mm}}
+*[[Deck (ship)|Deck]]: {{convert|5|-|6|in|mm|0}}
+*Main turrets: {{convert|12.75|in|mm}}
+*[[Barbette]]s: {{convert|12.75|in|mm}}
+*[[Bulkhead (partition)|Bulkhead]]s: {{convert|10|-|12|in|mm|0}}
+*[[Conning tower]]: {{convert|3|-|4|in|mm|0}}.<ref>Konstam p. 22</ref>
+| Ship aircraft = Two [[Supermarine Walrus]] [[seaplane]]s, one double-ended catapult (removed early 1944)
+
+WRITING WRITING 16
+SEARCH USS_Arizona_(BB-39)
+WRITING WRITING 17
+SEARCH USS_Arkansas_(BB-33)
+{{Infobox ship characteristics
+|Hide header =
+|Ship class = {{sclass|Wyoming|battleship}}
+| Ship displacement =
+* [[Normal displacement|Normal]]: {{cvt|26000|LT|t|lk=on}}
+* [[Full load]]: {{cvt|27243|LT|t}}
+|Ship length =
+*{{cvt|562|ft}} ([[length overall|overall]])
+*{{cvt|554|ft|0}} ([[Waterline length|waterline]])
+|Ship beam = {{cvt|93|ft|3|in}}
+|Ship draft =
+*{{cvt|28|ft|6|in}} (mean)
+|Ship power =
+*12 × [[Babcock & Wilcox]] [[coal-fired]] [[water-tube boiler]]s
+*{{cvt|28000|shp|lk=on|0}}
+|Ship propulsion =
+*4 × [[Parsons Marine Steam Turbine Company|Parsons]] [[steam turbine]]s
+*4 × [[screw propeller]]s
+|Ship speed =
+*{{convert|20.5|kn|lk=in}} (design)
+|Ship range = {{cvt|8000|nmi|lk=in}} at {{convert|10|kn}}
+|Ship complement = 1,063 officers and enlisted
+|Ship armament =
+*12 × [[12"/50 caliber Mark 7 gun|{{cvt|12|in|0}}/50 caliber Mark 7 gun]]s
+*21 × [[5"/51 caliber gun|{{cvt|5|in|0}}/51 cal gun]]s
+*4 × [[QF 3-pounder Hotchkiss#US service|3-pounder {{cvt|47|mm|2}}/40 cal]] [[Saluting gun#Heavy arms: gun salutes|saluting gun]]s
+*2 × [[Bliss-Leavitt Mark 3 torpedo|{{cvt|21|in|0}}]] [[torpedo tube]]s (submerged)
+|Ship armor =
+*[[Belt armor|Belt]]: {{cvt|5|-|11|in|0}}
+*[[Gun turret#Warships|Turret]] face: {{cvt|12|in|0}}
+*[[Barbette]]s: 11 in
+*[[Conning tower]]: {{cvt|11.5|in|0}}
+*[[Deck (ship)|Decks]]: {{cvt|1.5|-|2.5|in|0}}
+|Ship notes =
+
+WRITING WRITING 18
+SEARCH Japanese_battleship_Asahi
+{{Infobox ship characteristics
+|Hide header=
+|Header caption =(as built)
+|Ship type =[[Pre-dreadnought battleship]]
+|Ship displacement= {{convert|15200|LT|t|lk=on}} (normal)
+|Ship length={{convert|425|ft|3|in|m|abbr=on|1}}
+|Ship beam={{convert|75|ft|m|abbr=on|1}}
+|Ship draught={{convert|27|ft|3|in|m|abbr=on|1}}
+|Ship power=*25 [[Belleville boiler]]s
+* {{convert|15000|ihp|lk=on|abbr=on}}
+|Ship propulsion=2 shafts, 2 [[Marine steam engine#Triple or multiple expansion|triple-expansion steam engines]]
+|Ship speed={{convert|18|kn|lk=in}}
+|Ship range={{convert|9000|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship complement=773
+|Ship armament=*2 × twin [[Armstrong Whitworth 12 inch /40 naval gun|{{convert|12|in|mm|0|abbr=on}} guns]]
+* 14 × single [[QF 6 inch /40 naval gun|{{convert|6|in|mm|0|abbr=on}}]] QF guns
+* 20 × single [[QF 12-pounder 12 cwt naval gun|12-pdr ({{cvt|3|in}}) guns]]
+* 6 × single [[QF 3-pounder Hotchkiss|3-pdr ({{cvt|47|mm|order=flip}}) guns]]
+* 6 × single [[QF 3-pounder Hotchkiss#Japanese service|2.5-pdr ({{cvt|47|mm|order=flip}})]] [[Hotchkiss gun]]s
+* 4 × [[British 18 inch torpedo|18 in (450 mm)]] [[torpedo tube]]s
+|Ship armour=*[[Harvey armour]]
+* [[Belt armor|Belt]]: {{convert|4|-|9|in|mm|0|abbr=on}}
+* [[Deck (ship)|Deck]]: {{convert|2.5|-|4|in|mm|0|abbr=on}}
+* [[Gun turret]]s: {{convert|6|in|mm|0|abbr=on}}
+* [[Barbette]]s: {{convert|10|-|14|in|mm|abbr=on|0}}
+* [[Conning tower]]: {{convert|14|in|mm|0|abbr=on}}
+* [[Casemate]]s: {{convert|2|-|6|in|mm|0|abbr=on}}
+|Ship notes=
+
+WRITING WRITING 19
+SEARCH HMS_Audacious_(1912)
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as built)
+|Ship class={{sclass|King George V|battleship|0||1911}} [[dreadnought battleship]]
+|Ship displacement= {{convert|25420|LT|t|lk=on}} (normal)
+|Ship length={{convert|597|ft|9|in|m|abbr=on|1}} ([[Length overall|o/a]])
+|Ship beam={{convert|89|ft|1|in|m|abbr=on|1}}
+|Ship draught={{convert|28|ft|8|in|m|abbr=on|1}}
+|Ship power=*18 × [[Yarrow boiler]]s
+*{{cvt|27000|shp|lk=on}}
+|Ship propulsion=4 × shafts; 2 × [[steam turbine]] sets
+|Ship speed={{convert|21|kn|lk=in}}
+|Ship range={{convert|5910|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship complement=860 (1914)
+|Ship armament=* 5 × twin [[BL 13.5 inch Mk V naval gun|13.5-inch (343&nbsp;mm) guns]]
+* 16 × single [[BL 4 inch naval gun Mk VII|4-inch (102&nbsp;mm) guns]]
+* 3 × [[British 21 inch torpedo|21-inch (533&nbsp;mm)]] [[torpedo tube]]s
+|Ship armour=* [[Belt armor|Belt]]: {{convert|12|in|mm|abbr=on|0}}
+* [[Deck (ship)|Decks]]: {{convert|1|-|4|in|mm|0|abbr=on}}
+* [[Gun turret|Turrets]]: {{convert|11|in|mm|abbr=on}}
+* [[Barbette]]s: {{convert|10|in|mm|abbr=on|0}}
+
