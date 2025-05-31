@@ -1,15 +1,19 @@
 ﻿
 using System;
 using System.Net.Http;
+using System.Security.Cryptography.X509Certificates;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using Newtonsoft.Json.Linq;
 
-public static class Program
+/// <summary>
+/// Get the battleships' displacement, speed, and horsepower from wikipedia, or from a local file with manually written to cover errors/inconsistensies on wikipedia
+/// </summary>
+public static class getBattleships
 {
-    public async static Task Main()
+    public async static Task Main(string[] args)
     {
-        List<Ship> battleships = new();
+        Dictionary<(string, int), Ship> battleships = new();
 
         //Semi-AI generated text to download the wikitext for the main list
         //The method for downloading the page is AI, but all the null checks and comments are human generated
@@ -105,7 +109,7 @@ public static class Program
                 }
 
                 shipName = shipName.Replace(" ", "_");
-                altName= altName.Replace(" ", "_");
+                altName = altName.Replace(" ", "_");
                 string launchDate = MatchShipLineMatch.Groups[2].Value;
 
 
@@ -143,23 +147,101 @@ public static class Program
                 }
                 string[] navy = shipNavyMatches.Groups[1].Value.Split("|", StringSplitOptions.RemoveEmptyEntries);
 
-                battleships.Add(new Ship(shipName, altName, launchDate, shipClass, type, navy[0]));
+                Ship ship = new Ship(shipName, altName, launchDate, shipClass, type, navy[0]);
+                Console.WriteLine($"{ship.Name.ToLower()}-{ship.LaunchDate.Year}");
+                battleships[(ship.Name.ToLower(), ship.LaunchDate.Year)] = ship;
+            }
+        }
+
+        //Try downloading from wikipedia
+        int i = 0;
+        foreach (var ship in battleships.Values)
+        {
+            Console.WriteLine($"\n\nReading {ship.Name} ({ship.LaunchDate.Year}) {++i}/{battleships.Count}");
+            await ship.DownloadData();
+        }
+
+        //Now also load from the manually written file, to overwrite errors on Wikipedia
+        string manualName = "battleshipCorrections.csv";
+        if (args.Count() > 0)
+            manualName = args[0];
+
+        //Read all lines in the manual file
+        foreach (var line in File.ReadAllLines(manualName))
+        {
+            var tokens = line.Split(',', StringSplitOptions.TrimEntries);
+            //Skip the header
+            if (tokens[0] == "name")
+            {
+                continue;
+            }
+            else
+            {
+                //The format must be the same as that we print as
+                if (!int.TryParse(tokens[9], out int year))
+                    continue;
+                if (!double.TryParse(tokens[8], out double speed) || speed == 0)
+                    continue;
+
+                if (!battleships.ContainsKey((tokens[0].ToLower(), year)))
+                    continue;
+                battleships[(tokens[0].ToLower(), year)].speedKn = speed;
+
+                if (tokens[3] != "null" && double.TryParse(tokens[3], out double standardDisplacement))
+                    battleships[(tokens[0].ToLower(), year)].displacementMT[Ship.Displacement.Standard]= standardDisplacement;
+
+                if (tokens[4] != "null" && double.TryParse(tokens[4], out double deepDisplacement))
+                    battleships[(tokens[0].ToLower(), year)].displacementMT[Ship.Displacement.Deep]= deepDisplacement;
+
+                if (tokens[5] != "null" && double.TryParse(tokens[5], out double normalDisplacement))
+                    battleships[(tokens[0].ToLower(), year)].displacementMT[Ship.Displacement.Normal]= normalDisplacement;
+
+                if (tokens[6] != "null" && double.TryParse(tokens[6], out double indicatedHorsepower))
+                    battleships[(tokens[0].ToLower(), year)].powerShp[false]= indicatedHorsepower;
+
+                if (tokens[7] != "null" && double.TryParse(tokens[7], out double shaftHorsepower))
+                    battleships[(tokens[0].ToLower(), year)].powerShp[true] = shaftHorsepower;
 
             }
         }
 
-        for (int i = 0; i < battleships.Count; ++i)
+        //Remove still faulty ships
+
+        var noDisplacementShips = battleships.Values.Where(s => !s.displacementMT.ContainsKey(Ship.Displacement.Standard) && !s.displacementMT.ContainsKey(Ship.Displacement.Deep) && !s.displacementMT.ContainsKey(Ship.Displacement.Normal)).ToList();
+        Console.WriteLine("");
+        Console.WriteLine("Removing ships where we failed to get displacement:");
+        foreach (var ship in noDisplacementShips)
         {
-            Console.WriteLine($"\n\nReading {i}/{battleships.Count}");
-            await battleships[i].DownloadData();
+            Console.WriteLine(ship.Name);
+            battleships.Remove((ship.Name,ship.LaunchDate.Year));
+        }
+        var noPowerShips = battleships.Values.Where(s => !s.powerShp.ContainsKey(true) && !s.powerShp.ContainsKey(false)).ToList();
+        Console.WriteLine("");
+        Console.WriteLine("Removing ships where we failed to get power:");
+        foreach (var ship in noPowerShips)
+        {
+            Console.WriteLine(ship.Name);
+            battleships.Remove((ship.Name,ship.LaunchDate.Year));
         }
 
-        List<String> data = new List<String>();
-        data.Add($"name,class,navy,standard displacement,deep load displacement,normal displacement,indicated horsepower,shaft horsepower,year");
-        foreach (var ship in battleships)
+        var noSpeedShips = battleships.Values.Where(s => s.speedKn == 0);
+        Console.WriteLine("");
+        Console.WriteLine("Removing ships where we failed to get speed:");
+        foreach (var ship in noSpeedShips)
         {
-            data.Add($"{ship.Name},{ship.ClassName},{ship.Navy},{(ship.displacementMT.ContainsKey(Ship.Displacement.Standard)? ship.displacementMT?[Ship.Displacement.Standard]:"null")},{(ship.displacementMT.ContainsKey(Ship.Displacement.Deep)? ship.displacementMT?[Ship.Displacement.Deep]:"null")},{(ship.displacementMT.ContainsKey(Ship.Displacement.Normal)?ship.displacementMT?[Ship.Displacement.Normal]:"null")},{(ship.powerShp.ContainsKey(false)? ship.powerShp?[false]:"null")},{(ship.powerShp.ContainsKey(true)? ship.powerShp?[true]:"null")},{ship.LaunchDate.Year}");
+            Console.WriteLine(ship.Name);
+            battleships.Remove((ship.Name,ship.LaunchDate.Year));
+        }
+
+
+        //Now output the raw data as CSV
+        List<String> data = new List<String>();
+        data.Add($"name,class,navy,standard displacement,deep load displacement,normal displacement,indicated horsepower,shaft horsepower,speed,year");
+        foreach (var ship in battleships.Values)
+        {
+            data.Add($"{ship.Name},{ship.ClassName},{ship.Navy},{(ship.displacementMT.ContainsKey(Ship.Displacement.Standard) ? ship.displacementMT?[Ship.Displacement.Standard] : "null")},{(ship.displacementMT.ContainsKey(Ship.Displacement.Deep) ? ship.displacementMT?[Ship.Displacement.Deep] : "null")},{(ship.displacementMT.ContainsKey(Ship.Displacement.Normal) ? ship.displacementMT?[Ship.Displacement.Normal] : "null")},{(ship.powerShp.ContainsKey(false) ? ship.powerShp?[false] : "null")},{(ship.powerShp.ContainsKey(true) ? ship.powerShp?[true] : "null")},{ship.speedKn},{ship.LaunchDate.Year}");
         }
         System.IO.File.WriteAllLines("battleship.csv", data);
+        
     }
 }
