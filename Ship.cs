@@ -1,3 +1,4 @@
+using System.Security.Principal;
 using System.Text;
 using System.Text.RegularExpressions;
 using Newtonsoft.Json.Linq;
@@ -41,16 +42,22 @@ public class Ship
     /// <summary>
     /// Displacement in metric tons, preferably normal or standard displacement
     /// </summary>
-    public Dictionary<Displacement, double> displacementMT { get; private set; }
+    public Dictionary<Displacement, double> displacementMT { get; set; }
     /// <summary>
     /// Power in shaft horsepower, if false we only have indicated horsepower
     /// </summary>
-    public Dictionary<bool, double> powerShp { get; private set; }
+    public Dictionary<bool, double> powerShp { get; set; }
+
+    /// <summary>
+    /// Speed in knots
+    /// </summary>
+    public double speedKn { get; set; }
 
     public Ship(string name, string altName, string launchDate, string className, string type, string navy)
     {
         powerShp = new();
         displacementMT = new();
+        speedKn = 0;
         Name = name;
         AltName = altName;
         //The Wikipedia dates are
@@ -90,7 +97,10 @@ public class Ship
             @"[\*=].*?((\(\[\[(?<typeBefore>.*?)\]\]\)|\[\[.*?\]\]|\(.*?\)|.*?):?)?\s?{{(convert|cvt)\|((?<number1>\d+(,\d+)?)\|to\|\d+(,\d+)?|(?<number2>\d+(,\d+)?)+-\d+(,\d+)?|(?<number3>\d+(,\d+)?))\|(?<from>t(?!o)|LT|ST|MT)\|?((?<to>t|LT|ST|MT)\|)?.+?(\|lk=on)?}}*.?(\(\[\[(?<typeAfter0>.*?)\]\]\)|\[\[(?<typeAfter1>.*?)\]\]|\((?<typeAfter2>.*?)\)|(?<typeAfter3>.*?))?");
         //This is essentially a simpler version of the above regex
         Regex getPower= new Regex(
-            @"[\*=].*?{{(convert|cvt)\|((?<number1>\d+)\|to\|\d+|(?<number2>\d)+-\d+|(?<number3>\d+))\|(?<from>shp|ihp|kW|PS)");
+            @"[\*=].*?{{(convert|cvt)\|((?<number1>\d+(,\d+)?)\|to\|\d+(,\d+)?|(?<number2>\d+(,\d+)?)-\d+(,\d+)?|(?<number3>\d+(,\d+)?))\|(?<from>shp|ihp|kW|PS)");
+
+        Regex getSpeed = new Regex(
+            @"[\*=].*?{{(convert|cvt)\|((?<number1>\d+(,\d+)?)\|to\|\d+|(?<number2>\d+(,\d+)?)-\d+|(?<number3>\d+(,\d+)?)).*?\|(?<from>kn|knot|knots)");
 
         Regex getNormalDisplacement = new Regex(@"(normal)",RegexOptions.IgnoreCase);
         Regex getStandardDisplacement = new Regex(@"(standard|treaty)",RegexOptions.IgnoreCase);
@@ -109,7 +119,6 @@ public class Ship
         var pages = json["query"]?["pages"];
         if (pages == null)
         {
-            Console.WriteLine("No data received, likely internet error, or page has been moved or the structure has been modified");
             return;
         }
         string infobox = "";
@@ -124,15 +133,13 @@ public class Ship
             var infoboxMatch = extractInfobox.Match(wikitext);
             if (infoboxMatch.Success)
             {
-                Console.WriteLine($"{infoboxMatch.Groups[0]}\n");
                 infobox = infoboxMatch.Groups[0].Value;
                 break;
             }
         }
-        //Well crap, try the alternate name
+        //Well ... crap, try the alternate name
         if (infobox.Length == 0)
         {
-            Console.WriteLine("Error in getting pages, using fallback");
 
             //The same semi-AI generated code as before to download the article for that ship
             //Again, comments and error handling is human generated
@@ -145,14 +152,12 @@ public class Ship
             pages = json["query"]?["pages"];
             if (pages == null)
             {
-                Console.WriteLine("No data received, likely internet error, or page has been moved or the structure has been modified");
                 return;
             }
             infobox = "";
             //My guess is that there will only be one page, but you never know, just loop through and get the infobox
             foreach (var page in pages)
             {
-                Console.WriteLine($"Gotten page");
                 //It is not null, I know it is not null, but the compiler doesn't
                 string? wikitext = (string?)page?.First?["revisions"]?[0]?["*"];
                 if (wikitext == null)
@@ -161,7 +166,40 @@ public class Ship
                 var infoboxMatch = extractInfobox.Match(wikitext);
                 if (infoboxMatch.Success)
                 {
-                    Console.WriteLine($"{infoboxMatch.Groups[0]}\n");
+                    infobox = infoboxMatch.Groups[0].Value;
+                    break;
+                }
+            }
+        }
+        //ohh shiit... try alt_name_(year)
+        if (infobox.Length == 0)
+        {
+
+            //The same semi-AI generated code as before to download the article for that ship
+            //Again, comments and error handling is human generated
+            url = $"https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&format=json&titles={AltName}_({LaunchDate.Year})";
+
+            response = await client.GetStringAsync(url);
+            json = JObject.Parse(response);
+
+            //Assume the json looks like I expect, but do check for errors
+            pages = json["query"]?["pages"];
+            if (pages == null)
+            {
+                return;
+            }
+            infobox = "";
+            //My guess is that there will only be one page, but you never know, just loop through and get the infobox
+            foreach (var page in pages)
+            {
+                //It is not null, I know it is not null, but the compiler doesn't
+                string? wikitext = (string?)page?.First?["revisions"]?[0]?["*"];
+                if (wikitext == null)
+                    continue;
+                //The infobox contains all info worth looking at
+                var infoboxMatch = extractInfobox.Match(wikitext);
+                if (infoboxMatch.Success)
+                {
                     infobox = infoboxMatch.Groups[0].Value;
                     break;
                 }
@@ -177,7 +215,6 @@ public class Ship
                     {
                         Displacement displacementType = Displacement.Normal;
 
-                        Console.WriteLine(displacementMatch.Groups[0].Value);
                         string displacementString = displacementMatch.Groups[0].Value;
 
                         if (getNormalDisplacement.IsMatch(displacementString))
@@ -197,8 +234,6 @@ public class Ship
                             mass = double.Parse(displacementMatch.Groups["number2"].Value);
                         else if (!string.IsNullOrEmpty(displacementMatch.Groups["number3"].Value))
                             mass = double.Parse(displacementMatch.Groups["number3"].Value);
-                        else
-                            Console.WriteLine($"Could not read number from {displacementMatch.Groups["number0"].Value} {displacementMatch.Groups["number1"].Value} {displacementMatch.Groups["number2"].Value} or {displacementMatch.Groups["number3"].Value}");
 
                         //Metric tonnes
                         if (displacementMatch.Groups["from"].Value.ToLower() == "mt")
@@ -211,19 +246,14 @@ public class Ship
                         //US American tonnes
                         else if (displacementMatch.Groups["from"].Value.ToLower() == "st")
                             displacementMT[displacementType] = mass * 0.90718474;
-                        else
-                            Console.WriteLine(displacementMatch.Groups["from"].Value + " Not recognized as unit of displacement ");
                     }
-                    else
-                        Console.WriteLine("Not found displacement");
-                //Extract displacement
+                //Extract power
                 var powerMatch = getPower.Match(infobox);
                 //Loop through all displacements, 
                 for (; powerMatch.Success; powerMatch = powerMatch.NextMatch())
                     if (powerMatch.Success)
                     {
 
-                        Console.WriteLine(powerMatch.Groups[0].Value);
 
                         double power = 0;
                         //One of these are going to be found
@@ -241,17 +271,28 @@ public class Ship
                         else if (powerMatch.Groups["from"].Value.ToLower() == "ihp")
                             powerShp[false] = power;
                         else if (powerMatch.Groups["from"].Value.ToLower() == "kw")
-                            powerShp[true] = power*1.34102209;
-                        else
-                            Console.WriteLine(powerMatch.Groups["from"].Value+" Not recognized as unit of power");
+                            powerShp[true] = power * 1.34102209;
                     }
+                var speedMatch = getSpeed.Match(infobox);
+                if (speedMatch.Success)
+                {
+                    //One of these are going to be found
+                    if (!string.IsNullOrEmpty(speedMatch.Groups["number0"].Value))
+                        speedKn = double.Parse(speedMatch.Groups["number0"].Value);
+                    else if (!string.IsNullOrEmpty(speedMatch.Groups["number1"].Value))
+                        speedKn = double.Parse(speedMatch.Groups["number1"].Value);
+                    else if (!string.IsNullOrEmpty(speedMatch.Groups["number2"].Value))
+                        speedKn = double.Parse(speedMatch.Groups["number2"].Value);
+                    else if (!string.IsNullOrEmpty(speedMatch.Groups["number3"].Value))
+                        speedKn = double.Parse(speedMatch.Groups["number3"].Value);
 
-                foreach (var displacement in displacementMT)
-                        {
+                    //If the regex read 24.50 as 2450, fix it
+                    if (speedKn > 100)
+                        speedKn /= 10.0;
+                    if (speedKn > 100)
+                        speedKn /= 10.0;
 
-                            Console.WriteLine(displacement.Key + " = " + displacement.Value + " metric tonnes");
-
-                        }
+                }
             }
         }
     }

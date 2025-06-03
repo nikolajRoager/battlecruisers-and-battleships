@@ -1,0 +1,33 @@
+name,class,navy,standard displacement,deep load displacement,normal displacement,indicated horsepower,shaft horsepower,speed,year
+Brazilian_battleship_Minas_Geraes,Minas Geraes-class_battleship,Brazil,null,21200,19281,null,23500,21,1908
+Brazilian_battleship_São_Paulo,Minas Geraes-class_battleship,Brazil,19105,21370,null,27500,null,21.5,1909
+French_battleship_Bouvet,French_battleship_Bouvet,France,null,null,12200,null,14000,18,1896
+French_battleship_Démocratie,Liberté-class_battleship,France,null,14900,null,17300,null,18,1904
+French_battleship_Justice,Liberté-class_battleship,France,null,14900,null,17300,null,18,1904
+French_battleship_Liberté,Liberté-class_battleship,France,null,14900,null,17300,null,18,1905
+French_battleship_Masséna,French_battleship_Masséna,France,null,null,11735,null,14200,17,1895
+French_battleship_Patrie,République-class_battleship,France,null,null,14870,null,17260,18,1903
+French_battleship_Vérité,Liberté-class_battleship,France,null,14900,null,17300,null,18,1907
+HMS_King_George_V_(41),King George V-class_battleship (1939),United Kingdom,40642,null,42200,null,125000,28,1939
+HMS_New_Zealand_(1904),King Edward VII-class_battleship,United Kingdom,null,17567,15835,18000,null,18.5,1904
+HMS_Ramillies_(1892),Royal Sovereign-class_battleship,United Kingdom,null,null,15829.28,40000,null,21.5,1892
+HMS_Resolution_(1892),Royal Sovereign-class_battleship,United Kingdom,null,null,15829.28,40000,null,21.5,1892
+HMS_St._Vincent_(1908),St. Vincent-class_battleship,United Kingdom,null,null,20000,null,24500,21,1908
+Japanese_battleship_Musashi,Yamato-class_battleship,Empire of Japan,64008,null,null,null,150000,27.5,1940
+Russian_battleship_Potemkin,Russian_battleship_Potemkin,Russian Empire,null,null,13107,10600,null,32,1900
+Russian_battleship_Slava,Borodino-class_battleship,Russian Empire,null,15520,14646,15800,null,25.9,1903
+Russian_battleship_Tsesarevich,Russian_battleship_Tsesarevich,Russian Empire,null,null,13105,16300,null,18,1901
+SMS_Nassau,Nassau-class_battleship,German Empire,null,21000,18873,null,21700,19,1908
+SMS_Posen,Nassau-class_battleship,German Empire,null,21000,18873,null,21700,19,1908
+SMS_Prinz_Eugen_(1912),Tegetthoff-class_battleship,Austria-Hungary,null,null,21689,null,26400,20,1912
+SMS_Radetzky,Radetzky-class_battleship,Austria-Hungary,null,null,14732,null,19800,20,1909
+SMS_Tegetthoff_(1912),Tegetthoff-class_battleship,Austria-Hungary,null,null,21689,null,26400,20,1912
+SMS_Westfalen,Nassau-class_battleship,German Empire,null,21000,18873,null,21700,19,1908
+SMS_Zrínyi,Radetzky-class_battleship,Austria-Hungary,null,null,14732,null,20000,20,1910
+USS_Colorado_(BB-45),Colorado-class_battleship,United States,null,33121.6,null,null,28900,21,1921
+USS_Idaho_(BB-24),Mississippi-class_battleship,United States,null,14697,13209,null,10000,17,1905
+USS_Indiana_(BB-1),Indiana-class_battleship,United States,10452.608,null,null,null,9000,15,1893
+USS_Maryland_(BB-46),Colorado-class_battleship,United States,null,null,33121.6,null,28900,21,1920
+USS_Mississippi_(BB-23),Mississippi-class_battleship,United States,null,14697,13000,0,null,17,1905
+USS_Nevada_(BB-36),Nevada-class_battleship,United States,null,null,27500,null,24800,20,1914
+USS_New_Jersey_(BB-62),Iowa-class_battleship,United States,50454,null,60960,null,53000,33,1942
