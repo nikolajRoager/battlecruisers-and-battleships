@@ -9,28 +9,31 @@ public class Ship
     /// Name, on Wikipedia, including disambiguation, so the wikipage is
     /// https://en.wikipedia.org/wiki/{Name}
     /// </summary>
-    public string Name { get; set; }
+    public string Name { get; set; } = "";
     /// <summary>
     /// Alternative name to use as a fallback, if we can't get the article from the first
     /// </summary>
-    public string AltName { get; set; }
+    public string AltName { get; set; } = "";
     /// <summary>
     /// Date of commision
     /// </summary>
-    public DateOnly LaunchDate { get; set; }
+    public DateOnly LaunchDate { get; set; }= new DateOnly();
     /// <summary>
     /// Name of the class on Wikipedia
     /// </summary>
-    public string ClassName { get; set; }
+    public string ClassName { get; set; } = "";
     /// <summary>
     /// Type of the ship
     /// </summary>
-    public string Type { get; set; }
+    public string Type { get; set; } = "";
     /// <summary>
     /// Navy which operates the ship
     /// </summary>
-    public string Navy { get; set; }
+    public string Navy { get; set; } = "";
 
+    public Ship()
+    {
+    }
 
     public enum Displacement
     {
@@ -42,16 +45,16 @@ public class Ship
     /// <summary>
     /// Displacement in metric tons, preferably normal or standard displacement
     /// </summary>
-    public Dictionary<Displacement, double> displacementMT { get; set; }
+    public Dictionary<Displacement, double> displacementMT { get; set; } = new();
     /// <summary>
     /// Power in shaft horsepower, if false we only have indicated horsepower
     /// </summary>
-    public Dictionary<bool, double> powerShp { get; set; }
+    public Dictionary<bool, double> powerShp { get; set; } = new();
 
     /// <summary>
     /// Speed in knots
     /// </summary>
-    public double speedKn { get; set; }
+    public double speedKn { get; set; } = 0;
 
     public Ship(string name, string altName, string launchDate, string className, string type, string navy)
     {
