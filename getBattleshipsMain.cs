@@ -25,7 +25,7 @@ public static class getBattleships
             { skipDownload = true; }
         }
 
-        foreach (var line in File.ReadAllLines("battlecruisers.csv"))
+        foreach (var line in File.ReadAllLines("Battlecruisers.csv"))
         {
             var tokens = line.Split(',', StringSplitOptions.TrimEntries);
             //Skip the header
@@ -43,6 +43,7 @@ public static class getBattleships
                     continue;
                 newShip.speedKn = speed;
 
+                newShip.LaunchDate = new DateOnly(year,1,1);
                 newShip.Name = tokens[0];
                 newShip.ClassName = tokens[1];
                 newShip.Navy = tokens[2];
@@ -85,7 +86,7 @@ public static class getBattleships
                     if (!double.TryParse(tokens[8], out double speed) || speed == 0)
                         continue;
                     newShip.speedKn = speed;
-
+                    newShip.LaunchDate = new DateOnly(year,1,1);
                     newShip.Name = tokens[0];
                     newShip.ClassName = tokens[1];
                     newShip.Navy = tokens[2];
@@ -330,28 +331,30 @@ public static class getBattleships
             }
 
 
+
             //Now output the raw data as CSV
-            List<String> data = new List<String>();
-            data.Add($"name,class,navy,standard displacement,deep load displacement,normal displacement,indicated horsepower,shaft horsepower,speed,year");
+            List<String> _data = new List<String>();
+            _data.Add($"name,class,navy,standard displacement,deep load displacement,normal displacement,indicated horsepower,shaft horsepower,speed,year");
             foreach (Ship ship in battleships.Values)
             {
-                data.Add($"{ship.Name},{ship.ClassName},{ship.Navy},{(ship.displacementMT.ContainsKey(Ship.Displacement.Standard) ? ship.displacementMT?[Ship.Displacement.Standard] : "null")},{(ship.displacementMT.ContainsKey(Ship.Displacement.Deep) ? ship.displacementMT?[Ship.Displacement.Deep] : "null")},{(ship.displacementMT.ContainsKey(Ship.Displacement.Normal) ? ship.displacementMT?[Ship.Displacement.Normal] : "null")},{(ship.powerShp.ContainsKey(false) ? ship.powerShp?[false] : "null")},{(ship.powerShp.ContainsKey(true) ? ship.powerShp?[true] : "null")},{ship.speedKn},{ship.LaunchDate.Year}");
+                _data.Add($"{ship.Name},{ship.ClassName},{ship.Navy},{(ship.displacementMT.ContainsKey(Ship.Displacement.Standard) ? ship.displacementMT?[Ship.Displacement.Standard] : "null")},{(ship.displacementMT.ContainsKey(Ship.Displacement.Deep) ? ship.displacementMT?[Ship.Displacement.Deep] : "null")},{(ship.displacementMT.ContainsKey(Ship.Displacement.Normal) ? ship.displacementMT?[Ship.Displacement.Normal] : "null")},{(ship.powerShp.ContainsKey(false) ? ship.powerShp?[false] : "null")},{(ship.powerShp.ContainsKey(true) ? ship.powerShp?[true] : "null")},{ship.speedKn},{ship.LaunchDate.Year}");
             }
-            System.IO.File.WriteAllLines("battleship.csv", data);
+            System.IO.File.WriteAllLines("battleship.csv", _data);
 
         }
 
 
         //Fix missing shaft horsepower, assuming 95% efficiency above 1915, otherwise 90%
         //Also get the total difference betwixt the three types of displacements for each nation, so we can convert betwixt them
-        Dictionary<string, List<double>> standardToNormalRatios=new();
-        Dictionary<string, List<double>> standardToDeepRatios=new();
-        Dictionary<string, List<double>> normalToDeepRatios=new();
+        Dictionary<string, List<double>> standardToNormalRatios = new();
+        Dictionary<string, List<double>> standardToDeepRatios = new();
+        Dictionary<string, List<double>> normalToDeepRatios = new();
         standardToNormalRatios["generic"] = new();
         standardToDeepRatios["generic"] = new();
+        normalToDeepRatios["generic"] = new();
         foreach (Ship BB in battleships.Values)
         {
-            if (!BB.powerShp.ContainsKey(false))
+            if (!BB.powerShp.ContainsKey(true) || BB.powerShp[true]==0)
                 BB.powerShp[true] = BB.powerShp[false] * (BB.LaunchDate.Year > 1904 ? 0.95 : 0.9);
             if (BB.displacementMT.ContainsKey(Ship.Displacement.Standard) && BB.displacementMT.ContainsKey(Ship.Displacement.Normal))
             {
@@ -375,15 +378,197 @@ public static class getBattleships
                     normalToDeepRatios[BB.Navy] = new();
                 double ratio = BB.displacementMT[Ship.Displacement.Deep] / BB.displacementMT[Ship.Displacement.Normal];
                 normalToDeepRatios[BB.Navy].Add(ratio);
+                if (BB.Navy == "United States")
+                    Console.WriteLine("Add "+ratio+" from "+BB.Name);
                 normalToDeepRatios["generic"].Add(ratio);
             }
 
         }
         foreach (Ship BC in battlecruisers.Values)
         {
-            if (!BC.powerShp.ContainsKey(false))
-                BC.powerShp[true] = BC.powerShp[false] * (BC.LaunchDate.Year > 1904 ? 0.95 : 0.9);
+            if (!BC.powerShp.ContainsKey(true) || BC.powerShp[true]==0)
+            {
+                if (BC.powerShp.ContainsKey(false))
+                    BC.powerShp[true] = BC.powerShp[false] * (BC.LaunchDate.Year > 1904 ? 0.95 : 0.9);
+                if (BC.displacementMT.ContainsKey(Ship.Displacement.Standard) && BC.displacementMT.ContainsKey(Ship.Displacement.Normal))
+                {
+                    if (!standardToNormalRatios.ContainsKey(BC.Navy))
+                        standardToNormalRatios[BC.Navy] = new();
+                    double ratio = BC.displacementMT[Ship.Displacement.Normal] / BC.displacementMT[Ship.Displacement.Standard];
+                    standardToNormalRatios[BC.Navy].Add(ratio);
+                    standardToNormalRatios["generic"].Add(ratio);
+                }
+                if (BC.displacementMT.ContainsKey(Ship.Displacement.Standard) && BC.displacementMT.ContainsKey(Ship.Displacement.Deep))
+                {
+                    if (!standardToDeepRatios.ContainsKey(BC.Navy))
+                        standardToDeepRatios[BC.Navy] = new();
+                    double ratio = BC.displacementMT[Ship.Displacement.Deep] / BC.displacementMT[Ship.Displacement.Standard];
+                    standardToDeepRatios[BC.Navy].Add(ratio);
+                    standardToDeepRatios["generic"].Add(ratio);
+                }
+                if (BC.displacementMT.ContainsKey(Ship.Displacement.Normal) && BC.displacementMT.ContainsKey(Ship.Displacement.Deep))
+                {
+                    if (!normalToDeepRatios.ContainsKey(BC.Navy))
+                        normalToDeepRatios[BC.Navy] = new();
+                    double ratio = BC.displacementMT[Ship.Displacement.Deep] / BC.displacementMT[Ship.Displacement.Normal];
+                    normalToDeepRatios[BC.Navy].Add(ratio);
+                    normalToDeepRatios["generic"].Add(ratio);
+                if (BC.Navy == "United States")
+                    Console.WriteLine("Add "+ratio+" from "+BC.Name);
+                }
+            }
         }
+
+        Dictionary<string, double> standardToNormalRatio = new();
+        Dictionary<string, double> standardToDeepRatio = new();
+        Dictionary<string, double> normalToDeepRatio = new();
+
+
+        //Calculate mean ratio of displacement conversion for each navy
+        foreach (var navy in normalToDeepRatios.Keys)
+        {
+            double avg = 0;
+            double var = 0;
+            double sig = 0;
+            if (normalToDeepRatios[navy].Count > 0)
+            {
+                foreach (double ratio in normalToDeepRatios[navy])
+                {
+                    avg += ratio / (double)normalToDeepRatios[navy].Count;
+                }
+                foreach (double ratio in normalToDeepRatios[navy])
+                {
+                    var += (ratio - avg) * (ratio - avg) / (double)normalToDeepRatios[navy].Count;
+                }
+                sig = Math.Sqrt(var);
+
+                normalToDeepRatio[navy] = avg;
+                Console.WriteLine(navy + " normal displacement to deep displacement " + avg + "+-" + sig);
+            }
+        }
+
+        Console.WriteLine("\n\n\n");
+
+        //Calculate mean ratio of displacement conversion for each navy
+        foreach (var navy in standardToDeepRatios.Keys)
+        {
+            double avg = 0;
+            double var = 0;
+            double sig = 0;
+            if (standardToDeepRatios[navy].Count > 0)
+            {
+                foreach (double ratio in standardToDeepRatios[navy])
+                {
+                    avg += ratio / (double)standardToDeepRatios[navy].Count;
+                }
+                foreach (double ratio in standardToDeepRatios[navy])
+                {
+                    var += (ratio - avg) * (ratio - avg) / (double)standardToDeepRatios[navy].Count;
+                }
+                sig = Math.Sqrt(var);
+
+                Console.WriteLine(navy + " standard displacement to deep displacement " + avg + "+-" + sig);
+                standardToDeepRatio[navy] = avg;
+            }
+        }
+
+        Console.WriteLine("\n\n\n");
+        //Calculate mean ratio of displacement conversion for each navy
+        foreach (var navy in standardToNormalRatios.Keys)
+        {
+            double avg = 0;
+            double var = 0;
+            double sig = 0;
+            if (standardToNormalRatios[navy].Count > 0)
+            {
+                foreach (double ratio in standardToNormalRatios[navy])
+                {
+                    avg += ratio / (double)standardToNormalRatios[navy].Count;
+                }
+                foreach (double ratio in standardToNormalRatios[navy])
+                {
+                    var += (ratio - avg) * (ratio - avg) / (double)standardToNormalRatios[navy].Count;
+                }
+                sig = Math.Sqrt(var);
+
+                Console.WriteLine(navy + " standard to normal displacement " + avg + "+-" + sig);
+                standardToNormalRatio[navy] = avg;
+            }
+        }
+        
+
+        //Now output the entire data as another CSV
+        List<String> data = new List<String>();
+        data.Add($"name,class,navy,normal displacement,shaft horsepower,speed,year,power to weight,type");
+        foreach (Ship ship in battleships.Values)
+        {
+            double standardDisplacement=0;
+            double deepDisplacement=0;
+            double normalDisplacement=0;
+
+            //Try to get standard or deep displacement, and estimate normal displacements from each
+            if (ship.displacementMT.ContainsKey(Ship.Displacement.Standard))
+            {
+                standardDisplacement = ship.displacementMT[Ship.Displacement.Standard];
+                if (standardToNormalRatio.ContainsKey(ship.Navy))
+                    normalDisplacement = standardToNormalRatio[ship.Navy] * standardDisplacement;
+                else
+                    normalDisplacement=standardToNormalRatio["generic"]*standardDisplacement;
+            }
+            if (ship.displacementMT.ContainsKey(Ship.Displacement.Deep))
+            {
+                deepDisplacement = ship.displacementMT[Ship.Displacement.Deep];
+                if (normalDisplacement == 0)
+                {
+                    if (normalToDeepRatio.ContainsKey(ship.Navy))
+                            normalDisplacement = (1.0/normalToDeepRatio[ship.Navy]) * deepDisplacement;
+                        else
+                            normalDisplacement = (1.0/normalToDeepRatio["generic"]) * deepDisplacement;
+
+                }
+            }
+            if (ship.displacementMT.ContainsKey(Ship.Displacement.Normal))
+            {
+                normalDisplacement= ship.displacementMT[Ship.Displacement.Normal];
+            }
+
+            data.Add($"{ship.Name},{ship.ClassName},{ship.Navy},{normalDisplacement},{ship.powerShp[true]},{ship.speedKn},{ship.LaunchDate.Year},{ship.powerShp[true]/normalDisplacement},BB");
+        }
+        foreach (Ship ship in battlecruisers.Values)
+        {
+            double standardDisplacement=0;
+            double deepDisplacement=0;
+            double normalDisplacement=0;
+
+            //Try to get standard or deep displacement, and estimate normal displacements from each
+            if (ship.displacementMT.ContainsKey(Ship.Displacement.Standard))
+            {
+                standardDisplacement = ship.displacementMT[Ship.Displacement.Standard];
+                if (standardToNormalRatio.ContainsKey(ship.Navy))
+                    normalDisplacement = standardToNormalRatio[ship.Navy] * standardDisplacement;
+                else
+                    normalDisplacement=standardToNormalRatio["generic"]*standardDisplacement;
+            }
+            if (ship.displacementMT.ContainsKey(Ship.Displacement.Deep))
+            {
+                deepDisplacement = ship.displacementMT[Ship.Displacement.Deep];
+                if (normalDisplacement == 0)
+                {
+                    if (normalToDeepRatio.ContainsKey(ship.Navy))
+                            normalDisplacement = (1.0/normalToDeepRatio[ship.Navy]) * deepDisplacement;
+                        else
+                            normalDisplacement = (1.0/normalToDeepRatio["generic"]) * deepDisplacement;
+
+                }
+            }
+            if (ship.displacementMT.ContainsKey(Ship.Displacement.Normal))
+            {
+                normalDisplacement= ship.displacementMT[Ship.Displacement.Normal];
+            }
+
+            data.Add($"{ship.Name},{ship.ClassName},{ship.Navy},{normalDisplacement},{ship.powerShp[true]},{ship.speedKn},{ship.LaunchDate.Year},{ship.powerShp[true]/normalDisplacement},BC");
+        }
+        System.IO.File.WriteAllLines("ships_normal_power.csv", data);
         
     }
 }

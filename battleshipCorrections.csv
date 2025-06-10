@@ -24,10 +24,12 @@ SMS_Radetzky,Radetzky-class_battleship,Austria-Hungary,null,null,14732,null,1980
 SMS_Tegetthoff_(1912),Tegetthoff-class_battleship,Austria-Hungary,null,null,21689,null,26400,20,1912
 SMS_Westfalen,Nassau-class_battleship,German Empire,null,21000,18873,null,21700,19,1908
 SMS_Zrínyi,Radetzky-class_battleship,Austria-Hungary,null,null,14732,null,20000,20,1910
-USS_Colorado_(BB-45),Colorado-class_battleship,United States,null,33121.6,null,null,28900,21,1921
+USS_Colorado_(BB-45),Colorado-class_battleship,United States,null,33121.6,null,null,31268,21,1921
 USS_Idaho_(BB-24),Mississippi-class_battleship,United States,null,14697,13209,null,10000,17,1905
 USS_Indiana_(BB-1),Indiana-class_battleship,United States,10452.608,null,null,null,9000,15,1893
 USS_Maryland_(BB-46),Colorado-class_battleship,United States,null,null,33121.6,null,28900,21,1920
-USS_Mississippi_(BB-23),Mississippi-class_battleship,United States,null,14697,13000,0,null,17,1905
+USS_Mississippi_(BB-23),Mississippi-class_battleship,United States,null,14697,13000,10000,null,17,1905
 USS_Nevada_(BB-36),Nevada-class_battleship,United States,null,null,27500,null,24800,20,1914
 USS_New_Jersey_(BB-62),Iowa-class_battleship,United States,50454,null,60960,null,53000,33,1942
+USS_Florida_(BB-30),Florida-class_battleship,United States,null,23401.528,21825,null,28000,21,1910
+USS_Pennsylvania_(BB-38),Pennsylvania-class_battleship,United States,null,32427.672,null,null,34000,21,1915

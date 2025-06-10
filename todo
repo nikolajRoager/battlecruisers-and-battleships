@@ -1,3 +1,6 @@
+RESOLVED, early errors with regex
+============
+
 There are some errors in finding displacement in the following cases
 
 Ill formated displacement, fix Wikipedia instead
@@ -54,3 +57,18 @@ Unknown regex error
 
     Russian_battleship_Slava
     Russian_battleship_Tsesarevich
+
+
+Later errors with data analysis
+=============
+All data has been collected, but there are plenty of errors due to my bot misunderstanding human errors on wikipedia.
+
+For example, Fast battleship USS New Jersey has power indicated as 4 x 53000 hp turbines, my script reads that as 53000 indicated horsepower, resulting in pre-dreadnought power to weight ratio.
+
+Other errors are noted with USS Pennsylvania and Florida, which return wrong displacement (fuel weight is incorrectly read as entire weight), it is necessary to manually delete these errors
+
+Errors are more likely with US ships, as Americans are sloppy when it comes to formatting, and are incapable of using civilized units of measurement.
+
+It is necessary to plot all data, plot horsepower to tonnes as a function of year and examine obvious outliers
+
+plot horsepower to tonnes as a function of speed and examine obvious outliers
