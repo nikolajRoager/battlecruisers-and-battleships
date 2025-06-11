@@ -118,6 +118,7 @@ public static class getBattleships
             string url = $"https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&format=json&titles={title}";
 
             using HttpClient client = new HttpClient();
+            //Await each individually, rather than in batches, to not overtax my internet
             string response = await client.GetStringAsync(url);
             JObject json = JObject.Parse(response);
 

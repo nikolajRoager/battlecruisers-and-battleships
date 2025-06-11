@@ -14,8 +14,8 @@ HMS_Ramillies_(1892),Royal Sovereign-class_battleship,United Kingdom,null,null,1
 HMS_Resolution_(1892),Royal Sovereign-class_battleship,United Kingdom,null,null,15829.28,40000,null,21.5,1892
 HMS_St._Vincent_(1908),St. Vincent-class_battleship,United Kingdom,null,null,20000,null,24500,21,1908
 Japanese_battleship_Musashi,Yamato-class_battleship,Empire of Japan,64008,null,null,null,150000,27.5,1940
-Russian_battleship_Potemkin,Russian_battleship_Potemkin,Russian Empire,null,null,13107,10600,null,32,1900
-Russian_battleship_Slava,Borodino-class_battleship,Russian Empire,null,15520,14646,15800,null,25.9,1903
+Russian_battleship_Potemkin,Russian_battleship_Potemkin,Russian Empire,null,null,13107,10600,null,16,1900
+Russian_battleship_Slava,Borodino-class_battleship,Russian Empire,null,15520,14646,15800,null,17.5,1903
 Russian_battleship_Tsesarevich,Russian_battleship_Tsesarevich,Russian Empire,null,null,13105,16300,null,18,1901
 SMS_Nassau,Nassau-class_battleship,German Empire,null,21000,18873,null,21700,19,1908
 SMS_Posen,Nassau-class_battleship,German Empire,null,21000,18873,null,21700,19,1908
@@ -33,3 +33,11 @@ USS_Nevada_(BB-36),Nevada-class_battleship,United States,null,null,27500,null,24
 USS_New_Jersey_(BB-62),Iowa-class_battleship,United States,50454,null,60960,null,53000,33,1942
 USS_Florida_(BB-30),Florida-class_battleship,United States,null,23401.528,21825,null,28000,21,1910
 USS_Pennsylvania_(BB-38),Pennsylvania-class_battleship,United States,null,32427.672,null,null,34000,21,1915
+HMS_Empress_of_India_(1891),Royal Sovereign-class_battleship,United Kingdom,null,null,14376.4,11000,null,17,1891
+HMS_Hood_(1891),Royal Sovereign-class_battleship,United Kingdom,null,15837.408,15016.48,11000,null,17,1891
+HMS_Ramillies_(1892),Royal Sovereign-class_battleship,United Kingdom,null,null,15829.28,9000,null,15.7,1892
+HMS_Repulse_(1892),Royal Sovereign-class_battleship,United Kingdom,null,null,14376.4,11000,null,17,1892
+HMS_Resolution_(1892),Royal Sovereign-class_battleship,United Kingdom,null,null,15829.28,9000,null,15.7,1892
+HMS_Revenge_(1892),Royal Sovereign-class_battleship,United Kingdom,null,null,14376.4,11000,null,17,1892
+HMS_Royal_Oak_(1892),Royal Sovereign-class_battleship,United Kingdom,null,null,14376.4,11000,null,17,1892
+HMS_Royal_Sovereign_(1891),Royal Sovereign-class_battleship,United Kingdom,null,null,14376.4,11000,null,17,1891
