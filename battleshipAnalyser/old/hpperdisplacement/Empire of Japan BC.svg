@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="300">
+	<rect fill="white" width="800" height="300"/>
+	<path fill="none" stroke="#010101" stroke-width="1" stroke-miterlimit="4" stroke-opacity="0.098039217" d="M50.692 270.039L50.692 15M99.9458 270.039L99.9458 15M149.2 270.039L149.2 15M198.453 270.039L198.453 15M247.707 270.039L247.707 15M296.961 270.039L296.961 15M346.215 270.039L346.215 15M395.469 270.039L395.469 15M444.723 270.039L444.723 15M493.976 270.039L493.976 15M543.23 270.039L543.23 15M592.484 270.039L592.484 15M641.738 270.039L641.738 15M690.992 270.039L690.992 15M740.246 270.039L740.246 15"/>
+	<path fill="none" stroke="#010101" stroke-width="1" stroke-miterlimit="4" stroke-opacity="0.098039217" d="M35.5391 243.293L785 243.293M35.5391 211.122L785 211.122M35.5391 178.951L785 178.951M35.5391 146.78L785 146.78M35.5391 114.609L785 114.609M35.5391 82.4385L785 82.4385M35.5391 50.2675L785 50.2675M35.5391 18.0966L785 18.0966"/>
+	<clipPath id="cl_f1">
+		<rect x="35.539063" y="15" width="749.46094" height="255.03906"/>
+	</clipPath>
+	<g clip-path="url(#cl_f1)">
+		<path fill="none" stroke="#1F77B4" stroke-width="1" stroke-miterlimit="4" d="M69.6055 253.406L69.6055 253.406L69.6055 253.406L69.6055 253.406L523.529 31.633L523.529 31.633L523.529 31.633L523.529 31.633L750.934 117.319"/>
+		<ellipse fill="#1F77B4" cx="69.605469" cy="253.40608" rx="2.5" ry="2.5"/>
+		<ellipse fill="#1F77B4" cx="69.605469" cy="253.40608" rx="2.5" ry="2.5"/>
+		<ellipse fill="#1F77B4" cx="69.605469" cy="253.40608" rx="2.5" ry="2.5"/>
+		<ellipse fill="#1F77B4" cx="69.605469" cy="253.40608" rx="2.5" ry="2.5"/>
+		<ellipse fill="#1F77B4" cx="523.52869" cy="31.63298" rx="2.5" ry="2.5"/>
+		<ellipse fill="#1F77B4" cx="523.52869" cy="31.63298" rx="2.5" ry="2.5"/>
+		<ellipse fill="#1F77B4" cx="523.52869" cy="31.63298" rx="2.5" ry="2.5"/>
+		<ellipse fill="#1F77B4" cx="523.52869" cy="31.63298" rx="2.5" ry="2.5"/>
+		<ellipse fill="#1F77B4" cx="750.93359" cy="117.31946" rx="2.5" ry="2.5"/>
+	</g>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M50.692 270.039L50.692 274.039"/>
+	<text transform="translate(50.692 276.039)" font-size="12" font-family="Segoe UI" x="-17.472656, -11.003906, -4.5351563, -1.9335938, 4.5351563, 11.003906, " y="11.027344, ">
+			27,000
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M99.9458 270.039L99.9458 274.039"/>
+	<text transform="translate(99.9458 276.039)" font-size="12" font-family="Segoe UI" x="-17.472656, -11.003906, -4.5351563, -1.9335938, 4.5351563, 11.003906, " y="11.027344, ">
+			28,000
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M149.2 270.039L149.2 274.039"/>
+	<text transform="translate(149.2 276.039)" font-size="12" font-family="Segoe UI" x="-17.472656, -11.003906, -4.5351563, -1.9335938, 4.5351563, 11.003906, " y="11.027344, ">
+			29,000
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M198.453 270.039L198.453 274.039"/>
+	<text transform="translate(198.453 276.039)" font-size="12" font-family="Segoe UI" x="-17.472656, -11.003906, -4.5351563, -1.9335938, 4.5351563, 11.003906, " y="11.027344, ">
+			30,000
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M247.707 270.039L247.707 274.039"/>
+	<text transform="translate(247.707 276.039)" font-size="12" font-family="Segoe UI" x="-17.472656, -11.003906, -4.5351563, -1.9335938, 4.5351563, 11.003906, " y="11.027344, ">
+			31,000
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M296.961 270.039L296.961 274.039"/>
+	<text transform="translate(296.961 276.039)" font-size="12" font-family="Segoe UI" x="-17.472656, -11.003906, -4.5351563, -1.9335938, 4.5351563, 11.003906, " y="11.027344, ">
+			32,000
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M346.215 270.039L346.215 274.039"/>
+	<text transform="translate(346.215 276.039)" font-size="12" font-family="Segoe UI" x="-17.472656, -11.003906, -4.5351563, -1.9335938, 4.5351563, 11.003906, " y="11.027344, ">
+			33,000
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M395.469 270.039L395.469 274.039"/>
+	<text transform="translate(395.469 276.039)" font-size="12" font-family="Segoe UI" x="-17.472656, -11.003906, -4.5351563, -1.9335938, 4.5351563, 11.003906, " y="11.027344, ">
+			34,000
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M444.723 270.039L444.723 274.039"/>
+	<text transform="translate(444.723 276.039)" font-size="12" font-family="Segoe UI" x="-17.472656, -11.003906, -4.5351563, -1.9335938, 4.5351563, 11.003906, " y="11.027344, ">
+			35,000
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M493.976 270.039L493.976 274.039"/>
+	<text transform="translate(493.976 276.039)" font-size="12" font-family="Segoe UI" x="-17.472656, -11.003906, -4.5351563, -1.9335938, 4.5351563, 11.003906, " y="11.027344, ">
+			36,000
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M543.23 270.039L543.23 274.039"/>
+	<text transform="translate(543.23 276.039)" font-size="12" font-family="Segoe UI" x="-17.472656, -11.003906, -4.5351563, -1.9335938, 4.5351563, 11.003906, " y="11.027344, ">
+			37,000
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M592.484 270.039L592.484 274.039"/>
+	<text transform="translate(592.484 276.039)" font-size="12" font-family="Segoe UI" x="-17.472656, -11.003906, -4.5351563, -1.9335938, 4.5351563, 11.003906, " y="11.027344, ">
+			38,000
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M641.738 270.039L641.738 274.039"/>
+	<text transform="translate(641.738 276.039)" font-size="12" font-family="Segoe UI" x="-17.472656, -11.003906, -4.5351563, -1.9335938, 4.5351563, 11.003906, " y="11.027344, ">
+			39,000
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M690.992 270.039L690.992 274.039"/>
+	<text transform="translate(690.992 276.039)" font-size="12" font-family="Segoe UI" x="-17.472656, -11.003906, -4.5351563, -1.9335938, 4.5351563, 11.003906, " y="11.027344, ">
+			40,000
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M740.246 270.039L740.246 274.039"/>
+	<text transform="translate(740.246 276.039)" font-size="12" font-family="Segoe UI" x="-17.472656, -11.003906, -4.5351563, -1.9335938, 4.5351563, 11.003906, " y="11.027344, ">
+			41,000
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M40.8412 270.039L40.8412 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M60.5428 270.039L60.5428 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M70.3935 270.039L70.3935 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M80.2443 270.039L80.2443 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M90.0951 270.039L90.0951 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M109.797 270.039L109.797 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M119.647 270.039L119.647 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M129.498 270.039L129.498 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M139.349 270.039L139.349 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M159.05 270.039L159.05 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M168.901 270.039L168.901 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M178.752 270.039L178.752 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M188.603 270.039L188.603 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M208.304 270.039L208.304 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M218.155 270.039L218.155 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M228.006 270.039L228.006 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M237.857 270.039L237.857 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M257.558 270.039L257.558 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M267.409 270.039L267.409 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M277.26 270.039L277.26 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M287.11 270.039L287.11 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M306.812 270.039L306.812 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M316.663 270.039L316.663 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M326.513 270.039L326.513 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M336.364 270.039L336.364 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M356.066 270.039L356.066 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M365.916 270.039L365.916 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M375.767 270.039L375.767 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M385.618 270.039L385.618 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M405.32 270.039L405.32 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M415.17 270.039L415.17 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M425.021 270.039L425.021 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M434.872 270.039L434.872 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M454.573 270.039L454.573 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M464.424 270.039L464.424 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M474.275 270.039L474.275 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M484.126 270.039L484.126 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M503.827 270.039L503.827 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M513.678 270.039L513.678 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M523.529 270.039L523.529 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M533.379 270.039L533.379 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M553.081 270.039L553.081 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M562.932 270.039L562.932 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M572.783 270.039L572.783 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M582.633 270.039L582.633 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M602.335 270.039L602.335 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M612.186 270.039L612.186 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M622.036 270.039L622.036 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M631.887 270.039L631.887 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M651.589 270.039L651.589 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M661.439 270.039L661.439 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M671.29 270.039L671.29 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M681.141 270.039L681.141 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M700.842 270.039L700.842 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M710.693 270.039L710.693 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M720.544 270.039L720.544 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M730.395 270.039L730.395 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M750.096 270.039L750.096 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M759.947 270.039L759.947 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M769.798 270.039L769.798 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M779.649 270.039L779.649 272.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 270.039L785 270.039"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 15.1L785 15.1"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 243.293L31.5391 243.293"/>
+	<text transform="translate(26.5391 243.293)" font-size="12" font-family="Segoe UI" x="-15.539063, -9.0703125, -6.46875, " y="3.046875, ">
+			2.4
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 211.122L31.5391 211.122"/>
+	<text transform="translate(26.5391 211.122)" font-size="12" font-family="Segoe UI" x="-15.539063, -9.0703125, -6.46875, " y="3.046875, ">
+			2.6
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 178.951L31.5391 178.951"/>
+	<text transform="translate(26.5391 178.951)" font-size="12" font-family="Segoe UI" x="-15.539063, -9.0703125, -6.46875, " y="3.046875, ">
+			2.8
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 146.78L31.5391 146.78"/>
+	<text transform="translate(26.5391 146.78)" font-size="12" font-family="Segoe UI" x="-6.46875, " y="3.046875, ">
+			3
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 114.609L31.5391 114.609"/>
+	<text transform="translate(26.5391 114.609)" font-size="12" font-family="Segoe UI" x="-15.539063, -9.0703125, -6.46875, " y="3.046875, ">
+			3.2
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 82.4385L31.5391 82.4385"/>
+	<text transform="translate(26.5391 82.4385)" font-size="12" font-family="Segoe UI" x="-15.539063, -9.0703125, -6.46875, " y="3.046875, ">
+			3.4
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 50.2675L31.5391 50.2675"/>
+	<text transform="translate(26.5391 50.2675)" font-size="12" font-family="Segoe UI" x="-15.539063, -9.0703125, -6.46875, " y="3.046875, ">
+			3.6
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 18.0966L31.5391 18.0966"/>
+	<text transform="translate(26.5391 18.0966)" font-size="12" font-family="Segoe UI" x="-15.539063, -9.0703125, -6.46875, " y="3.046875, ">
+			3.8
+	</text>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 269.03L33.5391 269.03"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 262.596L33.5391 262.596"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 256.162L33.5391 256.162"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 249.728L33.5391 249.728"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 236.859L33.5391 236.859"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 230.425L33.5391 230.425"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 223.991L33.5391 223.991"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 217.557L33.5391 217.557"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 204.688L33.5391 204.688"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 198.254L33.5391 198.254"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 191.82L33.5391 191.82"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 185.386L33.5391 185.386"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 172.517L33.5391 172.517"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 166.083L33.5391 166.083"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 159.649L33.5391 159.649"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 153.215L33.5391 153.215"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 140.346L33.5391 140.346"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 133.912L33.5391 133.912"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 127.478L33.5391 127.478"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 121.044L33.5391 121.044"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 108.175L33.5391 108.175"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 101.741L33.5391 101.741"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 95.3069L33.5391 95.3069"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 88.8727L33.5391 88.8727"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 76.0043L33.5391 76.0043"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 69.5701L33.5391 69.5701"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 63.1359L33.5391 63.1359"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 56.7017L33.5391 56.7017"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 43.8333L33.5391 43.8333"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 37.3991L33.5391 37.3991"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 30.965L33.5391 30.965"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 24.5308L33.5391 24.5308"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M35.5391 270.039L35.5391 15"/>
+	<path fill="none" stroke="black" stroke-width="1" stroke-miterlimit="4" d="M785 270.039L785 15"/>
+</svg>
