@@ -134,6 +134,7 @@ public static class getBattleships
             {
                 //It is not null, I know it is not null, but the compiler doesn't
                 string? wikitext = (string?)page?.First?["revisions"]?[0]?["*"];
+                //Skip empty pages, but my best guess is this never happens
                 if (wikitext == null)
                     continue;
                 //End of AI generated code
@@ -162,22 +163,12 @@ public static class getBattleships
                 //I will try to explain each section of the regex string in the comments below the string 
                 //You should turn off text wrap for it to be clear 
                 Regex MatchShipLine = new Regex(@"(?<=\|-\n)\|.*?({{.*?}}).*?[\|\||\n].*?(\d+-\d+-\d+).*?[\|\||\n](.*?)[\|\||\n\|].*?\[\[(.*?)\]\].*?[\|\||\n].*?({{.*?}})");
-                /*                                +-A------++B+C+-D------++C++-E--------++C++---F--------+C++-E--------++C++--G----++C+++E----------++C++-E----------+C++-E----------+C++-H----
-                A: Positive look-behind, find anything after a newline, a |, and a space
-                B: Start of line
-                C: Any characters betwixt elements, matches as FEW as possible
-                D: Capture group, captures the wikipedia link to the ship
-                E: Table seperator or however you spell it
-                F: Capture YEAR-MONTH-DAY ship was launched, often 4 chars, 2 chars, and 2 chars, but not always
-                G: Captures link to ship type
-                H: captures link to operating navy
-                */
+                
                 var Matches = MatchShipLine.Matches(wikitext);
                 foreach (Match MatchShipLineMatch in Matches)
                 {
-                    //Console.WriteLine("MATCHED SHIP WITH THE FOLLOWING DATA");
                     string fullMatch = MatchShipLineMatch.Groups[0].Value;
-                    //      Console.WriteLine($"Full match =\"{fullMatch}\"");
+                    
                     string shipLink = MatchShipLineMatch.Groups[1].Value;
                     //This will be a template {{ship|name|disambiquation|display}}
                     //Or a navy specific like {{hms|name|pendant or year|display}}
@@ -256,6 +247,8 @@ public static class getBattleships
             foreach (var ship in battleships.Values)
             {
                 Console.WriteLine($"\n\nReading {ship.Name} ({ship.LaunchDate.Year}) {++i}/{battleships.Count}");
+                //Wait for each download to finish before starting the next,
+                //to avoid killing my internet connection
                 await ship.DownloadData();
             }
 
@@ -345,7 +338,7 @@ public static class getBattleships
         }
 
 
-        //Fix missing shaft horsepower, assuming 95% efficiency above 1915, otherwise 90%
+        //Fix missing shaft horsepower, assuming 95% efficiency above 1904, otherwise 90%
         //Also get the total difference betwixt the three types of displacements for each nation, so we can convert betwixt them
         Dictionary<string, List<double>> standardToNormalRatios = new();
         Dictionary<string, List<double>> standardToDeepRatios = new();

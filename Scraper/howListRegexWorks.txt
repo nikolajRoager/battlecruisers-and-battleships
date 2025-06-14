@@ -1,0 +1,76 @@
+﻿This is what an element in the list looks like:
+
+|-
+| {{SMS|Árpád||2}}
+| 1901-09-11{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=272}} 
+| {{sclass|Habsburg|battleship|4}}
+| [[Pre-dreadnought]]
+| {{navy|Austria-Hungary}}
+| Awarded to UK 1920, scrapped 1921{{sfn|Gardiner|Chesneau|Kolesnik|1979|p=272}}
+
+Essentially we have
+
+|-
+| {{Name, and disambiguation}}
+| Date launched in yyyy-mm-dd maybe with a source
+| {{sclass|class name|battleship| number}}
+| type, according to wikipedia
+| {{navy|whoever owns this}}
+| Some comment, may or may not be there
+
+Maybe there will be newlines, maybe the different columns are seperated by ||, or a newline and a single | like this,
+maybe there will be any number of spaces,
+oh and there might be some random information here, and here (comment and source) we don't care about
+
+
+To find the start, we use a look-behind for the vertical line, the minus, and newline. So we don't want that, we just want the thing after it
+
+(?<=\|-\n)
+
+the \n means new-line by the way, and \| is just | because | means something special in regex, the next thing is 
+
+\|.*?({{.*?}}).*?
+
+This looks for and saves the ship name, first we look for | and .*? is any number of characters, in our case spacess,
+everything in () is something we want to save
+and {{.*?}} just means anything in two {{}}, so this finds and saves this part
+
+[\|\||\n]
+
+Is in a lot of places, and it means EITHER || OR a newline, which is one of the two ways different columns can be seperated
+
+
+
+.*?(\d+-\d+-\d+).*?
+
+Well, then we capture and save any number of digits, that is what \d+ means, a minus, any number of digits, another minus, and any number of digits
+
+That essentially could be a year, month, day like 1904-04-03
+
+Then a .*? captures and doesn't save everything until the next column:
+
+[\|\||\n]
+
+
+
+Then we capture everything to do with the class:
+(.*?)
+[\|\||\n\|]
+
+
+I don't know why I included  that \| only here; it is everywhere and usually this .*? just matches and ignores this
+
+Capture the type inside [[]] (I don't actually use this for anything but I still save it
+.*?
+\[\[(.*?)\]\]
+
+Got to the next line
+.*?
+[\|\||\n]
+
+Finally we capture and save every information about the navy
+
+.*?
+({{.*?}})
+
+So this is how this line of regex works

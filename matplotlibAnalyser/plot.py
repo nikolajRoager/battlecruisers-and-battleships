@@ -10,7 +10,7 @@ min_year =np.min(data['year'])
 max_year =np.max(data['year'])+1
 
 
-step=2;
+step=100;
 
 for year in range(min_year,max_year,step):
     print(year,' to ',year+step);
@@ -103,7 +103,7 @@ for year in range(min_year,max_year,step):
                         if prevyear!=launch[i]:
                             prevyear=launch[i]
                             offset=0
-                        plt.text(x[i],y[i]+offset,name[i])
+      #                  plt.text(x[i],y[i]+offset,name[i])
 
                         offset-=0.01
                         prevy =y[i]

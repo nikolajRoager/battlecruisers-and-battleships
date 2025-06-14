@@ -1,0 +1,38 @@
+﻿Now, first thing first, the line with power starts with either a star * or an = and then some spaces
+
+[\*=].*?
+
+
+by the way, anything inside square brackets means either one of these
+
+Then we have the word convert, or cvt, here seperated by a | without a slash, this inside a () means either convert, or cvt
+
+{{(convert|cvt)\|
+
+Now, the number can either be written as
+
+ 2,000|to|2,500
+ 
+ or maybe 2,000-2,500
+ 
+ or just 2,000
+ 
+ In any case, we want the lower bound, we again use a | to get one out of three option like this
+
+((?<number1>\d+(,\d+)?)\|to\|\d+(,\d+)|
+(?<number2>\d+(,\d+)?)-\d+(,\d+)|
+(?<number3>\d+(,\d+)?))
+
+Essentially, the last case match 2,000| or 2000, the middle match 2,000-2,500, the first match 2,000|to|2500
+
+By the way, the ?<name> gives a name to the thing so we can easily find it again
+
+Finally, we want to get the unit this is converted from, we search  for one of these units:
+
+\|(?<from>shp|ihp|kW|PS)
+
+PS means horsepower, because of course it does
+
+shp stands for shaft horsepower, ihp is indicated horsepower, and I assume the others are indicated as well
+
+Im going to be honest, I am not sure whether shp or ihp is metric or imperial horsepower, and i doubt the people who wrote the article knows.
